@@ -1,0 +1,1001 @@
+,source,pred,pred_len,target
+14440,Può venire ai piedi camminando molto,"['gotta', 'camminata', 'scarpa', 'sciatica', 'pantofola']","['ingorgo', 'artrite', 'vescica', 'calzino', 'zoccola']",vescica
+9818,Fastidi difficili da risolvere,"['grane', 'fastidi', 'noie', 'problemi', 'impicci']","['grane', 'grana', 'beghe', 'oneri', 'guaio']",grane
+4398,Si parla in Ungheria,"['ungarico', 'ungherese', 'magiaro', 'magiare', 'moldavo']","['magiaro', 'magiare', 'moldavo', 'magiara', 'magiari']",magiaro
+9245,Fu un famoso capo cinese,"['kuomintang', 'maotsetung', 'confucio', 'tung', 'dengxiaoping']","['mao', 'hua', 'han', 'lin', 'tao']",mao
+15827,Il fumaiolo della nave,"['fumaiolo', 'mantice', 'fumaria', 'soffieria', 'ciminiera']","['soffieria', 'ciminiera', 'comignolo', 'catafalco', 'esalatoio']",ciminiera
+10614,Altro nome del dio Wotan,"['odino', 'wotan', 'thor', 'loki', 'drakar']","['odino', 'wotan', 'ogino', 'aurar', 'aulin']",odino
+8361,Antico strumento musicale a corde pizzicate,"['liuto', 'cetra', 'tiorba', 'ribeca', 'sistro']","['lira', 'azza', 'arpa', 'tari', 'tuba']",lira
+7168,Oggi c'è anche quella elettronica,"['telegrafia', 'messaggistica', 'telematica', 'telegrafo', 'computer']","['telex', 'email', 'posta', 'ecard', 'phone']",posta
+1457,Il Townshend degli Who,"['andy', 'benny', 'cary', 'tommy', 'rick']","['andy', 'cary', 'rick', 'gary', 'nick']",pete
+9932,Sono costituite essenzialmente da amminoacidi,"['proteine', 'amminoacidi', 'vitamine', 'aminoacidi', 'latticini']","['proteine', 'vitamine', 'proteina', 'vitamina', 'proteico']",proteine
+10152,Punto astronomico,"['nadir', 'apogeo', 'zenit', 'occaso', 'empireo']","['nadir', 'zenit', 'apice', 'limbo', 'ovest']",zenit
+20812,Comprendono il fa,"['fa', 'mi', 'fi', 'afi', 'af']","['ferrocianuro', 'fluoroborato', 'fosfonitrile', 'amminofenolo', 'fluoroformio']",notemusicali
+6252,Ha le maglie di ferro,"['rete', 'ghiera', 'catena', 'maglia', 'ferridacalza']","['ghiera', 'catena', 'maglia', 'peltro', 'ottone']",catena
+17851,Un famoso oratore,"['cicerone', 'alberticasellati', 'decarolis', 'sandrocurzi', 'antoniocederna']","['decarolis', 'dulcamara', 'bertolaso', 'gentiloni', 'cernuschi']",demostene
+19116,Il suo plurale è i,"['quelli', 'gli', 'loro', 'dello', 'quello']","['il', ""l'"", 'lo', 'ei', 'pl']",il
+8552,Arma primitiva,"['zagaglia', 'arcobalestro', 'archibugio', 'balestra', 'stiletto']","['clava', 'kriss', 'picca', 'spada', 'skeet']",clava
+19225,Si leggono sul giornale,"['articoli', 'articoletti', 'redazioni', 'editoriali', 'inserti']","['articoli', 'titoloni', 'menzioni', 'postille', 'risvolti']",cronache
+5207,Governano e guidano navi,"['ammiragli', 'timonieri', 'nocchieri', 'capitani', 'armatori']","['ammiragli', 'timonieri', 'nocchieri', 'naviganti', 'equipaggi']",nocchieri
+4579,Inviato al destinatario,"['emesso', 'recapitato', 'spedito', 'messo', 'trasmesso']","['spedito', 'portato', 'erogato', 'inviato', 'emanato']",spedito
+4003,La può indossare il vincitore del ballottaggio,"['giubba', 'guarnacca', 'casacca', 'giacchetta', 'mantellina']","['cotta di maglia', 'giacchetta nera', 'cuoio capelluto', 'corno da caccia', 'scaglione rotto']",fasciatricolore
+19101,Il più vanitoso dei gallinacei,"['quaglia', 'fagiano', 'pernice', 'starna', 'gazza']","['starna', 'pavone', 'astore', 'averla', 'otarda']",pavone
+7015,Lo chiede chi sta cercando,"['dove', 'donde', 'ove', 'laddove', 'quando']","['dove', 'come', 'quio', 'loci', 'ecco']",dove
+3043,Può finire sotto scacco,"['re', 'reuccio', 'regino', 'torre', 'danone']","['re', 'rc', 'cr', 'do', 'ca']",re
+11901,Accademia militare USA,"['westpoint', 'winchester', 'littlebighorn', 'accademiamilitare', 'marines']","['westpoint', 'pentagono', 'jefferson', 'macarthur', 'trafalgar']",westpoint
+6692,Lo erano Turati e Matteotti,"['socialisti', 'tolstoiani', 'romanisti', 'diplomati', 'futuristi']","['socialisti', 'tolstoiani', 'romanzieri', 'architetti', 'mozartiani']",socialisti
+6626,Un copricapo papale da cerimonia,"['tiara', 'triregno', 'tricorno', 'mitria', 'camauro']","['tiara', 'pileo', 'chepì', 'tiare', 'chepi']",tiara
+1297,Contiene foraggi,"['fienile', 'granaio', 'mangiatoia', 'germinatoio', 'silos']","['fienile', 'granaio', 'grangia', 'spinaio', 'greppia']",fienile
+4982,Una due ruote,"['motociclo', 'bici', 'bicicletta', 'motoveicolo', 'ciclomotore']","['motocicletta', 'mountainbike', 'motorscooter', 'bicilindrico', 'motociclette']",motocicletta
+20368,Lo sfortunato Taricone (iniz.),"['pt', 'ptt', 'tp', 'fpt', 'gt']","['pt', 'tp', 'gt', 'jt', 'tt']",pt
+5230,La città del Gaetano che fondò l'Ordine dei Teatini,"['sulmona', 'celano', 'atina', 'utica', 'itri']","['celano', 'anagni', 'gemona', 'alatri', 'airola']",thiene
+10212,Nome del Sommo Poeta,"['jasmin', 'alfeo', 'giacobbe', 'saul', 'evaristo']","['alfeo', 'odilo', 'elias', 'erino', 'alceo']",dante
+10633,Sillaba fra gli alberi,"['si', 'se', 'sì', 'fi', 'sie']","['si', 'se', 'sì', 'fi', 've']",be
+10532,Numeri... raddoppiati o triplicati,"['multipli', 'iterativi', 'ricalchi', 'quadrupli', 'iterati']","['multipli', 'ricalchi', 'numerici', 'doppiati', 'doppioni']",multipli
+7949,Comincia in primavera,"['inverno', 'autunno', 'primavera', 'estate', 'solstizio']","['sgelo', 'marzo', 'feria', 'brina', 'notte']",sgelo
+10819,Isola dell'Asia orientale,"['bali', 'sumatra', 'celebes', 'socotra', 'labuan']","['giava', 'samar', 'ceram', 'ulsan', 'timor']",giava
+6599,Copricapi usati dagli antichi romani,"['mitrie', 'tiare', 'tricorni', 'mitre', 'elmi']","['mitrie', 'mitria', 'petaso', 'carabi', 'timele']",galeri
+19732,"Yo-Yo __, grande violoncellista statunitense","['amya', 'ma', 'ye', 'ya', 'mam']","['ma', 'ye', 'ya', 'yo', 'yu']",ma
+385,Fulmine... a zigzag,"['saetta', 'razzo', 'saettia', 'saette', 'dardo']","['saetta', 'saette', 'bolide', 'baleno', 'astrio']",saetta
+1968,Un'automobile sportiva,"['spider', 'jaguar', 'buick', 'sulky', 'cadillac']","['spider', 'jaguar', 'muscle', 'abarth', 'gokart']",spider
+3836,Musicò La forza del destino,"['lehar', 'auber', 'donizetti', 'meyerbeer', 'dukas']","['lehar', 'auber', 'dukas', 'weber', 'weill']",verdi
+2235,Atto contro il pudore,"['oscenità', 'oscenita', 'immoralita', 'immoralità', 'sudiciume']","['oscenità', 'oscenita', 'iniquità', 'iniquita', 'malgarbo']",oscenità
+16129,Reagiscono pungendo,"['vespe', 'api', 'fuchi', 'apiai', 'apiari']","['api', 'ape', 'ife', 'ves', 'aem']",api
+15579,Ha molti tifosi a Bergamo,"['atalanta', 'benfica', 'sampdoria', 'juventusnapoli', 'spal']","['atalanta', 'hooligan', 'juventus', 'reggiana', 'mourinho']",atalanta
+8443,Ha quattro ruote motrici,"['motoveicolo', 'automotore', 'ciclomotore', 'motoleggera', 'motor']","['suv', 'ape', 'atv', 'bob', 'gmv']",suv
+5244,La si paga perché riferisca,"['ricevuta', 'pedaggio', 'tassa', 'cambiale', 'firma']","['taxa', 'visa', 'nota', 'rata', 'nolo']",spia
+16620,Compianto Jimmy della canzone,"['connors', 'carter', 'oconnor', 'connor', 'kern']","['connors', 'oconnor', 'roberts', 'carteri', 'merritt']",fontana
+10696,Si infila nell'anello a pranzo finito,"['tazzina', 'chicchera', 'succhiello', 'caffettiera', 'tazza']","['succhiello', 'cucchiaino', 'biscottino', 'turacciolo', 'passatutto']",tovagliolo
+15270,"Dignitosi, seri e garbati","['dignitosi', 'decorosi', 'garbati', 'gentili', 'educati']","['decorosi', 'discreti', 'ieratici', 'riveriti', 'eleganti']",decorosi
+17166,Ci trovi moltissimi articoli (ma non è Google),"['libreria', 'bookshop', 'chiosco', 'emeroteca', 'library']","['bazar', 'libro', 'store', 'museo', 'libri']",bazar
+4618,Fascino alla francese,"['charme', 'charmant', 'amour', 'glamour', 'appeal']","['charme', 'appeal', 'gisors', 'esprit', 'sevres']",charme
+13398,Si conservano sotto aceto,"['citriolini', 'cetriolini', 'cetrioli', 'agrumi', 'peperoncini']","['cetrioli', 'finocchi', 'peperoni', 'nervetti', 'zucchine']",cetrioli
+10089,Persone,"['persone', 'individui', 'tizi', 'popoli', 'gente']","['tizi', 'ceti', 'tali', 'enti', 'tipi']",tizi
+7555,Li manovra il deviatore,"['cambi', 'scambi', 'sterzi', 'concambi', 'variatori']","['scambi', 'sterzi', 'tratte', 'prezzi', 'traini']",scambi
+14979,I frutti per la maionese,"['olive', 'arance', 'lamponi', 'limoni', 'melarance']","['arance', 'limoni', 'agrumi', 'prugne', 'susine']",limoni
+11815,Sono diffuse quelle a LED,"['fotoconduttori', 'fotocellule', 'intermittenze', 'luci', 'lampadtne']","['lampadtne', 'scintille', 'lampadine', 'elettrodi', 'emittenze']",lampadine
+4199,Un buffissimo animale polare,"['orsobianco', 'orso', 'orsopolare', 'foca', 'grizzly']","['procione', 'banchisa', 'pinguino', 'orsonero', 'leopardo']",pinguino
+14936,É detta 'pernice grigia',"['starna', 'pernicegrigia', 'pernice', 'faraona', 'coturnice']","['starna', 'otarda', 'smergo', 'airone', 'maribu']",starna
+4824,Strumento della musica popolare napoletana,"['putipu', 'putipù', 'putibu', 'violadagamba', 'cembalo']","['putipu', 'putipù', 'putibu', 'ribeca', 'zufolo']",putipu
+6105,Una... nemica di Bacco,"['astemia', 'ubriacona', 'eretica', 'ebriaca', 'ate']","['astemia', 'eretica', 'ebriaca', 'ubriaca', 'enologa']",astemia
+18415,Ha il nodo alla gola,"['golato', 'rincagnato', 'spasimato', 'rantolante', 'capelluto']","['scorsoio', 'stizzoso', 'nauseato', 'mugolone', 'groppone']",cravatta
+17499,Ha Riga per capitale,"['lettonia', 'lituania', 'lituana', 'estonia', 'lettoni']","['lettonia', 'lituania', 'slovenia', 'lapponia', 'slovacca']",lettonia
+2501,Minerva la mutò in ragno,"['danae', 'aracne', 'atena', 'teti', 'ebe']","['aracne', 'astrea', 'latona', 'ellena', 'cibele']",aracne
+13530,Ha scritto Mistero buffo,"['panofsky', 'fo', 'zavattini', 'pratolini', 'goldoni']","['fo', 'bo', 'oh', 'ff', 'lf']",fo
+8482,Il tempio con il minareto,"['moschea', 'minareto', 'waaba', 'lamecca', 'sinagoga']","['moschea', 'lamecca', 'moschee', 'muezzin', 'sindone']",moschea
+17246,Mitico re di Micene,"['tereo', 'atreo', 'atteone', 'anchise', 'agamennone']","['tereo', 'atreo', 'tideo', 'inaco', 'oineo']",atreo
+16306,Per nulla eccitato,"['atterrenato', 'assiderato', 'appassito', 'refrattario', 'rilassato']","['frigido', 'termico', 'esanime', 'esangue', 'apatico']",frigido
+4032,Componimento ispirato,"['ode', 'melodramma', 'operabuffa', 'operapostuma', 'operetta']","['ode', 'rap', 'odi', 'ars', 'cor']",ode
+15107,Il più famoso tassonomista,"['tarcisiobertone', 'giacomodellaporta', 'leonbattistaalberti', 'guglielmodioccam', 'ubertinodacasale']","['ingrao', 'cavour', 'ozanam', 'ramfis', 'artusi']",linneo
+10864,Malaccorto,"['malcauto', 'malconcio', 'malaugurato', 'goffo', 'malnato']","['malnato', 'iellato', 'incauto', 'cattivo', 'iettato']",incauto
+3570,Così è detto un piccolo stadio,"['palazzetto', 'pioltello', 'peridromo', 'cercoletto', 'gradone']","['stadio', 'scaleo', 'stadia', 'dalino', 'esedra']",catino
+5584,Fuggono davanti al pericolo,"['vili', 'vigliacchi', 'spericolati', 'temerari', 'fuggitivi']","['vili', 'vile', 'spie', 'eroi', 'empi']",vili
+408,Dramma giapponese,"['manga', 'haiku', 'mangaka', 'kakemono', 'nintendo']","['no', 'go', 'yo', 'ni', 'si']",no
+10388,In una canzone... son alti alti alti,"['maschietti', 'bassi', 'uccellini', 'puffi', 'grilli']","['baritoni', 'usignoli', 'canarini', 'tacchini', 'fratelli']",papaveri
+16221,La veste della suora,"['amitto', 'tonaca', 'tunica', 'casula', 'saio']","['amitto', 'tonaca', 'tunica', 'casula', 'tubino']",tonaca
+8192,Fissare la pietra nell' anello,"['incollare', 'inchiodare', 'affiggere', 'calettare', 'incastrare']","['intrecciare', 'incastonare', 'incapsulare', 'agglutinare', 'ammatassare']",incastonare
+482,Secondo,"['ii', 'secondo', 'iii', 'terzo', 'decimo']","['ii', 'iv', 'vi', 'iy', 'ui']",ii
+15141,Di colorito bluastro,"['ceruleo', 'violaceo', 'cerulo', 'indaco', 'cromato']","['azzurrato', 'verdastro', 'monocromo', 'azzurrite', 'daltonico']",cianotico
+9234,La registra uno strumento sull'aereo,"['quota', 'velocità del suono', 'radiofrequenza', 'isocora', 'precisionemillimetrica']","['quota', 'suono', 'marea', 'share', 'aerea']",quota
+8019,La carta più antica,"['papiro', 'pergamena', 'papiraceo', 'oleata', 'patinata']","['papiro', 'oleata', 'ramata', 'velica', 'oliata']",papiro
+8622,"Rompersi, guastarsi","['guastarsi', 'avariarsi', 'incrinarsi', 'rovinarsi', 'scassarsi']","['guastarsi', 'avariarsi', 'rovinarsi', 'scassarsi', 'scomporsi']",scassarsi
+1288,Tra Franklin e Roosevelt,"['roosevelt', 'kennedy', 'delano', 'johnson', 'johnkerry']","['delano', 'donald', 'rhodes', 'truman', 'hoover']",delano
+8743,Un espediente... da imbroglioni,"['inganno', 'raggiro', 'sotterfugio', 'truffa', 'rigiro']","['sotterfugio', 'stratagemma', 'furfanteria', 'imbroglione', 'traccheggio']",truffaldino
+11075,Possono dir Messa,"['chierici', 'predicatori', 'parroci', 'diaconi', 'arcipreti']","['frati', 'preti', 'abati', 'laici', 'prete']",preti
+10459,È roba da chiodi,"['roba', 'chiavarda', 'ghiera', 'tenaglie', 'aggeggio']","['tenaglie', 'aggeggio', 'tenaglia', 'ciondolo', 'spillone']",martello
+17994,Di fili pari,"['ii', 'lii', 'iai', 'ei', 'î']","['ii', 'ei', 'ie', 'li', 'il']",ii
+1077,La Terra è il più noto,"['globo', 'corpoceleste', 'pannello', 'suolo', 'terra']","['pianeta', 'gassoso', 'ecumene', 'pendolo', 'metallo']",pianeta
+12088,Terroristi esperti di esplosivi,"['dinamitardi', 'artificieri', 'detonatori', 'dinamitardo', 'detonatore']","['dinamitardi', 'artificieri', 'dinamitardo', 'attentatori', 'artificiere']",dinamitardi
+14447,Ostentate mostre di sé,"['vanitose', 'vanesie', 'pose', 'sfoggi', 'simulacri']","['esibizioni', 'platealità', 'platealita', 'spacconate', 'smargiasso']",esibizioni
+17792,Il don Giovanni mozartiano,"['don', 'donbosco', 'faliero', 'floris', 'saviano']","['faliero', 'saviano', 'santana', 'amerigo', 'delillo']",tenorio
+18312,"Cantava ""Furia""","['renga', 'dicataldo', 'dallanoce', 'mika', 'massimodicataldo']","['lio', 'raf', 'ron', 'nek', 'mal']",mal
+10049,Dà nome ad una delle più vaste piazze di Parigi,"['etoile', 'étoile', 'montmartre', 'avenue', 'champselysees']","['etoile', 'étoile', 'avenue', 'eiffel', 'espace']",etoile
+16251,Preposizione inglese,"['for', 'and', 'from', 'of', 'by']","['of', 'by', 'in', 'on', 'am']",at
+11677,Il protocollo che si osserva nelle celebrazioni,"['rituale', 'cerimoniale', 'rito', 'ritualmente', 'formalita']","['cerimoniale', 'ritualmente', 'cerimoniali', 'formalmente', 'convenzione']",cerimoniale
+14570,Quelle di riso sono croquettes,"['paste', 'crostate', 'focacce', 'pizze', 'zeppole']","['crostate', 'crostini', 'zollette', 'pagnotte', 'minestre']",polpette
+14773,Esposta alla corrente d'aria,"['ventilata', 'ariosa', 'aerata', 'sfiatata', 'vaporosa']","['ventilata', 'aeriforme', 'irradiata', 'ventilato', 'aeraulica']",ventilata
+11924,Truculento genere cinematografico,"['western', 'thrilling', 'horror', 'pulp', 'jurassicpark']","['thriller', 'spystory', 'kolossal', 'suspense', 'scarface']",splatter
+2053,Un veicolo con enormi ruote posteriori,"['trattore', 'motofurgone', 'motocarro', 'calesse', 'filocarro']","['trattore', 'carretto', 'triciclo', 'carriola', 'palorcio']",trattore
+14321,Fessure di un viscere,"['pertugi', 'meati', 'fossette', 'varici', 'vesciche']","['epe', 'nei', 'ili', 'ife', 'rib']",ili
+4691,Si sente... poco bene,"['indisposto', 'malandato', 'indesiderato', 'malconcio', 'malore']","['gramo', 'afono', 'algia', 'sordo', 'arido']",rauco
+4461,Un'isola senza alture,"['isala', 'isolotto', 'atollo', 'ischia', 'isoletta']","['atollo', 'ischia', 'borneo', 'aranda', 'tahiti']",atollo
+8182,Senza un criterio razionale,"['irrazionalmente', 'irragionevolmente', 'insensatamente', 'assurdamente', 'paradossalmente']","['a caso', 'insani', 'insano', 'iniquo', 'invano']",random
+7431,La presenza dei requisiti,"['idoneità', 'idoneita', 'idoneo', 'idonea', 'idonei']","['idoneità', 'idoneita', 'acconcia', 'acconcio', 'bastante']",idoneita
+16510,Un pesante drappo di seta,"['taffeta', 'drappo', 'tabi', 'taffetta', 'lanina']","['taffeta', 'falpala', 'trangla', 'falpalà', 'macrame']",damasco
+7883,Ogni mezzo che galleggia,"['imbarcazione', 'barca', 'natante', 'barcaamotore', 'veliero']","['natante', 'veliero', 'gommone', 'canotto', 'barcone']",natante
+14002,Lo è colei che dice... ormai!,"['smessa', 'cessata', 'scaduta', 'esausta', 'stanca']","['retrocessa', 'rassegnata', 'sorpassata', 'trasandata', 'rilasciata']",rassegnata
+11830,Animata piazza di Londra,"['square', 'eastend', 'bigben', 'mayfair', 'eastham']","['worldtradecenter', 'buckinghampalace', 'parco letterario', 'manchesterunited', 'davidlivingstone']",piccadillycircus
+17555,Modelli diversi,"['esemplari', 'tipi', 'modelli', 'eterogenei', 'assortimenti']","['tipi', 'vari', 'tipo', 'mode', 'tipe']",tipi
+14778,Assomiglia a una sardina,"['alosa', 'alaccia', 'alice', 'sardella', 'cormorano']","['alosa', 'alice', 'sarda', 'oreta', 'alose']",alice
+17803,Il santone indiano che è un maestro spirituale,"['santone', 'guru', 'pope', 'harekrishna', 'santoni']","['guru', 'pope', 'imam', 'siva', 'veda']",guru
+447,La lettera che molti non capiscono!,"['acca', 'ipsilon', 'iota', 'esse', 'sigmoidea']","['acca', 'iota', 'esse', 'elle', 'erre']",acca
+4641,La maschera più variopinta,"['antigas', 'pierrot', 'scapino', 'arlecchino', 'tabarro']","['arlecchino', 'pulcinella', 'mascherone', 'mascherina', 'doubleface']",arlecchino
+4450,Partiti,"['iti', 'andati', 'trapassati', 'partite', 'vinti']","['andati', 'ceduti', 'recati', 'ridati', 'seduti']",andati
+16297,Quello di Lana è nelle Dolomiti,"['col', 'colle', 'gen', 'sergente', 'costone']","['col', 'gen', 'lac', 'luc', 'cav']",col
+133,"Listare, cancellare","['obliterare', 'azzerare', 'scartare', 'stralciare', 'listare']","['listare', 'elidere', 'cassare', 'elicere', 'cernere']",barrare
+12624,La forma di previdenza ignorata dagli spreconi,"['al risparmio', 'saving', 'risparmioso', 'risparmio', 'risparmiatore']","['risparmio', 'rifusione', 'cautelare', 'esenzione', 'salvavita']",risparmio
+15186,L'Assia del cinema,"['noris', 'winger', 'shandy', 'soren', 'karim']","['noris', 'soren', 'karim', 'oskar', 'ashby']",noris
+6237,Il pachiderma di Ionesco,"['ippopotamo', 'elefantemarino', 'tapirodallagualdrappa', 'rinoceronte', 'orangutan']","['rinoceronte', 'potamochero', 'orangutango', 'elefantessa', 'leonemarino']",rinoceronte
+10113,"Levare, tirare via da un luogo","['asportare', 'trarre', 'espellere', 'prelevare', 'carpire']","['sborrare', 'estrarre', 'scernere', 'scevrare', 'togliere']",togliere
+12507,Le cancella il lifting,"['rughe', 'patine', 'grinze', 'macchie', 'ossa']","['rughe', 'crepe', 'forme', 'barbe', 'tette']",rughe
+20175,La BCE può tagliare quello del denaro,"['costo', 'prezzo', 'acquisto', 'fatturato', 'guadagno']","['costo', 'aggio', 'lucro', 'vitto', 'conto']",costo
+13999,Lido senza pari,"['dd', 'ld', 'dk', 'idv', 'dl']","['dd', 'ld', 'dk', 'dl', 'jd']",ld
+6916,Nativi di Damasco,"['siriani', 'libanesi', 'assiri', 'iracheni', 'irakeni']","['siriani', 'irakeni', 'iranici', 'siriano', 'siriaco']",siriani
+15682,La musica è la loro arte,"['musicisti', 'compositori', 'jazzisti', 'musicanti', 'cantatori']","['poeti', 'bassi', 'music', 'funki', 'fiati']",suoni
+9048,Sonno invincibile,"['letargia', 'letargo', 'dormiveglia', 'torpore', 'sleepover']","['dormiveglia', 'narcolessia', 'catalettico', 'dormiglione', 'ninna nanna']",narcolessia
+6209,Era il nome dei Cavalieri di Malta,"['maltese', 'manor', 'valletto', 'celtic', 'fingal']","['menestrello', 'chippendale', 'mantelletto', 'barchettone', 'zestfulness']",ospedalieri
+19470,Lo sono certi dolori che colpiscono le articolazioni,"['artritici', 'articolari', 'reumatici', 'inguinali', 'addominali']","['artritici', 'reumatici', 'inguinali', 'enartrosi', 'muscolosi']",reumatici
+16506,Soffici sostegni,"['appendiabiti', 'ciaspole', 'spalliere', 'cavicchi', 'mensole']","['mensole', 'riloghe', 'stipiti', 'solette', 'stuoini']",cuscini
+12347,Il ritiro di un ordine,"['revoca', 'estromissione', 'abrogazione', 'abiura', 'apostasia']","['revoca', 'abiura', 'ritiro', 'exvoto', 'ricusa']",revoca
+4194,Ha le sue fasi,"['fase', 'luna', 'ora', 'lunazione', 'lunacalante']","['fase', 'luna', 'vita', 'hora', 'vite']",luna
+16373,Il simbolo del calcio,"['cf', 'fa', 'ca', 'cfc', 'fo']","['cf', 'fa', 'ca', 'fo', 'fc']",ca
+9841,Il nome dell'attrice Chelli,"['alida', 'pamele', 'alisa', 'pamela', 'deborah']","['alida', 'alisa', 'alina', 'alice', 'ethel']",alida
+4877,Fabbrica anche Punto,"['fiat', 'opel', 'nissan', 'mitsubishi', 'suzuki']","['fiat', 'opel', 'seat', 'indy', 'ceat']",fiat
+5277,Lo Stato europeo in cui è il ghiacciaio Vatnajökull,"['finlandia', 'islanda', 'norvegia', 'svezia', 'danimarca']","['islanda', 'estonia', 'irlanda', 'siberia', 'jutland']",islanda
+3538,Capanne d'alta montagna,"['baite', 'baita', 'malghe', 'collinette', 'malga']","['baite', 'baita', 'malga', 'poggi', 'vette']",baite
+5421,"Musicò ""I Puritani""","['donizetti', 'puccini', 'tartini', 'meyerbeer', 'mascagni']","['puccini', 'tartini', 'cottrau', 'strauss', 'kleiber']",bellini
+8892,Prestigioso settimanale culturale (sigla),"['tmc', 'mtm', 'pmt', 'vqpt', 'mtt']","['tmc', 'mtm', 'pmt', 'mtt', 'mto']",tls
+18906,Vi è sepolto Petrarca,"['ravenna', 'arezzo', 'arezio', 'sulmona', 'chieti']","['laura', 'nicea', 'ivrea', 'ardea', 'paola']",arqua
+2554,Vergare,"['sforzare', 'pressare', 'imporre', 'esigere', 'oberare']","['imporre', 'esigere', 'oberare', 'starare', 'forzare']",stilare
+3323,La o dei telegrammi,"['ax', 'o', 'ox', 'oq', 'e']","['aut', 'and', 'otc', 'ach', 'aph']",aut
+1788,Vi si ricava l'indaco,"['talamo', 'loculo', 'favo', 'cella', 'calamo']","['cella', 'cormo', 'utero', 'stame', 'canna']",anile
+11491,Rum e Coca-Cola = Cuba __,"['giamaica', 'giamaicana', 'rum', 'barbados', 'daiquiri']","['avana', 'fidel', 'rumba', 'samba', 'sugar']",libre
+15823,Lo consulta chi attende,"['orario', 'orologio', 'cronometro', 'cronografo', 'menù']","['orologio', 'ordinato', 'ordinale', 'puntuale', 'frigobar']",orologio
+9293,Colei che vende le candele,"['ceroferario', 'cereria', 'fumista', 'ceramista', 'cererie']","['ceroforo', 'stearica', 'sigaraia', 'barbiere', 'neonista']",ceraiola
+19530,"Ostinati, volitivi","['caparbi', 'tenaci', 'pervicaci', 'ostinati', 'pertinaci']","['tenaci', 'decisi', 'dediti', 'alacri', 'tenace']",tenaci
+4678,Le parallele del treno,"['rotaie', 'stazioni', 'binari', 'ascisse', 'linee']","['rotaie', 'binari', 'classi', 'corsie', 'vagoni']",rotaie
+11143,É così il lavoro più umile,"['umile', 'modesto', 'bassissimo', 'miserabile', 'miserevole']","['modesto', 'dimesso', 'abietto', 'leggero', 'frugale']",servile
+16208,Francesco Veracini,"['fv', 'gv', 'wv', 'vf', 'vv']","['fv', 'gv', 'wv', 'vf', 'vv']",fv
+11887,Una mosca dannosissima,"['tsetse', 'olearia', 'tafano', 'tse', 'malarica']","['olearia', 'tossica', 'asinina', 'tsetung', 'cistica']",olearia
+15975,Mettere il tarlo a chi ama,"['redimire', 'butterare', 'godronare', 'arrolare', 'arronzare']","['calamitare', 'tempestare', 'tartassare', 'artigliare', 'impagliare']",ingelosire
+14499,Il tappeto della foresta,"['savana', 'boschetto', 'steppa', 'prateria', 'jungla']","['sottobosco', 'arboricolo', 'fondovalle', 'falsopiano', 'amazzonica']",sottobosco
+16089,Consolidare,"['cementare', 'rafforzare', 'rinsaldare', 'solidificare', 'consolidare']","['cementare', 'insaldare', 'attestare', 'rassodare', 'asserrare']",cementare
+6707,Danneggia le colture,"['siccita', 'grandine', 'gramigna', 'siccità', 'pioggeacide']","['grandine', 'gramigna', 'mosquito', 'zizzania', 'irrorata']",grandine
+8977,Sigfrido lo vince e lo uccide,"['premiostrega', 'goldengol', 'premio', 'premiooscar', 'campionatodelmondo']","['nobel', 'award', 'palio', 'oscar', 'terno']",drago
+2781,Lo sono le parti querelanti,"['negative', 'losche', 'disoneste', 'sporche', 'dannose']","['rare', 'lese', 'vane', 'mere', 'dure']",lese
+20008,Ai piedi del Pordoi,"['doi', 'ali', 'suole', 'pao', 'cardini']","['da', 'do', 'od', 'du', 'de']",oi
+13023,Immerge nel silenzio,"['sordità', 'sordita', 'afonia', 'reticenza', 'sordocecità']","['sordità', 'sordita', 'mutismo', 'foschia', 'zittita']",sordita
+2174,Il... fremito del pauroso,"['brivido', 'tremore', 'fremito', 'tremarella', 'timore']","['brivido', 'tremore', 'fremito', 'terrore', 'fremiti']",tremore
+18939,Nozze,"['imenei', 'matrimoni', 'niviti', 'nascite', 'nozze']","['nozze', 'mogli', 'vezzi', 'nuore', 'figli']",imene
+6384,Figura di nota di quattro quarti,"['semibreve', 'semicerchio', 'semiciclo', 'decaedro', 'interquartile']","['semibreve', 'semiciclo', 'mezzanino', 'semiretto', 'tetraedro']",semibreve
+3733,Il paese famoso per le ocarine,"['castellania', 'acerra', 'castellammaredistabia', 'todi', 'angera']","['acerra', 'angera', 'norcia', 'linosa', 'airola']",budrio
+9072,Approcci... galanti,"['cortesie', 'rammendi', 'riguardi', 'trucchi', 'tagli']","['trucchi', 'corredi', 'spacchi', 'rigaggi', 'lavaggi']",avances
+1182,Il giorno in cui cade la Pasqua,"['venerdì', 'lunedì', 'martedì', 'giovedi', 'giovedì santo']","['domenica', 'trentuno', 'shabbath', 'quartana', 'indomani']",domenica
+3492,Centouno romani,"['cci', 'ci', 'cac', 'cii', 'cic']","['ci', 'cc', 'cx', 'cl', 'lc']",ci
+2950,Una targa toscana,"['tp', 'pt', 'mt', 'pi', 'tr']","['tp', 'pt', 'mt', 'pi', 'tr']",pi
+3405,Le prime di Tzara,"['zt', 'jt', 'tz', 'tt', 'tj']","['zt', 'jt', 'tz', 'tt', 'tj']",tz
+16401,Stretta che imprigiona,"['prigionia', 'coartata', 'legata', 'catturata', 'incarcerazione']","['multa', 'presa', 'presi', 'cinta', 'gassa']",morsa
+14299,Ne fa parte l'AGIP,"['cee', 'comunitaeconomicaeuropea', 'mec', 'ecse', 'comecon']","['cee', 'mec', 'eni', 'ueo', 'uce']",eni
+19340,Doppie nell'addetto,"['dt', 'dtt', 'dlt', 'td', 'tds']","['dt', 'td', 'ft', 'jt', 'tt']",dt
+16656,Lo sono gli avvenimenti,"['avvenimenti', 'fatali', 'eventi', 'lieti', 'capitati']","['biografici', 'casistiche', 'succedanei', 'disastrosi', 'drammatici']",tumultuosi
+8344,Le ha doppie la commessa,"['ms', 'bs', 'ts', 'jps', 'ss']","['ms', 'bs', 'ts', 'ss', 'gs']",ms
+5597,L'imperatore figlio di Agrippina,"['otone', 'alessandromagno', 'costantino', 'ottaviano', 'eliogabalo']","['onorio', 'clodio', 'seiano', 'nerone', 'eurico']",nerone
+15932,Parolina esortativa,"['orsu', 'dai', 'su', 'issa', 'ale']","['su', 'sù', 'sé', 'da', 'op']",su
+10982,La difese Pétain nel 1916,"['grenoble', 'narbona', 'marsiglia', 'normandia', 'sorbonne']","['tolosa', 'amiens', 'parigi', 'rennes', 'alsisi']",verdun
+341,"Malvagio, iniquo","['reprobo', 'scellerato', 'iniquo', 'immorale', 'malvagio']","['rie', 'ria', 'rio', 'rii', 'reo']",reo
+14112,Interrompono i ritiri,"['retrocessioni', 'abbassamenti', 'risalite', 'rientri', 'reintegri']","['retrocessioni', 'irraggiamenti', 'licenziamenti', 'contestazioni', 'rallegramenti']",riapparizioni
+14842,Lo erano per nascita Joyce e Swift,"['irlandesi', 'caledoni', 'inglesi', 'gallesi', 'anglosassoni']","['irlandesi', 'anglofoni', 'anglofili', 'islandesi', 'norvegesi']",irlandesi
+18451,Primo elemento dei composti di... pesce,"['chitina', 'arseno-', '-ene', 'arsina', 'ittio']","['ittio', 'ippo-', 'sino-', 'feno-', '-isto']",ittio
+13022,Una sedia senza gambe,"['sdraia', 'cassapanca', 'dondolo', 'panca', 'sdraio']","['sdraia', 'sdraio', 'chaise', 'sedile', 'canape']",sdraia
+18375,Dà il via alla partita,"['starter', 'playmaker', 'start', 'calciodinizio', 'avviatore']","['calciodinizio', 'arbitraggista', 'palleggiatore', 'raccattapalle', 'calciodangolo']",calciodinizio
+11527,"Evidente, più che chiaro","['evidente', 'ovvio', 'palese', 'lampante', 'espositivo']","['irrefutabile', 'lapalissiano', 'luminescente', 'dimostrativo', 'fluorescente']",lapalissiano
+12017,Ruoli senza vocali,"['rl', 'lr', 'rlc', 'orl', 'tll']","['rl', 'lr', 'll', 'ln', '°r']",rl
+12939,La Santa patrona d'Italia,"['caterinadasiena', 'cecilia', 'zita', 'tecla', 'mariateresa']","['caterinadasiena', 'caterinaseconda', 'elisabettaprima', 'caterinacaselli', 'ritadallachiesa']",caterinadasiena
+11532,Una provincia del Piemonte (sigla),"['mo', 'cn', 'al', 'to', 'lo']","['mo', 'cn', 'al', 'to', 'lo']",al
+19737,Un infuso,"['te', 'tè', 'tisana', 'bibita', 'tedelparaguai']","['te', 'tè', 'tu', 'ti', 'td']",te
+11184,Noto personaggio tv,"['francaleosini', 'pieroangela', 'mikebongiorno', 'gianniversace', 'marcelloveneziani']","['lerner', 'beckam', 'tv1mdb', 'damato', 'tv1kdb']",liorni
+4605,Armi da schermitori,"['spade', 'pugnali', 'stiletti', 'scimitarre', 'lance']","['stiletti', 'alabarde', 'sciabole', 'fioretti', 'carabine']",fioretti
+5112,Una canzone monotona,"['nenia', 'cantilena', 'filastrocca', 'lagna', 'melopea']","['nenia', 'lagna', 'solfa', 'melos', 'nenie']",nenia
+17170,È mansueta quella delle pecore,"['pelame', 'pastura', 'pecora', 'vello', 'gregge']","['pelame', 'pecora', 'gregge', 'merino', 'belare']",indole
+4518,Cibi dati al bestiame,"['mangimi', 'biade', 'allevamenti', 'armenti', 'vitelli']","['mangimi', 'armenti', 'vitelli', 'mangime', 'cereali']",mangimi
+6463,La scienza degli stemmi nobiliari,"['araldica', 'blasone', 'ragioneria', 'arte marziale', 'tattica']","['araldica', 'alchimia', 'araldico', 'politica', 'ufologia']",araldica
+8421,Mezzo vivo,"['vivante', 'essente', 'vivente', 'vivo', 'vegeto']","['ev', 'av', 'fu', 've', 'sv']",vi
+8698,Sono impliciti nella frase,"['presupposti', 'preamboli', 'preposizioni', 'premesse', 'imperativi']","['imperativi', 'insinuanti', 'soprannomi', 'sottintesi', 'precedenti']",sottintesi
+6879,Il Daniele compianto cantautore,"['silvestri', 'piombi', 'pino', 'danieli', 'pinodaniele']","['pino', 'pini', 'olmi', 'govi', 'oren']",pino
+8523,Si usa in cucina,"['accendigas', 'matterello', 'tegame', 'pentolaapressione', 'presina']","['tegame', 'vapore', 'imbuto', 'colino', 'spezia']",colino
+6714,Un bolide celeste,"['meteora', 'meteorite', 'pulsar', 'vanguard', 'sirio']","['meteora', 'meteore', 'sidereo', 'gagarin', 'rockets']",meteora
+17902,Locale tra cucina e sala da pranzo,"['tinello', 'centrotavola', 'anticucina', 'saladattesa', 'antisala']","['cucina', 'tavolo', 'separe', 'buffet', 'lounge']",office
+18465,L'importo di una spesa,"['importo', 'incasso', 'aliquota', 'spesa', 'costo']","['spesa', 'costo', 'conto', 'summa', 'somma']",costo
+12814,La voce del fumatore,"['fumo', 'nicot', 'cicca', 'nettapipe', 'sigaro']","['fumo', 'pipa', 'sigh', 'voce', 'beep']",roca
+2412,Cassette con le celle,"['arnie', 'favi', 'alveari', 'apiari', 'cellette']","['arnie', 'arnia', 'celle', 'fuchi', 'apiai']",arnie
+8506,La compagna del re della foresta,"['leonessa', 'leonealato', 'leone di san marco', 'cita', 'ligre']","['leonessa', 'edredone', 'liocorno', 'leonesse', 'leonetta']",leonessa
+12781,Lo è la mostra di francobolli,"['filatelica', 'cartacea', 'collezione', 'antologia', 'filatelia']","['filatelica', 'collezione', 'cartoleria', 'nastroteca', 'filatelico']",filatelica
+16421,"Ostacolo, impedimento","['intralcio', 'intoppo', 'impedimento', 'ostacolo', 'inconveniente']","['intralcio', 'turbativa', 'sbaraglio', 'penultimi', 'inibitore']",contrasto
+15828,Un animale da compagnia... in inglese,"['spaniel', 'greyhound', 'dog', 'horse', 'beagle']","['dog', 'pet', 'lab', 'pit', 'own']",pet
+5453,Un racconto,"['narrazione', 'cronistoria', 'racconto', 'favola', 'biografia']","['novella', 'istoria', 'narrata', 'cronaca', 'fiction']",novella
+3511,Teramo,"['te', 'teco', 'et', 'tec', 'mt']","['te', 'et', 'mt', 'bt', 'tm']",te
+16190,Pulito e brillante,"['terso', 'lindo', 'limpido', 'lindore', 'nettato']","['terso', 'lindo', 'netta', 'terse', 'netto']",terso
+4600,Il momento della partenza del veicolo spaziale,"['avvio', 'start', 'partenza', 'decollo', 'debutto']","['decollo', 'debutto', 'sgancio', 'esordio', 'imbocco']",orazero
+12534,La quantità in eccedenza,"['eccedenza', 'rimanenza', 'surplus', 'extragettito', 'ammanco']","['surplus', 'ammanco', 'risulta', 'perdita', 'eccesso']",surplus
+14841,Ne è stato seguace Formigoni (sigla),"['cln', 'pli', 'ccd', 'udr', 'udc']","['cl', 'dc', 'lc', 'ln', 'fl']",cl
+10887,Le hanno moli e porti,"['oi', 'oit', 'hi', 'ii', 'ioi']","['oi', 'hi', 'ii', 'od', 'ib']",oi
+5714,Le chitarre suonate dai menestrelli,"['fisarmoniche', 'mandolinate', 'tintinnii', 'sviolinate', 'trilli']","['gorge', 'liuti', 'cetre', 'zirli', 'tromi']",liuti
+19750,É gustoso preparato con i funghi,"['risotto', 'prosciuttocotto', 'prosciutto', 'ossobuco', 'zampone']","['risotto', 'zampone', 'raviolo', 'fonduta', 'gulasch']",risotto
+7816,Un sentimento delicatamente negativo,"['anemoia', 'rimpianto', 'antipatia', 'rancore', 'odio']","['disappunto', 'malinconia', 'malincuore', 'avversione', 'malingonia']",malinconia
+20488,Rema restando in piedi,"['rematore', 'barcaiolo', 'motoscafista', 'motonauta', 'gondoliere']","['gondoliere', 'canottiere', 'nuotatrice', 'pedalatore', 'ramponiere']",gondoliere
+19941,Gradinate per tifosi,"['pedane', 'spalti', 'gradinate', 'podi', 'palei']","['gradini', 'tribune', 'scaloni', 'pallate', 'stinchi']",tribune
+17606,La taglia di chi... ha misure abbondanti,"['extralarge', 'size', 'large', 'oversize', 'maxi']","['large', 'small', 'micro', 'macro', 'vasta']",forte
+17283,Hanno clienti che bevono vino,"['osti', 'vinai', 'baristi', 'birrai', 'cantinieri']","['osti', 'oste', 'ebri', 'beva', 'eno-']",osti
+8764,Il colore dello spiantato,"['verdaccio', 'rosso', 'giallo', 'giallastro', 'rossastro']","['rosso', 'verde', 'bigio', 'rouge', 'fulvo']",verde
+10494,Pappagallo con il ciuffo,"['cacatoa', 'cocorita', 'cacatua', 'araararauna', 'ara']","['cacatoa', 'cacatua', 'quetzal', 'piviere', 'capataz']",cacatua
+19496,Ha le vetture in vetrina,"['autosalone', 'harddiscount', 'mostramercato', 'boutique', 'carrozzeria']","['autosalone', 'vetrinista', 'bancarella', 'espositore', 'autostello']",autosalone
+9675,Li percepiscono i medici,"['compensi', 'onorari', 'indennizzi', 'trattamenti', 'emolumenti']","['onorari', 'sussidi', 'referti', 'terapie', 'diplomi']",onorari
+9052,Rende le labbra seducenti,"['rossetto', 'carezza', 'sorriso', 'rosolio', 'bacione']","['rossetto', 'rossello', 'dolciume', 'vaniglia', 'simpatia']",rossetto
+4546,Una docile giapponese,"['poisha', 'sayonara', 'midori', 'geisha', 'nekomimi']","['poisha', 'midori', 'geisha', 'taroko', 'romaji']",geisha
+13486,__ o mai più!,"['giammai', 'nonche', 'già', 'neanche', 'anziche']","['già', 'mai', 'gia', 'poi', 'pur']",ora
+17372,Gli strumenti nella cassetta del tecnico,"['arnesi', 'macchinari', 'utensili', 'congegni', 'strumenti']","['arnesi', 'arneli', 'organi', 'arnese', 'idonei']",arnesi
+3971,Arcipelago del Pacifico,"['pescadores', 'figi', 'isolevergini', 'galapagos', 'isolecaroline']","['egadi', 'samoa', 'tonga', 'nauru', 'papua']",samoa
+14198,Lo era Petrarca per nascita,"['romagnolo', 'trapanese', 'piacentino', 'emiliano', 'basilicatese']","['etrusco', 'aretino', 'tranese', 'toscano', 'reggino']",aretino
+17321,Può dire di star bene,"['benone', 'vabene', 'benino', 'benissimo', 'bien']","['così sia', 'contento', 'adiabene', 'contente', 'eziandio']",danaroso
+1504,La Day del cinema,"['day', 'bette', 'dana', 'doris', 'debra']","['bette', 'doris', 'debra', 'janis', 'betty']",doris
+10791,Pesce d'acqua dolce,"['tinca', 'temolo', 'persico', 'trota', 'salmone']","['cavedano', 'sogliola', 'merlango', 'pesceago', 'pescetto']",cavedano
+10581,Lavori sul legno,"['intagli', 'intarsi', 'graffiti', 'tarsie', 'murature']","['intagli', 'intarsi', 'mosaici', 'scritte', 'infissi']",intarsi
+4404,Fine di finish,"['hn', 'nk', 'kn', 'wn', 'ny']","['hn', 'nk', 'kn', 'wn', 'ny']",sh
+10752,Grande fiume russo,"['volga', 'oka', 'ural', 'dnepr', 'dnestr']","['oka', 'roj', 'don', 'ili', 'mur']",don
+9119,Uno Stato arabo,"['bahrein', 'arabiasaudita', 'qatar', 'emiratiarabiuniti', 'arabia saudita']","['oman', 'asir', 'iraq', 'iran', 'aden']",iraq
+17463,Città e distretto della Bulgaria,"['timisoara', 'mostar', 'craiova', 'trau', 'lubiana']","['mostar', 'valona', 'belovo', 'oradea', 'podaga']",dobric
+8196,Condizione di ciò che è illusorio,"['inconsistenza', 'irrazionalità', 'sinteticita', 'aporeticità', 'irrazionalita']","['futilità', 'logicità', 'nonsenso', 'basicità', 'irrealtà']",irrealta
+18320,La domestica di una volta,"['ancella', 'serva', 'colf', 'servitora', 'servitu']","['serva', 'serve', 'servo', 'barda', 'servi']",serva
+20511,Le stanze... per il catasto,"['vani', 'ettari', 'aree', 'terreni', 'sterri']","['vani', 'aree', 'fori', 'case', 'muri']",vani
+5117,Non si contraddice,"['coerente', 'consistente', 'assertivo', 'assiduo', 'coesivo']","['coerente', 'convinto', 'assodato', 'persuaso', 'coerenza']",coerente
+7608,"Malvagio, dannato","['malnato', 'perfido', 'malvagio', 'degenerato', 'reprobo']","['malnato', 'perfido', 'reprobo', 'cattivo', 'dannato']",malnato
+5259,Il Gaumont pioniere del cinema,"['claude', 'ricky', 'philippe', 'michael', 'gilles']","['cary', 'yves', 'gino', 'andy', 'paul']",leon
+18175,La punta estrema del Sudamerica,"['aconcagua', 'patagonia', 'capohorn', 'machete', 'menchu']","['capohorn', 'acayucan', 'matamata', 'asuncion', 'veracruz']",capohorn
+718,É la responsabile dei menu,"['cuoca', 'maitre', 'chef', 'gastronoma', 'cameriera']","['cuoca', 'cuoco', 'lista', 'mensa', 'sazia']",cuoca
+8530,Penzolano dalle gru,"['storioni', 'ariste', 'carnieri', 'galletti', 'mangioni']","['prede', 'faine', 'verri', 'lepri', 'basti']",ganci
+3295,I game da vincere a tennis,"['quindici', 'setpoint', 'game', 'three', 'net']","['net', 'sei', 'tre', 'due', 'set']",sei
+5971,"Terreno prativo, tenuto sempre irrigato","['orto', 'erbaio', 'orticolo', 'verziere', 'orticoltura']","['pascolo', 'vigneto', 'marcita', 'agreste', 'granaio']",marcita
+12747,Gli insetti che entrano negli occhi,"['crisalidi', 'scarafaggi', 'moscerini', 'cimici', 'farfalle']","['crisalidi', 'moscerini', 'calabroni', 'elateridi', 'libellule']",moscerini
+7826,"Capitati, accaduti","['capitati', 'capiti', 'coincisi', 'intessuti', 'intesi']","['trovati', 'assolti', 'intuiti', 'sortiti', 'riuniti']",occorsi
+3958,"Scrisse ""Cara"" (iniz.)","['eap', 'em', 'am', 'eb', 'ab']","['em', 'am', 'eb', 'ab', 'cb']",ld
+5857,Insegnamento di Gesù: Ama il prossimo __ come te stesso,"['prossimo', 'vostro', 'altrui', 'nostro', 'tuo']","['tuo', 'suo', 'tua', 'mio', 'tue']",tuo
+4059,Punti terminali,"['terminazioni', 'estremità', 'terminali', 'destinazioni', 'direzioni']","['zoomate', 'vertici', 'visuali', 'estremi', 'sguardi']",estremi
+15684,Altruistica,"['filantropica', 'generosa', 'umana', 'bonaria', 'assegnataria']","['volontaria', 'umanitaria', 'ausiliaria', 'caritativo', 'societaria']",umanitaria
+12304,Appaiati in classifica,"['sorteggiati', 'segnalati', 'prescelti', 'prenotati', 'rilevati']","['noti', 'hits', 'nati', 'rati', 'tali']",pari
+12919,Regola in breve,"['reg', 'rig', 'norm', 'ret', 'rep']","['reg', 'rig', 'ret', 'rep', 'rag']",reg
+10290,Ha sostituito l'Ige,"['ige', 'ilor', 'irap', 'imu', 'iva']","['ige', 'imu', 'iva', 'igt', 'igi']",iva
+3286,"Ippodromo per corse con i ""sulky""","['trotter', 'corral', 'paddock', 'aspen', 'chaparral']","['trotter', 'paddock', 'gincana', 'gimcana', 'maneggi']",trotter
+20406,Inaridite e bruciate,"['arse', 'scottate', 'riarse', 'ustionate', 'vampe']","['arse', 'rase', 'arso', 'usto', 'arsa']",arse
+7882,Piagnistei... da poeti,"['liriche', 'elegie', 'rimari', 'poetucoli', 'carmi']","['lai', 'odi', 'aie', 'asi', 'ode']",lai
+20502,Escluse senza scuse,"['escluse', 'esonerate', 'esentate', 'estromesse', 'eliminate']","['sg', 'eg', 'ug', 'né', 'ig']",el
+15489,Ai lati del letto,"['lo', 'to', 'le', 'la', 'go']","['lodinese', 'lecchese', 'leghismo', 'albigese', 'varesino']",comodini
+13078,Dispari di Eric,"['eq', 'ee', 'rrr', 'ey', 'ec']","['eq', 'ee', 'ey', 'ec', 'rp']",ei
+15055,Era l'abbreviazione del Credito Romagnolo,"['cfr', 'fic', 'fib', 'bcci', 'cuf']","['bcci', 'figc', 'fict', 'vvtb', 'utif']",rolo
+18758,Vezzi settecenteschi,"['nei', 'monili', 'gioiellidellacorona', 'ninnoli', 'gioielli']","['nei', 'ori', 'neo', 'bei', 'egi']",nei
+18485,"Insulse, cretine","['melense', 'sciocche', 'scipite', 'insulse', 'villane']","['sciocche', 'insipide', 'villanie', 'languide', 'bugiarde']",sciocche
+8393,Le pari del chic,"['hy', 'hc', 'yh', 'hx', 'mh']","['hy', 'hc', 'yh', 'hx', 'mh']",hc
+20704,Un famoso santuario marchigiano,"['loreto', 'torreannunziata', 'oropa', 'trocadero', 'sangiorgioacremano']","['loreto', 'fatima', 'orense', 'oviedo', 'osorno']",loreto
+20231,"L'""incompiuta"" di Schonberg che debuttò alla radio","['peergynt', 'utelemper', 'egmont', 'amadeus', 'elfriedejelinek']","['minnesanger', 'luisamiller', 'grillparzer', 'beiderbecke', 'nongiocopiu']",moseearonne
+5653,Non più accesi,"['spenti', 'snebbiati', 'spogli', 'smossi', 'disaerati']","['spenti', 'spogli', 'smossi', 'brulli', 'domati']",spenti
+8939,Ospiti,"['ospitati', 'ospitanti', 'ospitali', 'insalutati', 'accolti']","['ospitati', 'ospitali', 'riveriti', 'inospiti', 'accasati']",invitati
+9047,"Formano il cosidetto ""sesso forte""","['capipartito', 'padroni', 'caporali', 'tribuni', 'baronetti']","['togati', 'baroni', 'correi', 'membri', 'quarti']",uomini
+20438,Tardo di comprendonio,"['tonto', 'stolido', 'ebete', 'scemo', 'stupido']","['tonto', 'ebete', 'scemo', 'tardo', 'tonte']",tonto
+2605,Monte biblico,"['ararat', 'oreb', 'monteararat', 'tabor', 'sinai']","['tabor', 'sinai', 'tofet', 'tobor', 'golem']",tabor
+9791,Metropolitana Milanese,"['mi', 'milano', 'arese', 'monza', 'rho']","['mi', 'μm', 'sm', 'om', 'gm']",mm
+17369,É uno... a Londra,"['one', 'sun', 'the', 'side', 'half']","['one', 'sun', 'the', 'nyt', 'eye']",one
+11794,Sventolano durante il palio senese,"['carriallegorici', 'gondole', 'palii', 'violini', 'carri']","['campanari', 'cavallini', 'carrucole', 'campanule', 'funamboli']",gonfaloni
+6286,Quel che ci si aspetta dal Savoia,"['doleances', 'cadeau', 'tourdefrance', 'villelumiere', 'sangiorgioeildrago']","['jeudepaume', 'hauteloire', 'fradiavolo', 'toureiffel', 'bernadotte']",giuramento
+18987,Le vecchie esperte in sortilegi,"['streghe', 'fate', 'fatine', 'stregoni', 'magiche']","['streghe', 'magiche', 'stregua', 'sibille', 'gorgoni']",streghe
+15080,Richiede spesso punti di sutura,"['sutura', 'ferita', 'ingessatura', 'vulnus', 'enartrosi']","['sutura', 'ferita', 'vulnus', 'ragade', 'suture']",ferita
+10914,Un'opera di Roberto Calasso,"['insciallah', 'alibabaeiquarantaladroni', 'lasmeninas', 'zeroincondotta', 'sipuodaredipiu']","['ko', 'ro', 'ka', 'ku', 'to']",ka
+5357,Con la collaborazione di tutti,"['unanimemente', 'unitamente', 'partecipativamente', 'collaborativamente', 'assieme']","['plenum', 'ognuno', 'intoto', 'sodali', 'indoor']",corale
+9086,Avveduti,"['intuiti', 'assennati', 'accorti', 'consapevoli', 'vedenti']","['intuiti', 'accorti', 'vedenti', 'oculati', 'fiutati']",accorti
+18843,Prominenza addominale,"['epa', 'pomodadamo', 'bitorzolo', 'ventre', 'epe']","['epa', 'epe', 'ilo', 'big', 'oma']",epa
+8086,Un pittore impressionista,"['ingres', 'manet', 'gauguin', 'pissarro', 'degas']","['ingres', 'sironi', 'braque', 'seurat', 'renoir']",renoir
+18043,Fanno parte del gregge,"['montoni', 'ovini', 'velli', 'pastorelli', 'capre']","['pecore', 'belati', 'vapiti', 'arieti', 'bovari']",arieti
+20588,"Gustoso, appetitoso","['appetitoso', 'gustoso', 'saporoso', 'invitante', 'delizioso']","['saporoso', 'saporito', 'squisito', 'saporita', 'saporosa']",saporito
+2346,Così sono detti i giornalisti che accompagnano i marines,"['croceristi', 'vigilidelfuoco', 'scouts', 'marinaretti', 'esploratori']","['rallisti', 'carristi', 'nostromi', 'surfisti', 'dreamers']",embedded
+14992,Appartenenti a noi,"['tuoi', 'suoi', 'nostri', 'nostre', 'miei']","['nostri', 'nostre', 'vostri', 'vostre', 'nostra']",nostri
+7215,Colpito dal fulmine,"['fulminato', 'fulmineo', 'raggiato', 'costellato', 'soleggiato']","['fulminato', 'folgorato', 'fulminati', 'irradiato', 'fulminata']",folgorato
+18275,Ramoscelli d' edera,"['tralci', 'talee', 'sterpi', 'licci', 'frasche']","['tralci', 'sterpi', 'vimini', 'lesene', 'ronche']",tralci
+14844,I prodotti con cui si preparano i contorni,"['alimentari', 'farinacei', 'latticini', 'ortaggi', 'caseari']","['ortaggi', 'caseari', 'cibarie', 'cereali', 'derrate']",ortaggi
+15028,Si conservano affumicate,"['aringhe', 'sogliole', 'sardine', 'alici', 'ombrine']","['aringhe', 'sardine', 'ombrine', 'persici', 'cheppie']",aringhe
+16136,Il latifondo dei vassalli,"['feudo', 'vassallaggio', 'vallo', 'feudalità', 'signoria']","['feudo', 'vallo', 'feudi', 'gotha', 'corte']",feudo
+4930,Devozioni della durata di tre giorni,"['tridui', 'novene', 'trittici', 'lupercali', 'talari']","['tridui', 'novene', 'talari', 'triduo', 'votive']",tridui
+18543,Frutto del... cervello,"['meninge', 'idea', 'intelletto', 'cervello', 'intellettiva']","['intellettiva', 'forma mentis', 'dimenticanza', 'cerebralismo', 'intellettivo']",ragionamento
+16078,Addobbi che si appendono ad arco,"['pendenti', 'catenarie', 'cordoni', 'cordoli', 'funi']","['cordoni', 'cordoli', 'scaleni', 'arcolai', 'anulari']",festoni
+14946,Afferrati dal portiere,"['usciti', 'arpionati', 'investiti', 'centrati', 'entrati']","['usciti', 'difesi', 'mirati', 'tenuti', 'appesi']",parati
+19538,L'erba per il nodino,"['genziana', 'felce', 'brugo', 'salvia', 'ginestra']","['salvia', 'arnica', 'tagete', 'batata', 'ortica']",salvia
+13800,Dà il braccio al cavaliere,"['scudiero', 'palafreniere', 'cavaliere', 'cavalleggero', 'cocchiere']","['dama', 'dame', 'duca', 'arme', 'biga']",dama
+856,Si prova per i sofferenti,"['pietà', 'pieta', 'compassione', 'commiserazione', 'contrizione']","['pietà', 'pieta', 'ohime', 'ahime', 'ahimé']",pietà
+4410,Canale per irrigazione,"['gora', 'gore', 'roggia', 'scolmatore', 'fosso']","['roggia', 'canale', 'skyuno', 'cloaca', 'gomena']",roggia
+15188,C' è chi ne sa... un sacco,"['cose', 'scibile', 'nozioni', 'quiddita', 'materia']","['cose', 'quid', 'modi', 'cosa', 'robe']",cose
+8603,La capitale della Birmania,"['bangkok', 'rangoon', 'dhaka', 'myanmar', 'dacca']","['bangkok', 'rangoon', 'myanmar', 'taskent', 'kolkata']",rangoon
+20344,Convalidare un primato,"['omologare', 'convalidare', 'autenticare', 'ratificare', 'certificare']","['omologare', 'affermare', 'approvare', 'diplomare', 'eccellere']",omologare
+11272,Il regista del Sorpasso,"['antonioni', 'scola', 'monicelli', 'risi', 'ritt']","['pasolini', 'montaldo', 'samraimi', 'luchetti', 'scorsese']",dinorisi
+7539,Deficiente di comprendonio,"['scemo', 'imbecille', 'ebete', 'idiota', 'stupido']","['idiota', 'idiote', 'stolto', 'grullo', 'somaro']",idiota
+10424,Manifestazione senese,"['palio', 'sitin', 'carroditespi', 'peana', 'ovazione']","['palio', 'sitin', 'peana', 'panca', 'sagra']",palio
+17942,Un genio della stampa,"['folon', 'bodoni', 'ottieri', 'mariotobino', 'ohnet']","['bodoni', 'tobino', 'bobbio', 'conrad', 'pessoa']",bodoni
+7324,Circolo per soci,"['club', 'cral', 'comitato', 'rotary', 'bci']","['club', 'cral', 'cnac', 'rcla', 'cern']",club
+11842,Declivi di montagne,"['tornanti', 'costoni', 'pendici', 'pendii', 'versanti']","['tornanti', 'versanti', 'canaloni', 'scarpate', 'declivio']",versanti
+1901,La diva Sophia,"['loren', 'lauramorante', 'luisaranieri', 'oriettaberti', 'loredanaberte']","['loren', 'boyer', 'lorre', 'donen', 'woolf']",loren
+8295,Non hanno voglia di far alcunché,"['svogliati', 'pigri', 'oziosi', 'impassibili', 'indolenti']","['apatici', 'abulici', 'pigrone', 'viziosi', 'pigreco']",abulici
+8970,Lo è a volte una lotta,"['nemica', 'avversa', 'opposta', 'impara', 'partigiana']","['nemica', 'impara', 'odiosa', 'impari', 'fredda']",impari
+9416,Si pratica su una pista,"['ciclismo', 'motociclismo', 'podismo', 'ippica', 'ciclocross']","['ciclismo', 'atletica', 'spinning', 'biathlon', 'pedalata']",atletica
+3984,La Mercalli classifica le scosse telluriche,"['tellurica', 'sismica', 'sisma', 'sismografia', 'sismo']","['sisma', 'sismo', 'marea', 'sismi', 'scala']",scala
+17380,Forma l'adipe,"['ape', 'apeoperaia', 'fuco', 'vespa', 'bruco']","['tuorlo', 'sciame', 'antera', 'coscia', 'cerume']",grasso
+5446,Pauroso,"['pavido', 'trepido', 'timoroso', 'pauroso', 'tremante']","['teso', 'cupo', 'vile', 'atro', 'trac']",vile
+640,Animali da cortile,"['anatre', 'anitre', 'tacchini', 'cigni', 'uccellini']","['oche', 'rane', 'gufi', 'rani', 'nidi']",oche
+20685,"Schernire, dileggiare","['deridere', 'beffare', 'schernire', 'canzonare', 'burlare']","['deridere', 'irridere', 'burlarsi', 'burlesco', 'derimere']",deridere
+6292,Se la Zanicchi fosse lo Zanicchi,"['zingara', 'iva', 'zigana', 'zina', 'ige']","['iva', 'ige', 'lia', 'zia', 'imu']",ivo
+19240,La May attrice tedesca,"['gisele', 'fiona', 'may', 'nives', 'meryl']","['gisele', 'marlen', 'esther', 'gretel', 'adeleh']",gisela
+19281,Sigla di Modena,"['mo', 'mco', 'om', 'mto', 'mro']","['mo', 'om', 'ot', 'em', 'on']",mo
+4965,"Alla ____, cioè fatto tanto per fare","['lavoretto', 'niente', 'pocofa', 'tozzo', 'troppo']","['lavorio', 'garzone', 'tincone', 'stracco', 'polputo']",carlona
+12092,Quella di Rivombrosa è stata un grande successo televisivo,"['elisa', 'eloisa', 'canzone', 'cantantessa', 'canora']","['elisa', 'rocio', 'tosca', 'noemi', 'laura']",elisa
+6320,Un veleno contenuto nelle sigarette,"['nicotina', 'nicotinico', 'stricnina', 'nicotinammide', 'acido nicotinico']","['nicotina', 'diossina', 'atossico', 'toxafene', 'tiossano']",nicotina
+15016,Beffarda,"['ironica', 'canzonatoria', 'burlesca', 'scherzosa', 'sarcastica']","['scherzosa', 'semiseria', 'spiritosa', 'esecranda', 'derisoria']",derisoria
+17888,Quadro riassuntivo,"['prospetto', 'didascalia', 'ologramma', 'diapositiva', 'diagramma']","['rilievo', 'schizzo', 'sinossi', 'tabella', 'diorama']",tabella
+4591,"Dolorosi, spietati","['penosi', 'atroci', 'funesti', 'lancinanti', 'miserevoli']","['penosi', 'atroci', 'tristi', 'ferali', 'feroci']",atroci
+19016,Poco rumore,"['ru', 'ur', 'rutenio', 'nu', 'br']","['ru', 'ur', 'nu', 'br', 'cu']",ru
+3002,Vastissimi domini,"['domini', 'musei', 'website', 'colonie', 'possedimenti']","['domini', 'luoghi', 'imperi', 'usanze', 'plaghe']",imperi
+10838,L'azienda italiana che si occupa dei treni,"['orientexpress', 'trenitalia', 'eurocity', 'raitre', 'atac']","['ferroviedellostato', 'autoferrotranvieri', 'crocerossaitaliana', 'ministerodeltesoro', 'interregionalmente']",ferroviedellostato
+10436,Capitano americano (abbr.).,"['ten', 'cap', 'capt', 'seal', 'mars']","['capt', 'seal', 'mars', 'comm', 'corn']",capt
+4980,Inventò con Borges don Isidro Parodi (iniz.),"['emc', 'esp', 'eap', 'esb', 'ep']","['emc', 'esp', 'eap', 'esb', 'pec']",abc
+19831,Un dio molto allegro,"['bacco', 'fauno', 'pan', 'eolo', 'nettuno']","['pan', 'fta', 'deu', 'ade', 'opu']",pan
+3910,Percorsi ferroviari,"['rotaie', 'tragitti', 'binari', 'linee', 'stazioni']","['rotaie', 'binari', 'corsie', 'strade', 'viuzze']",tratte
+1692,Uccello che ricorda un passo militare,"['oca', 'piviere', 'trespolo', 'otarda', 'pavone']","['oca', 'aca', 'ocs', 'emù', 'emu']",oca
+17198,Si applicano sulle contusioni,"['impacchi', 'cerotti', 'fasciature', 'bende', 'linimenti']","['impacchi', 'massaggi', 'antidoti', 'unguenti', 'paraurti']",impacchi
+18318,Brizzolati,"['cinerei', 'rubicondi', 'argentati', 'brizzolati', 'fulgidi']","['cerei', 'nivei', 'fulvi', 'rosei', 'vispi']",grigi
+744,Completamente spianate,"['sbolognate', 'disseccate', 'dissodate', 'spatolate', 'svuotate']","['svuotate', 'spianate', 'svampite', 'satinate', 'scassate']",piallate
+20408,Abitanti dell'antica Gallia orientale,"['danai', 'gepidi', 'iapigi', 'edui', 'osismi']","['danai', 'celti', 'dauni', 'eruli', 'drusi']",celti
+11883,AI piedi dei pescatori subacquei,"['pinne', 'ami', 'esche', 'lenze', 'fiocine']","['pinne', 'esche', 'lenze', 'pinna', 'chele']",pinne
+11010,Cadono in giugno e dicembre,"['giorni', 'mesi', 'settimane', 'solstizi', 'decadi']","['solstizi', 'equinozi', 'stagioni', 'bimestri', 'giornate']",solstizi
+6455,Se è a più piani è un autosilo,"['autosilo', 'autorimessa', 'autostello', 'motorimessa', 'casello']","['garage', 'garafe', 'caveau', 'teatro', 'stereo']",garage
+11506,Si agita per far segno di sì o no,"['scacchiera', 'biliardo', 'tamburello', 'tromba', 'ventaglia']","['dado', 'bulè', 'tria', 'aspo', 'lego']",capo
+4788,Gira vicino al timone,"['timoniere', 'chiglia', 'elica', 'timonista', 'semiala']","['elica', 'prora', 'rosta', 'scafo', 'mozzo']",elica
+16400,Manovratori... dei cantieri edili,"['edili', 'carpentieri', 'gruisti', 'sterratori', 'geometri']","['gruisti', 'gruista', 'aratori', 'genieri', 'tecnici']",gruisti
+12487,La capitale del Prater,"['vaduz', 'ratisbona', 'berna', 'vienna', 'innsbruck']","['vienna', 'sopron', 'breuil', 'dresda', 'kassel']",vienna
+15131,Il nome dello scrittore Mann,"['thomas', 'adolph', 'octave', 'arnold', 'arthur']","['thomas', 'adolph', 'octave', 'arnold', 'arthur']",thomas
+9250,L'Alfa di Giulia e Stelvio,"['romeo', 'giulietta', 'giulia', 'grandi', 'gran']","['romeo', 'amato', 'venus', 'mario', 'intra']",romeo
+1328,Un tipo che tiene allegra la compagnia,"['ridanciano', 'buontempone', 'intrattenitore', 'entertainer', 'bontempone']","['clown', 'ameno', 'groom', 'vispo', 'party']",ameno
+6602,Un sortilegio... che affascina e rapisce,"['sortilegio', 'amuleto', 'stregamento', 'incantesimo', 'malia']","['stregamento', 'incantesimo', 'stregoneria', 'stregonerie', 'incantatore']",incantesimo
+6143,Colore monosillabo,"['sì', 'si', 'ma', 'nì', 'mah']","['mah', 'bah', 'uhm', 'muh', 'ehm']",blu
+960,Richiede più voci,"['corale', 'coro', 'karaoke', 'cantata', 'cantoria']","['coro', 'cori', 'inno', 'iato', 'iati']",coro
+17145,La Camera Alta del Parlamento,"['senato', 'montecitorio', 'emiciclo', 'cameradeideputati', 'senatoriale']","['senato', 'seggio', 'camera', 'caucus', 'palace']",senato
+18328,"Disputa, lotta","['disputa', 'contesa', 'combattimento', 'vertenza', 'alterco']","['disputa', 'contesa', 'alterco', 'litigio', 'sciarra']",contesa
+12074,Una gara contro il tempo,"['marcialonga', 'centometripiani', 'corsa', 'podistica', 'ottocentometri']","['corsa', 'trial', 'corse', 'dromo', 'derby']",corsa
+20653,Chi lo guida sta lavorando,"['carroattrezzi', 'automezzo', 'autocarro', 'carromerci', 'caterpillar']","['jeep', 'taxi', 'auto', 'tram', 'kart']",taxi
+14435,Impulso violento,"['raptus', 'impeto', 'slancio', 'impulso', 'scatto']","['slancio', 'impulso', 'istinto', 'accesso', 'afflato']",accesso
+2214,Lo scheletro formato dalle otto ossa della mano,"['carpo', 'astragalo', 'metacarpo', 'tricipite', 'clavicola']","['carpo', 'lombo', 'tarso', 'osteo', 'psoas']",carpo
+16491,Uno svizzero di Lugano,"['bernese', 'tirolese', 'ticinese', 'elvetico', 'austriaco']","['tirolese', 'ticinese', 'elvetico', 'svizzero', 'stiriano']",ticinese
+13205,Quello duro non si convince,"['testardo', 'tosto', 'duro', 'pertinace', 'tenace']","['duro', 'hard', 'mulo', 'duri', 'redo']",osso
+16541,Ha scritto La tregua,"['levi', 'carlolevi', 'moravia', 'cronin', 'primolevi']","['levi', 'hugo', 'cain', 'marx', 'ende']",levi
+11402,Il giorno... nelle ricette,"['dì', 'di', 'addi', 'lun', 'giorno']","['dì', 'di', 'gg', 'in', 'gi']",di
+14711,Il campo degli occhi,"['cornea', 'opto', 'vista', 'visuale', 'vitreo']","['visuale', 'oculare', 'pupilla', 'pupille', 'oculari']",visuale
+16161,Imperiesi della provincia,"['spezzini', 'imperiesi', 'trapanesi', 'viterbesi', 'montireatini']","['imperiesi', 'trapanesi', 'viterbesi', 'modignani', 'tabellari']",sanremesi
+4219,Donne con l'aureola,"['beate', 'portentose', 'missionarie', 'mariane', 'magiche']","['beate', 'sante', 'liete', 'suore', 'copte']",sante
+538,Sprezzano il dolore,"['stoici', 'insensibili', 'apatici', 'misericordiosi', 'pietosi']","['stoici', 'cinici', 'sadici', 'iniani', 'tristi']",stoici
+8045,Studia certi tessuti,"['istologia', 'ittiologia', 'istofisica', 'sarcologia', 'istologo']","['istologia', 'fisiatria', 'ortopedia', 'citologia', 'zimologia']",istologia
+11306,Destare l'attenzione,"['segnalare', 'avvertire', 'segnalarsi', 'sottolineare', 'avvisare']","['presenziare', 'manifestare', 'evidenziare', 'solleticare', 'interessare']",interessare
+7121,Come dire molte,"['tante', 'molte', 'parecchie', 'numerose', 'gremite']","['tante', 'molte', 'poche', 'piene', 'masse']",tante
+4832,Un calice con la corolla,"['corolla', 'calicetto', 'petalo', 'bocciolo', 'calice']","['graal', 'fiore', 'gemmo', 'serto', 'ciato']",fiore
+5943,Si oppone a essere o a dare,"['essere', 'non essere', 'avere', 'stare per', 'altro']","['avere', 'altro', 'verbo', 'tutto', 'luogo']",avere
+14784,Dotati di... testa sulle spalle,"['imbrigliati', 'incappucciati', 'impiallacciati', 'camuffati', 'scarmigliati']","['camuffati', 'barellati', 'ammantati', 'incornati', 'tumefatti']",assennati
+6909,Pesa a chi ne è gravato,"['onere', 'gravame', 'indebitamento', 'onerosita', 'incarico']","['onere', 'oneri', 'colpa', 'alpao', 'costo']",onere
+6648,Affittare un appartamento,"['locare', 'allogare', 'insediare', 'ammobiliare', 'dimorare']","['locare', 'locati', 'locato', 'dimora', 'locata']",locare
+1097,I locali sono anche comuni.,"['edifici', 'enti', 'locali', 'municipi', 'appartamenti']","['enti', 'sedi', 'vani', 'case', 'aree']",enti
+8390,Un fattaccio di cronaca,"['delitto', 'domicidio', 'assassinio', 'omicidio', 'omicidiostradale']","['assassinio', 'ilprocesso', 'casusbelli', 'uxoricidio', 'terrorismo']",assassinio
+6545,È insito in ogni tentativo azzardato,"['rischio', 'azzardo', 'alea', 'pericolo', 'azzardare']","['rischio', 'azzardo', 'temersi', 'tentare', 'audacia']",rischio
+16399,Giovane maggiorenne,"['minorenne', 'sessagenario', 'anzianotto', 'giovanotto', 'quindicenne']","['teenager', 'coetaneo', 'ventenne', 'minorità', 'maggiore']",ventenne
+16642,Nota... di mezzo,"['fa', 'la', 'sol', 'mi', 'fra']","['fa', 'la', 'mi', 'ut', 'mn']",fa
+8785,É famosa quella de' Tolomei,"['pia', 'piamadre', 'immensa', 'satura', 'infinita']","['pia', 'sua', 'tor', 'tua', 'ima']",pia
+9463,La consorella del commercio,"['socia', 'coautrice', 'commessa', 'apportatrice', 'segretaria']","['coautrice', 'bottegaia', 'associata', 'reciproca', 'clientela']",industria
+1201,Il prezzo del trasporto su una nave,"['nolo', 'tariffa', 'tariffazione', 'costo', 'noli']","['nolo', 'noli', 'varo', 'paga', 'rata']",nolo
+14349,Lo può esclamare chi sta giocando a poker,"['cip', 'full', 'hip', 'gasp', 'sob']","['cip', 'hip', 'sob', 'tip', 'hop']",cip
+16549,La parte sostanziale di qualcosa,"['elemento', 'sostanza', 'ipostasi', 'oggetto', 'substrato']","['complessione', 'semielemento', 'parte intima', 'quintessenza', 'appartenenza']",quintessenza
+16319,Come un giornale affisso alla parete,"['affisso', 'rilevato', 'illustrato', 'in profilo', 'affacciato']","['appeso', 'murale', 'inciso', 'parato', 'binato']",murale
+15031,Lago prealpino di origine glaciale,"['inari', 'enare', 'onega', 'ladoga', 'peciora']","['inari', 'enare', 'onega', 'tovel', 'mosel']",garda
+18916,Un Servizio della Polizia,"['celere', 'polizia', 'gendarmeria', 'polizia locale', 'security']","['gendarmeria', 'criminalpol', 'giudiziario', 'ispettorato', 'controllata']",anticrimine
+19606,Grido che allontana le galline,"['dai', 'giddap', 'alas', 'aita', 'ale']","['alas', 'aita', 'orsu', 'scio', 'arri']",scio
+13105,Un costituente di gesso e marmo,"['gesso', 'siderite', 'silice', 'litoceramica', 'cementite']","['silice', 'quarzo', 'acrite', 'silene', 'scisto']",calcio
+8187,Procedura da seguire,"['procedura', 'procedimento', 'formalita', 'procedure', 'formalità']","['iter', 'rito', 'form', 'modo', 'titi']",iter
+14624,Si è ispirato alla scrittura di Raymond Carver,"['ilmisterodiedwindrood', 'philipmarlowe', 'guglielmodabaskerville', 'samuelbutler', 'tomwolfe']","['baskerville', 'houellebecq', 'walterscott', 'kirkdouglas', 'buffalobill']",minimalismo
+971,I crostacei per uno squisito cocktail,"['scampi', 'gamberoni', 'granchi', 'paguri', 'gamberi']","['scampi', 'paguri', 'astici', 'aselli', 'totani']",scampi
+11438,Sono sempre in auto,"['du', 'au', 'ud', 'ut', 'mo']","['du', 'au', 'ud', 'ut', 'mo']",ut
+13802,Come irregolari,"['anormali', 'anomali', 'aberranti', 'asimmetrici', 'abnormi']","['anomali', 'abnormi', 'anomale', 'atipici', 'strambi']",anomali
+12700,Proibizione,"['divieto', 'proibizione', 'vietarecleva', 'veto', 'proibito']","['veto', 'tabu', 'veti', 'tabù', 'stop']",veto
+11292,"Un ""taxi"" dell'Ottocento","['pax', 'callv', 'sus', 'vos', 'fiacre']","['pax', 'sus', 'vos', 'tus', 'civ']",cab
+9780,Trascorrono la loro vita stabilmente in un luogo,"['residenti', 'inquilini', 'stanziali', 'coinquilini', 'villeggianti']","['residenti', 'inquilini', 'stanziali', 'stranieri', 'abitatori']",abitatori
+8229,Le sue estremità sono dette marre,"['scoglio', 'argine', 'bassamarea', 'bompresso', 'golena']","['argine', 'golena', 'acagiu', 'sabbia', 'sponda']",ancora
+9134,Lo è anche il regista,"['regista', 'filmmaker', 'scenografo', 'soggettista', 'cineoperatore']","['cineasta', 'curatore', 'producer', 'artefice', 'cinefilo']",cineasta
+8703,Si applica alla pratica,"['teoria', 'pratica', 'metodologia', 'prassi', 'esperienza']","['teoria', 'prassi', 'metodo', 'regola', 'usanza']",teoria
+4738,"Capriccio, ghiribizzo","['grillo', 'bazza', 'sfizio', 'estro', 'sprazzo']","['bazza', 'estro', 'spiro', 'botto', 'leppo']",estro
+9934,La... centrale di Maigret,"['simenon', 'fleming', 'montpelier', 'braille', 'topaz']","['littlebighorn', 'jeffersoncity', 'heiligenkreuz', 'herculepoirot', 'westsidestory']",commissariato
+911,Lo era Horatio Nelson,"['giustiziere', 'scudiero', 'baccelliere', 'araldista', 'capitanodiventura']","['assediante', 'corazziere', 'spadaccino', 'novelliere', 'carceriere']",ammiraglio
+20441,Celebre romanzo di Gide,"['etivengoacercare', 'pasqualefestacampanile', 'ilgattoconglistivali', 'cristosiefermatoaeboli', 'lasinfoniapastorale']","['lasinfoniapastorale', 'icapriccidimarianna', 'unonessunocentomila', 'ipiratidellamalesia', 'gerusalemmeliberata']",lasinfoniapastorale
+6235,Possono essere da bagno... o minerali!,"['sali', 'lozioni', 'toiletries', 'cannucce', 'saponi']","['sali', 'fumi', 'vini', 'erbe', 'cere']",sali
+8658,La salmonata ha le carni rosa,"['trota', 'tinca', 'carpa', 'salmone', 'cernia']","['trota', 'tinca', 'carpa', 'orata', 'tonno']",trota
+20672,Molti si leggono dall'ultima pagina,"['capitoli', 'editoriali', 'inserti', 'articoletti', 'titoli']","['commi', 'brani', 'libri', 'diari', 'adagi']",manga
+10026,Precede Passos,"['dos', 'por', 'sur', 'tras', 'mos']","['dos', 'por', 'sur', 'mos', 'muy']",dos
+4072,Possono essere... piangenti,"['pianti', 'singulti', 'travagli', 'lamenti', 'gemiti']","['pianti', 'gemiti', 'dolori', 'salici', 'strazi']",salici
+6735,"Portate, condotte","['recate', 'trasportate', 'assunte', 'sedute', 'portate']","['recate', 'sedute', 'venute', 'edotte', 'giunte']",recate
+5216,"Stimati, presi in considerazioni","['stimati', 'ponderati', 'esaminati', 'soppesati', 'opinati']","['valutati', 'meritati', 'rilevati', 'appagati', 'riveriti']",valutati
+20169,Partito d'Azione,"['anp', 'iacp', 'aap', 'aasp', 'pse']","['anp', 'aap', 'pse', 'pnl', 'atp']",pda
+5005,Le escandescenze dell'insofferente,"['risentimenti', 'sdegni', 'disapprovazioni', 'rancori', 'lamentele']","['sdegni', 'sfoghi', 'smanie', 'sfoggi', 'pudori']",smanie
+16480,Disposizioni regolamentari,"['regolamenti', 'prescritti', 'decreti', 'disposizioni', 'ordinanze']","['norme', 'leggi', 'diete', 'adagi', 'gride']",norme
+8660,I Turchi di Adrianopoli,"['ottomani', 'curdi', 'bizantini', 'ircani', 'turcni']","['curdi', 'kurdi', 'azeri', 'traci', 'greci']",traci
+14461,Romanzo di Victor Hugo,"['ilquartostato', 'illadrodimerendine', 'ilpiaceredellonesta', 'laterradesolata', 'ilmulinosullafloss']","['illadrodimerendine', 'ilmulinosullafloss', 'lafieradellavanita', 'lafanciulladelwest', 'iltrillodeldiavolo']",ilavoratoridelmare
+7576,La parte immersa della nave,"['carena', 'operaviva', 'scafo', 'fiancata', 'chiglia']","['scafo', 'stiva', 'poppa', 'tolda', 'coffa']",scafo
+3277,Uno scudo informatico,"['antivirus', 'antispyware', 'spyware', 'flexsecurity', 'pacchetto sicurezza']","['antivirus', 'antifurto', 'salvavita', 'antifurti', 'antiusura']",antivirus
+12980,Partecipare a una competizione,"['concorrere', 'gareggiare', 'competere', 'parteggiare', 'combattere']","['concorrere', 'gareggiare', 'combattere', 'discettare', 'agonizzare']",gareggiare
+7654,Una casa di cura privata,"['nosocomio', 'sanatorio', 'sanitaria', 'policlinico', 'ospedaliero']","['termale', 'clinica', 'spedale', 'clinico', 'ospizio']",clinica
+19675,Programma televisivo.,"['cepostaperte', 'canzonissima', 'paperissima', 'indietrotutta', 'scherziaparte']","['drivein', 'xfactor', 'imostri', 'reality', 'totosei']",ilfatto
+20681,Dati alla vita,"['generati', 'nati', 'congeniti', 'innati', 'originati']","['generati', 'adottati', 'adottivi', 'esistiti', 'allevati']",generati
+8760,Una scatola in testa,"['cranica', 'cranio', 'scatolacranica', 'craniolesa', 'meninge']","['cranio', 'cracco', 'insana', 'cogito', 'grigia']",cranio
+9826,É ottimo quello cubano,"['hascisc', 'rum', 'mojito', 'cigarillo', 'sigaro']","['rum', 'vov', 'gin', 'ruz', 'poa']",rum
+2616,"Stimato, ossequiato","['onorato', 'riverito', 'stimato', 'rispettato', 'ammirato']","['onorato', 'stimato', 'stimati', 'onorati', 'onorate']",onorato
+2008,É antica a Roma,"['urbe', 'capitolina', 'navona', 'littoria', 'domus']","['domus', 'caput', 'otium', 'ostia', 'omnia']",appia
+6497,"Essere, presente: io sono, tu...","['presente', 'participio presente', 'astante', 'participiopresente', 'prossimo']","['noi', ""mo'"", 'ché', 'ciò', 'cio']",sei
+3975,Un Saviane scrittore,"['nicola', 'nicolao', 'ivan', 'hristo', 'nicolo']","['nicola', 'hristo', 'nicolo', 'emilio', 'istvan']",sergio
+10599,I paladini del verde,"['ecologisti', 'boschivi', 'sempreverdi', 'ecologici', 'ambientalisti']","['ecologisti', 'animalisti', 'forestieri', 'ecoturismo', 'monteverdi']",ecologisti
+11977,Località... del Grappa con un famoso ponte,"['barletta', 'varallo', 'mesagne', 'abbateggio', 'mortara']","['varallo', 'mesagne', 'mortara', 'canelli', 'orvieto']",bassano
+5683,Al presente,"['ad ora', 'orora', 'oggidi', 'attualmente', 'adesso']","['ora', 'già', 'qua', ""mo'"", 'ove']",ora
+13197,Un' operazione che dà... lustro,"['lucidatura', 'sbianca', 'sbiancatura', 'satinatura', 'smaltatura']","['lucidatura', 'satinatura', 'smaltatura', 'smontaggio', 'laminatura']",lucidatura
+12523,Comandò in Argentina,"['peron', 'cortes', 'hidalgo', 'mendoza', 'joseluiszapatero']","['peron', 'menem', 'senor', 'minas', 'sucre']",peron
+14054,Funzionario di polizia,"['agente di polizia', 'ispettore', 'questore', 'commissario', 'viceispettore']","['commissario', 'funzionario', 'ispettorato', 'giudiziario', 'ispettorati']",commissario
+12430,Il Santo patrono degli automobilisti,"['sangennaro', 'ambrogio', 'cristoforo', 'agostino', 'giuseppe']","['sangennaro', 'cristoforo', 'bernardino', 'sebastiano', 'matroniano']",cristoforo
+17736,Nucleo cerebrale alla base del cervello,"['neurocranio', 'ceroide', 'meninge', 'neurone', 'neuroni a specchio']","['interneurone', 'cefalotorace', 'intellettiva', 'neuromotorio', 'stereociglio']",corpostriato
+16445,Si dice di voce stentorea,"['stentorea', 'stentoreo', 'altisonante', 'stentoree', 'stridente']","['stridula', 'stentore', 'tenorile', 'stridulo', 'possente']",poderosa
+8868,Il ripostiglio degli abiti,"['guardaroba', 'cassettino', 'stipetto', 'cassettiere', 'ripostiglio']","['guardaroba', 'cassettino', 'sgabuzzino', 'cassettone', 'armadietto']",guardaroba
+18928,Dimore smontabili,"['palafitte', 'casematte', 'casermoni', 'baracche', 'castle']","['logge', 'baite', 'valli', 'ville', 'malte']",tende
+812,In mezzo alla stoppa,"['ppp', 'pt', 'fp', 'ptp', 'bp']","['pt', 'fp', 'bp', 'op', 'mp']",op
+8251,Un frutto da macedonia,"['ananas', 'ananasso', 'kiwi', 'anguria', 'papaia']","['ananas', 'papaia', 'banana', 'papaya', 'popone']",ananas
+13882,É lunga molti secoli,"['evo', 'era', 'evi', 'epoca', 'millennio']","['evo', 'era', 'evi', 'eci', 'eon']",era
+8628,Leggevano in pubblico gli editti,"['araldi', 'aruspici', 'scribi', 'allibratori', 'tabellari']","['araldi', 'scribi', 'araldo', 'astati', 'veliti']",araldi
+11352,L'avanzo d'una mela,"['torsolo', 'esocarpo', 'cimolo', 'buccia', 'mesotorace']","['torsolo', 'pudenda', 'stoppia', 'ranetta', 'pollone']",torsolo
+16836,I fanti da sbarco Usa,"['seals', 'marines', 'seal', 'mariner', 'marine']","['marines', 'mariner', 'polaris', 'cadetti', 'marinai']",marines
+4966,Li governò Gheddafi,"['sudanesi', 'eritrei', 'etiopi', 'somali', 'libici']","['etiopi', 'somali', 'libici', 'niloti', 'etiope']",libici
+13875,Le iniziali di Magritte,"['mm', 'gm', 'μm', 'mam', 'rm']","['mm', 'gm', 'μm', 'rm', 'sm']",rm
+1599,Bagna Verona,"['adige', 'adda', 'bradano', 'senio', 'tidone']","['adige', 'senio', 'sieve', 'luino', 'piave']",adige
+2898,La liquidazione (sigla),"['tfr', 'vlm', 'tml', 'vqpt', 'vlsi']","['tfr', 'vlm', 'tml', 'ldr', 'ldl']",tfr
+12273,Non si sa come levarseli di torno,"['rotoli', 'cerchi', 'pezzi', 'incarti', 'quadrifogli']","['ribaltamenti', 'carlocollodi', 'trabocchetti', 'registratori', 'buonipostali']",rompiscatole
+4411,Insapona i propri clienti,"['laccatore', 'saponaio', 'pettinatore', 'rasatore', 'lavandaio']","['saponaio', 'rasatore', 'potatore', 'barbiere', 'manicure']",barbiere
+18330,Può diventare... rissa,"['zuffa', 'scenata', 'baruffa', 'rissa', 'folla']","['bega', 'lite', 'orda', 'bada', 'rima']",lite
+14962,Montagne russe o...,"['urali', 'ghiacciai', 'dolomiti', 'balcani', 'acroceraunii']","['arcipelaghi', 'metallifere', 'glaciazioni', 'alpipennine', 'unterwalden']",ottovolante
+5363,Elementi da interporre,"['diverbi', 'locuzioni', 'interiezioni', 'argomenti', 'virgolette']","['lemmi', 'spazi', 'verbi', 'frasi', 'punti']",cunei
+4991,Atti da villani,"['villanie', 'scortesie', 'sgarbate', 'contumelie', 'scempiaggini']","['sgarbo', 'oscene', 'boiate', 'sgarri', 'sgarbi']",sgarbi
+13071,"Giorgio, popolare telecronista sportivo","['morandi', 'dezan', 'grimani', 'funari', 'derossi']","['morandi', 'grimani', 'derossi', 'moroder', 'ferrini']",marttno
+16121,Il numero di chi comanda,"['uno', 'centouno', 'comandante', 'novanta', 'dominante']","['uno', 'cap', 'due', 'tre', 'pin']",uno
+9981,Uccello... ben pasciuto,"['pennuto', 'pellicano', 'ghiandaia', 'pollastro', 'falco']","['falco', 'tordo', 'becco', 'merlo', 'pollo']",tordo
+18049,La generò Elena,"['donna', 'eva', 'cibele', 'natura', 'creatura']","['persona', 'ragazza', 'mantide', 'femmina', 'minerva']",ermione
+5887,La Margret del cinema,"['ann', 'anne', 'janis', 'margaret', 'meryl']","['ann', 'edy', 'mel', 'lea', 'amy']",ann
+15479,I poliziotti di Scarpia,"['sbirri', 'polizieschi', 'gendarmi', 'sceriffi', 'secondini']","['sbirri', 'segugi', 'sbirro', 'vigili', 'gialli']",sbirri
+14893,Si ottiene regolando gli orologi,"['precisione', 'precisionemillimetrica', 'regolarità', 'puntualità', 'esattezza']","['esattezza', 'simmetria', 'punteggio', 'controllo', 'stabilita']",sincronia
+9634,Calliope ed Erato ne erano le muse,"['corinzia', 'arta', 'aulide', 'ellade', 'pallade']","['aulide', 'ellade', 'latona', 'micene', 'cariti']",poesia
+18745,Il nome dell'attore Lancaster,"['burt', 'burr', 'burnett', 'bing', 'burton']","['burt', 'burr', 'bing', 'erik', 'eric']",burt
+15427,Nome di donne spagnole,"['manola', 'isabela', 'dolores', 'teresadavila', 'iolanda']","['avila', 'ivana', 'evita', 'andes', 'ramon']",pilar
+10182,Una fossa dell'inferno dantesco,"['gehenna', 'caina', 'tolomea', 'geenna', 'stige']","['geenna', 'bolgia', 'averno', 'ofelia', 'ctonia']",bolgia
+346,Si reca da un notaio in compagnia,"['rogatario', 'notaio', 'procuratore', 'notaro', 'attaché']","['attaché', 'procura', 'garante', 'usciere', 'coerede']",coerede
+9831,Un formaggio come il taleggio o la robiola,"['provolone', 'cacio', 'stracchino', 'caciotta', 'taleggio']","['stracchino', 'caciottina', 'formaggera', 'formaggino', 'cacerolazo']",stracchino
+8509,Stile senza consonanti,"['ue', 'ee', 'eu', 'oee', 'ueo']","['ue', 'ee', 'eu', 'oe', 'eo']",ie
+20011,Nome di un noto cioccolatino,"['cacao', 'mou', 'costanzo', 'mauro', 'boero']","['gabo', 'eddy', 'zico', 'cola', 'ganz']",baci
+9414,Rimedia al caos,"['riordinamento', 'riordino', 'abbonacciamento', 'riparazione', 'rasserenamento']","['riordinamento', 'aggiustamento', 'pacificazione', 'normalizzarsi', 'miglioramento']",riordinamento
+19974,Il geniale Ravel,"['ramon', 'maurice', 'miguel', 'luis', 'julio']","['maurice', 'emanuel', 'enrique', 'fernand', 'perejil']",maurice
+18943,L'unità costituita da un organismo e dal suo habitat,"['biotopo', 'bioelemento', 'biomolecola', 'specie', 'bioma']","['specie', 'monade', 'natura', 'esseri', 'genere']",ecoide
+474,Comprende Ischia e Capri (targa),"['sp', 'pe', 'im', 'ic', 'me']","['sp', 'pe', 'im', 'ic', 'me']",na
+563,Un boccone per i pesci,"['lombrico', 'esca', 'verme', 'lambello', 'ossicino']","['esca', 'sega', 'bota', 'osso', 'bolo']",esca
+15764,Un aiuto per Teseo,"['arianna', 'filodiferro', 'filodarianna', 'ferretto', 'teseo']","['refe', 'ffss', 'filo', 'ftse', 'elio']",filo
+7363,È abitata da Boemi,"['mongolia', 'laristan', 'singapore', 'birmania', 'kurdistan']","['india', 'tibet', 'torun', 'lhasa', 'nepal']",praga
+720,Un noto film con DiCaprio,"['titanic', 'ilgabinettodeldottorcaligari', 'ilgrandesonno', 'domanietroppotardi', 'penelopeallaguerra']","['titanic', 'yuppidu', 'serpico', 'ernesto', 'sabrina']",titanic
+14420,Può esser nero,"['orso', 'nerastro', 'pinot', 'noir', 'bigio']","['orso', 'noir', 'vino', 'cupo', 'dark']",umor
+3821,Uno sport che si pratica scalzi,"['pattinaggio', 'pattinaggioartistico', 'ciclismo', 'skisurf', 'sci-alpinismo']","['golf', 'surf', 'vela', 'boxe', 'judo']",judo
+2150,Lingua dell'antica Arabia meridionale,"['arabofono', 'saudita', 'amarico', 'saudiano', 'arabo']","['arabo', 'curdo', 'irbid', 'emiro', 'yasir']",sabeo
+9955,Fa le faccende domestiche,"['massaia', 'maggiordomo', 'casalinga', 'domestico', 'colf']","['casalinga', 'domestico', 'domestica', 'cuciniere', 'lavandaio']",casalinga
+19050,Il celebre Simenon,"['arouet', 'maximilien', 'vincent', 'jean', 'xavier']","['vincent', 'olivier', 'carlton', 'jacques', 'georges']",georges
+8914,Fanno il tifo al Maradona,"['genoani', 'juventini', 'napoletani', 'nerazzurri', 'atalantini']","['napoletani', 'nerazzurri', 'atalantini', 'fiorentini', 'bianconeri']",napoletani
+290,La polvere negli spazi interstellari,"['meteorite', 'ozonosfera', 'meteoroide', 'meteoriti', 'nebulosa']","['meteora', 'meteore', 'gassoso', 'balloon', 'polvere']",cosmica
+4165,Il sapore del frutto acerbo,"['amarume', 'asprigno', 'agrume', 'aspro', 'asprino']","['aspro', 'aspra', 'acido', 'acese', 'aspre']",aspro
+8508,False opinioni,"['fraintendimenti', 'malintesi', 'equivoci', 'equivochi', 'travisate']","['eresie', 'boiate', 'storie', 'errate', 'sviate']",errori
+3207,Il pazzo amore la abbina al calciatore del 28 orizzontale,"['mariolinasattanino', 'flaviapennetta', 'ivazanicchi', 'valentinapace', 'claudiagerini']","['valentinapace', 'claudiagerini', 'lorenaforteza', 'marcellabella', 'annatatangelo']",valeriamarini
+8260,L' ABC del calcio,"['serieb', 'hooligan', 'calcistico', 'totosei', 'football']","['milan', 'rugby', 'play!', 'abcde', 'tgdue']",serie
+17513,L'arretratezza di certi Paesi,"['inagibilita', 'detraibilita', 'impraticabilita', 'indisponibilità', 'inabitabilita']","['inabitabilita', 'prorogabilita', 'inesorabilita', 'insolvibilità', 'inesigibilità']",sottosviluppo
+12292,Un browser diffuso (sigla),"['ie', 'ia', 'iee', 'ied', 'iy']","['ie', 'ia', 'iy', 'iw', 'ye']",ie
+17996,Il nome di Ustinov,"['peter', 'peters', 'patsy', 'pep', 'darius']","['peter', 'patsy', 'tomas', 'roger', 'boris']",peter
+10250,Il nome della Bergman,"['ingrid', 'sigrid', 'senta', 'bibi', 'sonia']","['ingrid', 'sigrid', 'tamara', 'ursula', 'ylenia']",ingrid
+19180,Le difficoltà della vita,"['difficoltà', 'guai', 'triboli', 'affanni', 'traversie']","['stenti', 'stente', 'disagi', 'dolori', 'stento']",stenti
+4629,"Pica, ex attrice comica","['nilla', 'nina', 'monica', 'ivanda', 'enrica']","['nina', 'tina', 'neda', 'pina', 'rina']",tina
+16341,È attigua alla chiesa,"['chierica', 'sacrestia', 'sagrestia', 'acquasantiera', 'sacristia']","['chierica', 'cantoria', 'canonica', 'oratorio', 'chiostro']",canonica
+14023,Stazione Radio,"['rs', 'rts', 'sr', 'sro', 'fs']","['rs', 'sr', 'fs', 'rr', 'st']",sr
+13196,Avanzi,"['avanzi', 'residui', 'resti', 'rimasugli', 'residuati']","['resti', 'resto', 'fondi', 'mance', 'tergo']",resti
+16560,Poco leale,"['la', 'le', 'va', 'colà', 'al']","['la', 'le', 'va', 'al', 'là']",le
+19276,Prediletta dalla sorte,"['affortunata', 'fortunata', 'predestinata', 'fatidica', 'arrisa']","['fortunata', 'prescelta', 'profetica', 'aleatoria', 'maledetta']",fortunata
+2467,Giocondità e facezie,"['facezie', 'celie', 'amenità', 'amenita', 'burlette']","['facezie', 'amenità', 'amenita', 'scherzi', 'facezia']",amenita
+6421,Un magico genere letterario,"['magianera', 'magical', 'magia', 'magica', 'stregoneria']","['magical', 'fantasy', 'occulto', 'reverie', 'magiche']",fantasy
+4448,Fonti di energia che... ci ricordano Chernobyl,"['nucleari', 'atomtche', 'atomiche', 'neutroni', 'reattorenucleare']","['reattorenucleare', 'centralenucleare', 'uranioimpoverito', 'protopaleolitici', 'turboalternatori']",centralinucleari
+16694,Agiscono in modo scorretto,"['scorretti', 'sleali', 'disonesti', 'immorali', 'spregiudicati']","['sleali', 'infidi', 'infami', 'guerci', 'iniqua']",sleali
+5385,"Il poeta del ""M'illumino d'immenso""","['ungaretti', 'petrarca', 'foscolo', 'leopardi', 'francescoguicciardini']","['ungaretti', 'bacchelli', 'delavigne', 'bagelardo', 'digiacomo']",ungaretti
+3848,Lo sbrigativo ne fa poche,"['trattazioni', 'parolecrociate', 'lezioni', 'risposte', 'domande']","['parole', 'storie', 'figure', 'misure', 'tirate']",storie
+8689,Cardine,"['dorsali', 'giogaie', 'gole', 'carraie', 'anditi']","['epodi', 'calle', 'siepi', 'rolle', 'cigli']",perno
+16828,La Stout ne è una varietà,"['vermut', 'fernet', 'birro', 'cane-killer', 'terrier']","['birro', 'pesce', 'vodka', 'birra', 'salmì']",birra
+18798,Importante personaggio in alcune religioni asiatiche e americane,"['santone', 'manitu', 'harekrishna', 'krishna', 'pandit']","['rohingya', 'sikhismo', 'sciamano', 'buddista', 'animista']",sciamano
+9619,"Cattive, perverse","['rie', 'malvagie', 'cattive', 'perfide', 'pessime']","['rie', 'ree', 'ria', 'rii', 'ine']",rie
+5217,Convincere a desistere,"['dissuadere', 'sottomettere', 'disincentivare', 'domare', 'opprimere']","['dissuadere', 'spodestare', 'intimidire', 'demotivare', 'convincere']",dissuadere
+6091,La Angiolini dello spettacolo,"['ambra', 'diva', 'iacona', 'carmina', 'mita']","['ambra', 'amira', 'adama', 'daria', 'lea 2']",ambra
+4525,Lo commise Giuda,"['tradimento', 'demerito', 'giudaiscariota', 'sororicidio', 'giuda']","['tradimento', 'proditorio', 'parricidio', 'figlicidio', 'tradimenti']",tradimento
+14750,Lo traina la trattrice,"['erpice', 'aratro', 'aratrice', 'aratore', 'trattore']","['erpice', 'aratro', 'aratri', 'erpici', 'vomere']",aratro
+2929,Imbianca i campi,"['grandine', 'siccita', 'neve', 'brina', 'pioggerella']","['brina', 'brume', 'sgelo', 'bruma', 'frana']",brina
+12044,Contrasto fra calciatori,"['tackle', 'combattimento', 'mischia', 'disputa', 'schermaglia']","['tackle', 'difesa', 'inrete', 'duello', 'melina']",tackle
+18507,Così è la pecora quando è meno voluminosa,"['tosata', 'slavata', 'diradata', 'diafana', 'tersa']","['tosata', 'scarna', 'smunta', 'serica', 'sobria']",tosata
+3486,I piccoli adulti,"['ragazzi', 'fanciulli', 'omini', 'nani', 'piccoli']","['nani', 'nane', 'medi', 'teen', 'viri']",nani
+17790,Più si stringe e più va a fondo,"['elastico', 'nodoscorsoio', 'legaccio', 'elasticino', 'amo']","['tubo', 'nodi', 'fune', 'nodo', 'dito']",vite
+14923,Itinerari marini,"['traversate', 'rotte', 'crociere', 'tragitti', 'circumnavigazioni']","['rotte', 'coste', 'fiumi', 'falle', 'guadi']",rotte
+803,Una caratteristica dei motori a scoppio,"['eccitabilità', 'reattivita', 'iperstaticità', 'esplosività', 'accelerazione centripeta']","['reattivita', 'reattività', 'efficienza', 'robustezza', 'fusibilità']",cilindrata
+8293,Assai poco generose,"['avare', 'grette', 'tirchie', 'esigue', 'esose']","['avare', 'esose', 'avide', 'avara', 'poche']",avare
+1052,Mette l'ispettore sulla buona strada,"['segnalatore', 'collaudatore', 'ispettore', 'avvisatore', 'collaudo']","['riprova', 'indizio', 'suovera', 'sensore', 'autista']",indizio
+15357,Un uccello dalla vista proverbiale,"['assiolo', 'girifalco', 'barbagianni', 'gufo', 'quaglia']","['gazza', 'merlo', 'corvo', 'falco', 'upupa']",falco
+13514,Gli esercizi per stare in forma,"['ginnici', 'pilates', 'palestre', 'atletici', 'esercizi']","['atleti', 'tonici', 'fisici', 'snelli', 'atlete']",fisici
+20745,Collega canali internazionali,"['raiuno', 'raitre', 'mediaset', 'rai', 'raitv']","['broadcaster', 'radiocanale', 'televisione', 'radiocanali', 'maxischermo']",eurovisione
+19099,Orsetto australiano,"['koala', 'canguro', 'peramele', 'ornitorinco', 'brisbane']","['koala', 'baloo', 'coala', 'perth', 'dingo']",koala
+4110,Canale che porta acqua al mulino,"['gora', 'noria', 'inghiottitoio', 'trebbiatrice', 'gore']","['gora', 'gore', 'tega', 'zana', 'mill']",gora
+4755,Non zuccherate,"['amarognole', 'mielose', 'amare', 'ambrate', 'amarene']","['amare', 'amari', 'aspre', 'buone', 'aride']",amare
+17326,Rifugio per animali,"['tana', 'covile', 'covi', 'capannina', 'covo']","['tana', 'covi', 'covo', 'tane', 'cova']",covo
+14324,Il compositore del ' 700 maestro di Gluck,"['wolfgangamadeusmozart', 'sciostakovic', 'offenbach', 'dvorak', 'georgesauric']","['svjatoslav', 'isaacstern', 'paderewski', 'vonkarajan', 'victorhugo']",sammartini
+5333,Fino al 1934 si chiamò Gerace Marina,"['comiso', 'cizico', 'lacanea', 'niscemi', 'larissa']","['ceuta', 'locri', 'leuca', 'acasi', 'nissa']",locri
+18064,Quello indiano è il nelumbo,"['gatto', 'topo', 'serpente', 'coniglio', 'verme']","['topo', 'orso', 'lupo', 'tram', 'cane']",loto
+10206,Grande lago dell'Asia,"['aral', 'ladoga', 'onega', 'inari', 'bolsena']","['aral', 'trot', 'perm', 'nemi', 'amur']",aral
+5736,"La prua del ""drakar""","['nembokid', 'simun', 'cachecol', 'ghibli', 'yurta']","['sahariana', 'spinnaker', 'damalisco', 'madapolam', 'hathayoga']",dradenile
+15991,____ urrà!,"['hip', 'ip', 'ih', 'uh', 'urrà']","['hip', 'hop', 'isp', 'ips', 'ibp']",hip
+2195,Contengono missive,"['buste', 'pacchi', 'ceste', 'cestini', 'scatole']","['buste', 'ceste', 'cesti', 'casse', 'gerle']",buste
+19938,Vi spicca il titolo del libro,"['frontespizio', 'risvoltoa', 'copertina', 'sopraccoperta', 'exlibris']","['risvoltoa', 'copertina', 'plaquette', 'volumetto', 'editorial']",copertina
+14847,Freddo come il ghiaccio,"['gelido', 'algido', 'glaciale', 'rigido', 'frigido']","['gelido', 'algido', 'rigido', 'gelivo', 'nevoso']",gelido
+3694,"Ingannare, disorientare","['ingannare', 'sviare', 'trassinare', 'disincantare', 'raggirare']","['svagare', 'frodare', 'falsare', 'tradire', 'ambiare']",fintare
+3062,36 Vanno coi bulli.,"['flessibilita', 'flessibilità', 'flessicurezza', 'souplesse', 'ric']","['ric', 'ppi', 'pif', 'rot', 'pli']",ric
+1713,Fondo di garage,"['ga', 'ra', 'ge', 'ea', 'le']","['ga', 'ra', 'ge', 'ea', 'le']",ge
+1503,Con quella giusta si vince Sanremo,"['carta', 'musica', 'parola', 'partitura', 'arma']","['materia', 'armonia', 'casacca', 'qualità', 'pistola']",canzone
+3396,Un pezzo degli scacchi,"['torre', 'alfiere', 'regina', 'cavallo', 'damone']","['alfiere', 'cavallo', 'cavalla', 'alfiero', 'alfieri']",alfiere
+11635,S'accende fra nemici,"['alterco', 'disputa', 'litigio', 'contesa', 'lite']","['conflitto', 'discordia', 'conflitti', 'bisticcio', 'armistizi']",battaglia
+16176,"Certificato, dichiarazione scritta","['certificato', 'attestato', 'certificazione', 'avallato', 'certificatomedico']","['attestato', 'attestata', 'convalida', 'autentico', 'autentica']",attestato
+19226,Una scienza da Nobel,"['chimicafisica', 'aerobiologia', 'aerologia', 'biofisica', 'alchimia']","['fisica', 'ittica', 'idrica', 'lirica', 'ottica']",fisica
+8645,Valgono meno dell'originale,"['copie', 'fotocopie', 'originali', 'original', 'firmacopie']","['copie', 'copia', 'falsi', 'bozze', 'false']",copie
+2301,Pregiata sostanza bianca,"['lattice', 'latice', 'lanolina', 'lecitina', 'lecitinadisoia']","['latice', 'satice', 'nailon', 'feltro', 'resina']",avorio
+6356,Autorizzati come certi giornalisti,"['emanati', 'privilegiati', 'approvati', 'dedicati', 'omologati']","['accreditati', 'manoscritti', 'giornalisti', 'prestigiosi', 'distribuiti']",accreditati
+9092,"Giudaica, israelitica","['israeliana', 'giudaica', 'ebraica', 'ebrea', 'semitica']","['ebraica', 'siriaca', 'cananea', 'siriana', 'judaika']",ebraica
+16367,Piccolo celenterato,"['polipo', 'eumolpo', 'strombo', 'inobio', 'lemte']","['polipo', 'inobio', 'anomma', 'lemure', 'ocello']",polipo
+8454,Relativo alla caccia,"['prediale', 'razziale', 'venatorio', 'avicolo', 'predare']","['venatorio', 'predatore', 'venatoria', 'depredare', 'colturale']",venatorio
+3265,Il giorno in cui molti ne approfittano per dormire di più,"['domenica', 'mercoledi', 'lunedì', 'giovedi', 'lunedi']","['domenica', 'week-end', 'shabbath', 'blursday', 'open-day']",domenica
+7223,Insistente frase musicale tipica del jazz,"['dixie', 'dixieland', 'bebop', 'growl', 'riff']","['riff', 'scat', 'beat', 'funk', 'punk']",riff
+3964,L'autore di Topaze,"['pomilio', 'bersezio', 'goldoni', 'munch', 'decrescenzo']","['bobbio', 'laszlo', 'molnar', 'orwell', 'muller']",pagnol
+17488,Riconosciuti giusti,"['riconosciuti', 'stimati', 'notori', 'onorati', 'assodati']","['ammansiti', 'accertati', 'approvati', 'assennati', 'omologati']",approvati
+16606,Fa arrivare lettere in America... alla svelta,"['airmail', 'telex', 'telefax', 'ponyexpress', 'fax']","['socialcard', 'aerogramma', 'telegrafia', 'telegramma', 'telematico']",postaaerea
+11952,Un natante,"['barcaamotore', 'barco', 'imbarcazione', 'barchino', 'barcone']","['barco', 'barca', 'yacht', 'scafo', 'sloop']",racer
+10865,Ha molti ufficiali medici,"['sanitaria', 'sanita', 'sanità', 'astanteria', 'nosocomio']","['sanita', 'sanità', 'giunta', 'igiene', 'iatria']",sanità
+17393,Quella toscana comprende la laguna di Orbetello,"['penisola', 'riviera', 'montisola', 'alpe', 'valle']","['riviera', 'vallata', 'isolana', 'pianura', 'foresta']",maremma
+16459,Spengono piccoli incendi,"['estintori', 'pompieri', 'bruciatori', 'incendi', 'schiumogeni']","['estintori', 'accendini', 'estintore', 'idraulici', 'aspersori']",estintori
+3463,La celebre Zanicchi,"['iva', 'zingara', 'ige', 'zina', 'zigana']","['iva', 'ige', 'imu', 'lia', 'ava']",iva
+13241,Ha la febbre dell'oro,"['entusiasta', 'speranzoso', 'ottimista', 'entusiastico', 'brillante']","['ottimista', 'brillante', 'osannante', 'arrivista', 'esultante']",cercatore
+17037,Sono pari nei fogli,"['mli', 'il', 'gl', 'dli', 'lid']","['il', 'gl', 'fl', 'jl', 'll']",ol
+3769,Mutande a calzoncino,"['boxer', 'body', 'skinny', 'dog', 'slim']","['boxer', 'tight', 'pants', 'jeans', 'bluse']",boxer
+12885,Targa salentina,"['le', 'lel', 'sel', 'el', 'lu']","['le', 'el', 'lu', 'al', 'la']",le
+7321,Lottò per l'indipendenza dell'India,"['mahatma', 'nehru', 'maraja', 'parih', 'bihar']","['maraja', 'dagama', 'kerala', 'indira', 'ganesh']",gandhi
+9397,Sono esperte di taglio e cucito,"['sartine', 'sarte', 'cucitrici', 'modiste', 'magliaie']","['sarte', 'sarti', 'sarta', 'sarto', 'lumai']",sarte
+18723,Il nome di un Delon attore,"['alain', 'lon', 'luc', 'adrien', 'lapo']","['alain', 'nigel', 'aaron', 'annan', 'erwin']",alain
+5306,Uccello venerato dagli Egizi,"['ibis', 'ibi', 'anubi', 'ibissacro', 'agrib']","['ibis', 'batu', 'sais', 'zebu', 'gabi']",ibis
+13548,Le spreca il logorroico,"['parole', 'ore', 'orette', 'energie', 'giornate']","['parole', 'orette', 'attese', 'tirate', 'serate']",parole
+14752,Comanda la brigata,"['generaledidivisione', 'brigadiere', 'capitano', 'sergente', 'colonnello']","['gen', 'col', 'mgr', 'ras', 'ten']",gen
+20414,Sono argomenti intoccabili,"['tabù', 'veti', 'proibiti', 'tabu', 'ineffabili']","['tabù', 'veti', 'tabu', 'rudi', 'vizi']",tabù
+3669,Un uomo qualunque,"['tizio', 'caio', 'sempronio', 'chiunque', 'qualcuno']","['tizio', 'tazio', 'muzio', 'tizia', 'omone']",tizio
+20415,Privi di problemi materiali,"['agiati', 'benestanti', 'facoltosi', 'danarosi', 'redditizi']","['agiati', 'dovizi', 'venali', 'agiato', 'esenti']",agiati
+19474,Lo sono le nevi dell'Everest,"['nevose', 'gelide', 'siberiane', 'alpine', 'rigide']","['nevose', 'gelide', 'alpine', 'rigide', 'eterne']",eterne
+1962,Attraversa Colombia e Venezuela,"['orinoco', 'pernambuco', 'riodelleamazzoni', 'canaledimozambico', 'americameridionale']","['orinoco', 'pampero', 'aracaju', 'caraibi', 'delgado']",orinoco
+6062,La quota sul livello del mare,"['quota', 'altitudine', 'gradiente', 'livellodelmare', 'bassaquota']","['altitudine', 'bassaquota', 'dislivello', 'dimensione', 'quota rosa']",altitudine
+6535,Collegiali,"['convittori', 'professionisti', 'diplomati', 'collegiali', 'scientifici']","['convittori', 'collegiali', 'accademici', 'professori', 'precettori']",convittori
+12103,Un modo di vestire,"['mise', 'casual', 'elegantemente', 'look', 'aplomb']","['mise', 'look', 'chic', 'gagà', 'wear']",mise
+20365,Altro nome del granturco,"['granturco', 'granone', 'granoturco', 'grano turco', 'granaglia']","['mais', 'orzo', 'maiz', 'pula', 'feta']",mais
+4484,Romanzo di Alain-Fournier,"['becketeilsuore', 'laversionedibarney', 'desertorosso', 'lamicofritz', 'luomocheucciselibertyval']","['leternaillusione', 'ilcoloredeisoldi', 'ilmedicostregone', 'fratellirsorelle', 'ilgrandecocomero']",ilgrandemeaulnes
+1512,Carrozza leggera trainata da un solo cavallo,"['landau', 'calesse', 'cingoletta', 'scrambler', 'fiacre']","['calesse', 'cocchio', 'trolley', 'dresina', 'trotino']",calesse
+15162,I caratteri ereditari contrapposti ai dominanti,"['vantaggi', 'primati', 'estremismi', 'svantaggi', 'prerogative']","['svantaggi', 'connotati', 'attributi', 'debolezze', 'genetiche']",recessivi
+3481,Compiono azioni criminose,"['assassini', 'criminali', 'omicidi', 'malfattori', 'criminosi']","['attentatori', 'torturatori', 'prigionieri', 'ricettatori', 'ricattatori']",attentatori
+8542,Il... fior fiore di un reparto scientifico,"['magistero', 'dottorato', 'universita', 'laurea', 'magistrale']","['arte', 'yale', 'prof', 'isef', 'emmy']",iris
+6023,Città e porto del Giappone,"['yokohama', 'nagoya', 'kyoto', 'nara', 'kobe']","['nagoya', 'makoto', 'aomori', 'oshima', 'toyota']",aomori
+7793,Il Julièn celebre tenore spagnolo dell'Ottocento,"['cordobes', 'caballero', 'sert', 'caballe', 'rueda']","['caballe', 'ramones', 'rabagas', 'gongora', 'ramblas']",gayarre
+15097,Lo erano i trovatori,"['aedi', 'menestrelli', 'trovieri', 'ulani', 'auleti']","['gladiatori', 'alabardati', 'spadaccini', 'fiamminghi', 'corazzieri']",provenzali
+19043,La lettera che alcuni non hanno,"['esse', 'acca', 'elle', 'erre', 'emme']","['esse', 'acca', 'elle', 'erre', 'emme']",erre
+16721,"Diresse ""Fanny e Alexander""","['kieslowski', 'preminger', 'vonsternberg', 'desica', 'cukor']","['aldrich', 'resnais', 'boorman', 'lelouch', 'bergman']",bergman
+2585,Pendeva sotto la mongolfiera,"['navicella', 'aerostato', 'aeromezzo', 'aeronave', 'aerodina']","['navicella', 'aerostato', 'aeromezzo', 'fusoliera', 'alaadelta']",navicella
+14994,Una tormentata striscia,"['gaza', 'intifada', 'alqaeda', 'guerrigliera', 'hamas']","['gaza', 'rift', 'kean', 'orda', 'shoa']",gaza
+1427,Lo è il pane carasau,"['saraceno', 'pecorino', 'arabico', 'granivoro', 'carasau']","['arabico', 'carasau', 'amarico', 'cereale', 'caseoso']",sottile
+10513,Centro di pesatura,"['ur', 'us', 'pu', 'sp', 'um']","['ur', 'us', 'pu', 'sp', 'um']",at
+15497,Un'esclamazione di stupore,"['perbacco', 'oh', 'urca', 'toh', 'caspita']","['oh', 'ah', 'uh', 'eh', 'ih']",ah
+17202,Il famoso capomafia di Puzo,"['primocarnera', 'babassu', 'bagutta', 'cagliostro', 'mandrilli']","['babassu', 'bagutta', 'cutugno', 'alibaba', 'tecoppa']",padrino
+5566,Un motocarro della Piaggio,"['ape', 'vespa', 'apeoperaia', 'scooter', 'scarabeo']","['ape', 'api', 'tea', 'voi', 'lei']",ape
+9224,Il campo da baseball,"['cricket', 'soccer', 'baseball', 'hurling', 'prateria']","['baseball', 'prateria', 'footgolf', 'softball', 'minigolf']",diamante
+15842,Savane sudamericane,"['sertao', 'guanachi', 'coguari', 'llanos', 'pampas']","['sertao', 'llanos', 'pampas', 'andine', 'coiote']",llanos
+11315,"__ e Dalila, opera lirica","['manona', 'manonera', 'stignani', 'monnalisa', 'alcina']","['gioanna', 'sansone', 'varrone', 'manista', 'leonora']",sansone
+7639,La regione più orientale d'Italia,"['puglia', 'calabria', 'emilia-romagna', 'romagna', 'dalmazia']","['puglia', 'frigia', 'istria', 'molise', 'veneto']",puglia
+17926,Un organismo preposto alla salvaguardia del libero mercato,"['comitatodiaffari', 'sindacato', 'associazione nazionale dei comuni italiani', 'consob', 'caf']","['sindacato', 'antitrust', 'unicredit', 'antimafia', 'syndicate']",antitrust
+16582,"Chi la pratica, veste di bianco","['scherma', 'atleticapesante', 'pattinaggio', 'ciclismo', 'boxe']","['scherma', 'nudismo', 'podismo', 'skisurf', 'carving']",scherma
+7451,Un ciclo che interessa gli storici,"['epoca', 'era', 'epoche', 'eraspaziale', 'millennio']","['era', 'evo', 'evi', 'eci', 'ere']",era
+5940,Penetra sottilmente,"['gelone', 'neve', 'gelo', 'congelatore', 'stufa']","['amo', 'afa', 'ago', 'coe', 'ski']",ago
+19078,Seccatrice di campagna,"['tignola', 'molestatrice', 'fillossera', 'zanzara', 'pappataci']","['tignola', 'zanzara', 'seccata', 'tediata', 'molesta']",aridita
+7974,Famosa cantante italiana,"['miamartini', 'fiorellamannoia', 'giorgiatodrani', 'carlabissialice', 'loredanalecciso']","['annamariarizzoli', 'enricabonaccorti', 'silvanapampanini', 'nicolettabraschi', 'lorellacuccarini']",donatellarettore
+20380,Un albero a ombrello,"['pino', 'platano', 'olivo', 'ontano', 'ailanto']","['pino', 'olmo', 'pero', 'melo', 'mapo']",pino
+1535,Popolazione sul bacino del Niger,"['giuba', 'dube', 'nilota', 'tutsi', 'cabila']","['ibo', 'kwa', 'ewe', 'abu', 'rif']",ibo
+4337,Amareggiano l'esistenza,"['angosce', 'malesseri', 'tormenti', 'triboli', 'vicissitudini']","['guai', 'noie', 'mali', 'pene', 'egre']",mali
+5933,La Tortora del TgLaSette,"['tommasa', 'gaia', 'ettora', 'cinzia', 'ermana']","['gaia', 'ivia', 'mimì', 'joan', 'lila']",gaia
+9430,Li dilapida il prodigo,"['danari', 'soldi', 'patrimoni', 'risparmi', 'averi']","['soldi', 'averi', 'fondi', 'gioie', 'erari']",averi
+13984,Un' asticella degli occhiali,"['serliana', 'occhialone', 'calamistro', 'ardiglione', 'retina']","['asola', 'spera', 'fovea', 'susta', 'dardo']",susta
+2145,I beni proprietà dello Stato,"['demanio', 'erari', 'proprietà pubblica', 'demanialità', 'erario']","['erario', 'tenute', 'domini', 'vicere', 'poteri']",erario
+1346,Lo è il seccatore che non fa che chiedere denaro!,"['gretto', 'tirchio', 'spilorcio', 'squattrinato', 'avaro']","['ingeneroso', 'pecuniario', 'poveraccio', 'edonistico', 'scrocchino']",sanguisuga
+351,Notificare con avviso pubblico,"['notificare', 'denunciare', 'avvisare', 'annunciare', 'divulgare']","['bandire', 'emanare', 'svelare', 'esporre', 'siglare']",bandire
+9961,Separa il Mar Nero dal Caspio,"['azov', 'ural', 'dnepr', 'caucaso', 'oka']","['caucaso', 'granico', 'cernaia', 'bosforo', 'marnero']",caucaso
+19583,Cavità sotterranea,"['burrone', 'speleo', 'ipogeo', 'cunicolo', 'spelonca']","['burrone', 'caverna', 'miniera', 'cavedio', 'baratro']",caverna
+10611,Estremamente esatte,"['perentorie', 'decisive', 'ferree', 'assolute', 'rigorose']","['ferrate', 'erculee', 'estreme', 'eccelse', 'massime']",precise
+17667,Ama la montagna,"['alpinista', 'rocciatore', 'scalatore', 'discesista', 'montanaro']","['alpinista', 'scalatore', 'montanaro', 'alpinisti', 'stradista']",alpinista
+5817,Si apre nella pancia dell'aereo,"['paracadute', 'portellone', 'airbag', 'scatolanera', 'oblò']","['paracadute', 'portellone', 'finestrino', 'deflettore', 'vuotodaria']",portellone
+2647,Comune fiore da davanzale vivacemente colorato,"['geranio', 'azalea', 'giaggiolo', 'bucaneve', 'giacinto']","['geranio', 'verbena', 'begonia', 'alcanna', 'malvone']",geranio
+17753,Donna di Bilbao,"['basca', 'andalusa', 'madrilena', 'brasiliana', 'belga']","['basca', 'belga', 'basco', 'sarda', 'ibero']",basca
+7553,Lo si effettua anche a rate,"['pagamento', 'prestito', 'esborso', 'rinnovo', 'bancogiro']","['pagamento', 'bancogiro', 'passaggio', 'cambiario', 'scontrino']",pagamento
+503,Inadatti alla circostanza,"['disadatti', 'inidonei', 'inadatti', 'inopportuni', 'disadattati']","['inopportuni', 'disadattati', 'malcapitati', 'inabitabili', 'inevitabili']",inopportuni
+4828,Il filo conduttore per il detective,"['cavetto', 'pinza', 'fusibile', 'pinzetta', 'refe']","['cavetto', 'indizio', 'biochip', 'capetto', 'rivetto']",indizio
+9440,Capo della Chiesa cattolica eletto dal conclave,"['vescovo', 'prelato', 'antipapa', 'vescovado', 'abate']","['papa', 'papà', 'papi', 'imam', 'duke']",papa
+3211,Una classe ferroviaria,"['rapido', 'intercity', 'celere', 'accelerato', 'diretta']","['diretta', 'ridotto', 'filovia', 'diretto', 'binaria']",seconda
+14572,"Frobe, il perfido Goldfinger nemico di James Bond","['ferruccio', 'gianstefano', 'gianroberto', 'rocco', 'alfio']","['rino', 'elgo', 'elzo', 'alex', 'eddo']",gert
+20469,Esegue esercizi al trapezio,"['trapezista', 'schermidore', 'volleista', 'lanciatoredicoltelli', 'attrezzista']","['cannista', 'rugbista', 'cestista', 'karateka', 'agonista']",acrobata
+14785,Un gruppo di isole vicine,"['isolesottovento', 'isoladeipescatori', 'madrepore', 'amirante', 'isoladicarturo']","['isoladiman', 'sottovento', 'isolabella', 'pescadores', 'isoleionie']",arcipelago
+10369,Passano e pesano,"['anni', 'giorni', 'mesi', 'pomeriggi', 'ore']","['anni', 'mesi', 'vini', 'date', 'mode']",anni
+15801,Sono molto sensibili ai problemi dell'ambiente naturale,"['ecologisti', 'ambientalisti', 'ambientaliste', 'animalisti', 'ecologi']","['ecologisti', 'animalisti', 'ecologista', 'ecologismo', 'ambientali']",ecologisti
+119,Pendono dagli orecchi,"['orecchie', 'lobi', 'orecchi', 'voci', 'orecchini']","['lobi', 'voci', 'urla', 'ance', 'uova']",lobi
+8973,Maniere artistiche,"['stili', 'bellearti', 'stile', 'modi', 'artistiche']","['stili', 'stile', 'stide', 'estri', 'style']",stili
+5937,La lingua di Skopje,"['macedonico', 'macedone', 'montenegrino', 'balcanico', 'bosniaco']","['macedone', 'bosniaco', 'macedoni', 'polesano', 'zakopane']",macedone
+9125,Furono signori di Milano,"['sforza', 'gonzaga', 'mazzini', 'borboni', 'modignani']","['visconti', 'grimaldi', 'altoviti', 'borrelli', 'bistolfi']",visconti
+12705,Caratterizza la cometa,"['motilita', 'ereditarieta', 'tendenza', 'affinità', 'elicità']","['coda', 'aura', 'brio', 'code', 'fase']",coda
+11020,Un liquore amaro estratto da una radice,"['centerbe', 'maraschino', 'nocino', 'rabarbaro', 'rhum']","['rabarbaro', 'alchermes', 'ravanelli', 'limoncino', 'radicchio']",rabarbaro
+10583,Zappe con il ferro largo,"['zappe', 'marre', 'zeppe', 'ronche', 'fasci']","['zappe', 'marre', 'zeppe', 'fasci', 'zolle']",marre
+14803,Posare con delicatezza,"['posare', 'adagiare', 'posizionare', 'custodire', 'riservare']","['adagiare', 'attelare', 'piazzare', 'staggire', 'palliare']",adagiare
+10761,Una screziatura del marmo,"['sgretolamento', 'incavatura', 'intaccatura', 'lapidatura', 'franamento']","['intaglio', 'frattura', 'sdrucita', 'scoltura', 'squarcio']",venatura
+6815,Edificio con tombe di uomini illustri,"['cenotafio', 'oantheon', 'mausoleo', 'ossario', 'mausoleodialicarnasso']","['oantheon', 'mausoleo', 'ecomuseo', 'sepolcro', 'sacrario']",pantheon
+18366,Archimede la voleva per sollevare il mondo!,"['leva', 'coclea', 'boma', 'manovella', 'volta']","['leva', 'boma', 'vite', 'leve', 'coda']",leva
+15633,Si cura con il chinino,"['cirrosi', 'malarica', 'malaria', 'pellagra', 'listeria']","['malarica', 'pellagra', 'listeria', 'pertosse', 'morbillo']",malarico
+17682,Un pianeta con gli anelli come Saturno,"['urano', 'saturno', 'marte', 'plutone', 'mercuria']","['urano', 'marte', 'giove', 'ianet', 'laran']",urano
+19407,La fanno i tifosi allo stadio,"['ola', 'tifosa', 'tifoseria', 'tifosi', 'tifoso']","['ola', 'alé', 'gol', 'ale', 'ita']",ola
+18083,Le orbite dei pianeti,"['eclittiche', 'sferiche', 'esagonali', 'rotonde', 'sferici']","['rotonde', 'sferici', 'cubiche', 'rotondi', 'ellissi']",ellissi
+13619,No irrevocabile,"['mai', 'never', 'neppure', 'no', 'nì']","['mai', 'pas', 'nor', 'nno', 'noo']",mai
+2043,Sfreccia su piste gelate,"['slittino', 'bob', 'snowcat', 'curling', 'bobber']","['bob', 'ski', 'ice', 'sci', 'jan']",bob
+2420,Macchina per impastare il cemento,"['betoniera', 'pigiadiraspatrice', 'betoniere', 'escavatrice', 'tornio']","['betoniera', 'betoniere', 'bulldozer', 'stiratoio', 'grattugia']",betoniera
+208,Popolano altri mondi,"['extraterrestri', 'alieni', 'umanoidi', 'marziani', 'cosmonauti']","['umanoidi', 'marziani', 'spaziali', 'indigeni', 'galassie']",marziani
+13441,"___ Stewart, il capitano Picard di ""Star Trek""","['rod', 'amii', 'dennis', 'granger', 'roo']","['granger', 'stanley', 'sennett', 'bobtail', 'spinoni']",patrick
+19637,Grande vespa gialla e nera,"['calabrone', 'vepre', 'zanzara', 'ape', 'mecottero']","['calabrone', 'mecottero', 'rodilegno', 'crisalide', 'termitaio']",calabrone
+2848,È di buon umore,"['gaio', 'gioioso', 'giocoso', 'festoso', 'gioviale']","['ilare', 'vispo', 'lieto', 'lieta', 'vispa']",lieto
+20271,Si sviluppano nel vivaio,"['filari', 'piante', 'rametti', 'alberelli', 'pergole']","['annaffiatoi', 'pianticelle', 'giardinetti', 'sempreverdi', 'piantagioni']",pianticelle
+2893,Un avverbio che nega,"['neppure', 'neanche', 'nemmeno', 'no', 'né']","['no', 'né', 'nì', 'ni', 'ne']",no
+20780,Il genere musicale di J-Ax,"['rap', 'glamrock', 'jazz', 'techno', 'minimalmusic']","['rap', 'ska', 'dub', 'bop', 'pop']",rap
+3638,Scaldabagno elettrico,"['refrigeratore', 'frigidaire', 'boiler', 'bollitore', 'caldaio']","['boiler', 'cooler', 'tegame', 'teglia', 'scaldo']",boiler
+16903,Non campati in aria,"['concreti', 'realistici', 'concretati', 'esistenti', 'verosimili']","['reali', 'inani', 'probi', 'leali', 'spuri']",reali
+4852,"Scrisse ""Altezza reale""","['rostand', 'conrad', 'albertcamus', 'thomasstearnseliot', 'mallarme']","['hugo', 'shaw', 'muir', 'lear', 'bard']",mann
+5394,Un formaggio svizzero,"['emmental', 'sbrinz', 'emmenthal', 'simmenthal', 'thun']","['emmental', 'groviera', 'schwerin', 'engadina', 'caciotta']",emmental
+16800,Un film con Jonathan Pryce,"['luomocheucciselibertyval', 'thedayafter', 'luomochesapevatroppo', 'mysweetlord', 'mash']","['benhur', 'crimen', 'madmen', 'rififi', 'accatt']",brazil
+20737,Può essere cordiale o ironico,"['risolino', 'sorriso', 'risatina', 'motteggio', 'solletico']","['sorriso', 'scherno', 'boutade', 'sguardo', 'parodia']",sorriso
+6494,Comprende il Salento,"['penisolasalentina', 'liguria', 'salento', 'basilicata', 'valsugana']","['molise', 'puglia', 'istria', 'friuli', 'veneto']",puglia
+6076,A volte lo si limita con un estintore,"['umidità', 'respiramento', 'drenaggio', 'umidita', 'calore']","['tiraggio', 'afflusso', 'bruciore', 'efflusso', 'incendio']",incendio
+17189,Un negozio di pillole e di sciroppi,"['drogheria', 'zuccherificio', 'dolciaria', 'erboristeria', 'farmacia']","['farmacia', 'cremeria', 'galenica', 'dolceria', 'cesteria']",farmacia
+19421,Fa da contraltare all'import,"['nostrano', 'nostrale', 'nostrana', 'ital', 'nostrane']","['export', 'estero', 'import', 'nativo', 'estere']",export
+15969,Taglia solo da una parte,"['lametta', 'rasiera', 'rasoio', 'tagliamento', 'troncone']","['troncone', 'tagliare', 'diametro', 'rasatore', 'seghetto']",coltello
+20831,Il primo grande successo di Fiorello.,"['madonnasistina', 'donpasquale', 'passionesecondosanmatteo', 'dialoghidellecarmelitane', 'lalocandiera']","['karaoke', 'rosario', 'rossini', 'amadeus', 'reality']",karaoke
+15898,Scossa in centro,"['ss', 'as', 'cs', 'os', 'sc']","['ss', 'as', 'cs', 'os', 'sc']",os
+16416,Giorni di metà mese nell'antica Roma,"['idi', 'calende', 'net', 'maiestate', 'ididimarzo']","['idi', 'net', 'ier', 'sab', 'jus']",net
+5350,Eseguite a pieni pedali,"['pedalate', 'cronoscalate', 'ritmiche', 'sincopate', 'corse']","['salite', 'issate', 'volate', 'scalee', 'alzate']",volate
+8178,Ha le canne ma non è un organo,"['organo', 'tamburo', 'fucile', 'strumento', 'canna']","['organo', 'fucile', 'flauto', 'tromba', 'organi']",fucile
+19739,Allarmano chi le sente,"['urla', 'urli', 'gridate', 'accidenti', 'strilli']","['grida', 'urlio', 'grido', 'gride', 'paure']",grida
+5952,"L' ""arbiter elegantiarum"" di Nerone","['valeriano', 'collatino', 'serviotullio', 'properzio', 'tulloostilio']","['petronio', 'augustae', 'valadier', 'litterio', 'mezenzio']",petronio
+2334,Periodo geologico,"['era', 'epoca', 'miocene', 'trias', 'eraspaziale']","['era', 'eon', 'ere', 'eci', 'evo']",nst
+17228,Si gonfia nel pneumatico,"['pneumatico', 'airbag', 'battistrada', 'parafango', 'pneumatica']","['battistrada', 'cameradaria', 'frenoadisco', 'frenasterzo', 'motorimessa']",cameradaria
+15297,Si scrivono giorno per giorno,"['diari', 'quotidiani', 'poesie', 'romanzetti', 'agendine']","['diari', 'prose', 'epodi', 'poemi', 'versi']",diari
+19839,Un abito usato quasi solo dagli orchestrali,"['frac', 'tait', 'saio', 'palandrana', 'marsina']","['frac', 'tait', 'saio', 'tutu', 'sari']",frac
+14746,In atletica si fanno in alto e in lungo,"['salti', 'rincorse', 'volteggi', 'ascensioni', 'corse']","['salti', 'corse', 'lanci', 'balzi', 'tuffi']",salti
+16553,Nome di antichi regnanti polacchi,"['casimiro', 'casimiroa', 'ottocaro', 'ladislao', 'teodomiro']","['casimiro', 'ottocaro', 'ladislao', 'roderico', 'lisimaco']",casimiro
+843,Una farina come la tapioca,"['tapioca', 'semolino', 'segale', 'tofu', 'segala']","['segale', 'segala', 'semola', 'muesli', 'spelta']",fecola
+4667,Scrisse Liliom,"['molnar', 'skrjabin', 'zinovev', 'levtolstoi', 'cechov']","['molnar', 'cechov', 'haskil', 'puskin', 'glinka']",molnar
+12824,Un' attrice italiana,"['luisaranieri', 'amandalear', 'claudiagerini', 'lauramorante', 'albarohrwacher']","['ginalollobrigida', 'valentinacortese', 'annamariarizzoli', 'francescadellera', 'claudiacardinale']",francescadellera
+10620,"Franco, ma non francese","['francofono', 'francese', 'francico', 'francofilo', 'francone']","['frico', 'argot', 'leale', 'arabo', 'rouge']",leale
+13505,Patimenti,"['strazi', 'patimenti', 'travagli', 'angosce', 'triboli']","['pene', 'guai', 'pena', 'noie', 'lezi']",pene
+8059,Preso con l'inganno,"['irretito', 'sedotto', 'intrappolato', 'abbindolato', 'fregato']","['irretito', 'aggirato', 'appresso', 'bidonato', 'inculato']",irretito
+13271,Frutto molto succoso,"['anguria', 'drupa', 'agrume', 'ananasso', 'peraspadona']","['anguria', 'percoca', 'arancia', 'avocado', 'nespola']",arancia
+1393,Attrezzo agricolo col vomere,"['erpice', 'aratro', 'aratrice', 'falce', 'vanga']","['erpice', 'aratro', 'aratri', 'araido', 'erpici']",aratro
+4702,Ritrasse la Gioconda,"['giorgione', 'giorgetto', 'leonardopisano', 'leonardo', 'laonardo']","['leonardo', 'laonardo', 'filarete', 'leonorio', 'giottino']",leonardo
+9517,È figlio di un asino ma non è un asino,"['mulo', 'somarello', 'somaro', 'ciuco', 'asinello']","['mulo', 'esau', 'agno', 'soro', 'muli']",mulo
+14613,Inviato per posta,"['spedito', 'trasmesso', 'recapitato', 'emesso', 'inviato']","['spedito', 'inviato', 'spediti', 'emanato', 'erogato']",spedito
+1493,Lega l'insalata russa,"['bechamel', 'garum', 'ciauscolo', 'caponata', 'besciamella']","['bechamel', 'caponata', 'maionese', 'scamorza', 'caciotta']",maionese
+2247,Il famoso film di Spielberg con i dinosauri,"['duel', 'et', 'indianajones', 'jurassicpark', 'ai']","['indianajones', 'jurassicpark', 'jamesstewart', 'runawaybride', 'jamescameron']",jurassicpark
+9785,Il nome della Hurley,"['liz', 'bonnie', 'lily', 'emily', 'margaret']","['liz', 'sly', 'pat', 'edy', 'amy']",liz
+12838,Sono uguali nell'avviso,"['vs', 'vv', 'uv', 'ov', 'ovs']","['vs', 'vv', 'uv', 'ov', 'vj']",vv
+2171,Si suona stando seduti,"['carillon', 'grancassa', 'marimba', 'armonium', 'wawa']","['pianoforte', 'campanello', 'campanella', 'tamburello', 'ciaramella']",pianoforte
+13813,Lo venerava Bossi,"['po', 'isonzo', 'arcoalpino', 'maretirreno', 'panaro']","['po', 'pd', 'pu', 'pa', 'p2']",po
+11576,Vende carta stampata,"['giornalaio', 'edicolante', 'cartaio', 'filatelico', 'libraio']","['giornalaio', 'edicolante', 'filatelico', 'stampatore', 'copisteria']",giornalaio
+2127,Si esclama per confermare,"['gia', 'già', 'eccome', 'benone', 'beninteso']","['gia', 'già', 'ugh', 'oui', 'sia']",già
+9114,Taglio dell'lva.,"['svolo', 'stralcio', 'defalco', 'stralpo', 'stritolamento']","['zv', 'fv', 'nv', 'xn', 'xt']",iv
+1640,Fu regina di Tiro,"['ifigenia', 'dirce', 'tisbe', 'nefele', 'clitennestra']","['nefele', 'aglaia', 'latona', 'egeria', 'atalia']",didone
+13021,"Lo sono i modi zotici, scurrili","['inurbani', 'laidi', 'sconci', 'rozzi', 'brutti']","['inurbani', 'sgarbati', 'scurrili', 'triviali', 'scabrosi']",triviali
+9006,Agitati dai nervi,"['esagitati', 'concitati', 'eccitati', 'nervosi', 'emozionati']","['eccitati', 'isterici', 'alterati', 'convulsi', 'esortati']",alterati
+1355,Spettacolo pungente,"['satira', 'farsa', 'motteggio', 'sarcastica', 'parodia']","['satira', 'comica', 'dramma', 'ironia', 'ghigno']",satira
+16795,Una Sandrelli attrice (iniz.),"['ss', 'sda', 's a s', 'sas', 'gs']","['ss', 'gs', 'ls', 'as', 'sa']",ss
+5553,Recita Chi la fa l'aspetti,"['scena', 'recita', 'guitto', 'scenamuta', 'cavatina']","['scenamuta', 'pantomima', 'sciantosa', 'ninamoric', 'comeprima']",proverbio
+6664,Vai... in America,"['go', 'vai', 'agod', 'og', 'gom']","['go', 'og', 'yo', 'oy', 'ko']",go
+5557,Scandire... i movimenti,"['ritmare', 'addormentare', 'rallentare', 'frenare', 'ipnotizzare']","['ritmare', 'frenare', 'pulsare', 'fermare', 'agitare']",ritmare
+12240,Un gusto di gelato spesso accoppiato al cioccolato,"['cremino', 'vaniglia', 'pralina', 'mandorla', 'mostacciolo']","['dolce', 'crema', 'boero', 'cacao', 'boera']",crema
+323,Una diffusa carta di credito,"['card', 'postcard', 'viacard', 'carta prepagata', 'paypal']","['card', 'visa', 'cash', 'pass', 'flat']",visa
+5841,Canaletti di campagna,"['gore', 'navigli', 'renai', 'guadi', 'canali']","['renai', 'guadi', 'alvei', 'fossi', 'norie']",fossi
+17090,E... va bene!,"['ok', 'benone', 'vabene', 'okay', 'ehgia']","['gia', 'sia', 'ugh', 'oui', 'già']",sia
+423,Furti continuati,"['furti', 'rapine', 'ruberie', 'estorsioni', 'scippi']","['ruberie', 'incette', 'bottini', 'ruberia', 'ladrata']",ruberie
+11286,Si accendono in chiesa,"['ceri', 'lumini', 'candelieri', 'soffietti', 'candele']","['ceri', 'cero', 'pire', 'riti', 'tevn']",ceri
+18341,Le ceste degli aeronauti,"['carlinghe', 'navicelle', 'cassoni', 'carrelli', 'bauli']","['carlinghe', 'navicelle', 'abitacoli', 'valigette', 'aviolinee']",navicelle
+16226,Spazio a perdita d'occhio,"['oasi', 'deserto', 'spiazzo', 'disparte', 'interpiano']","['deserto', 'spiazzo', 'distale', 'distesa', 'scorcio']",vastità
+12850,Una tragica sigla storica,"['ss', 'iss', 'sts', 'ssi', 'sps']","['ss', 'sx', 'is', 'es', 'fs']",ss
+19157,Salite scoscese,"['erte', 'scarpate', 'salite', 'ripide', 'ascese']","['erte', 'rupi', 'erta', 'erto', 'erti']",erte
+1087,Per alimentare il bestiame,"['foraggio', 'mangime', 'bestiame', 'mangiatoia', 'biada']","['biada', 'fieno', 'biade', 'avena', 'ovile']",fieno
+19884,Voluti senza voti,"['astensionisti', 'ov', 'vo', 'astenuti', 'vt']","['ov', 'vo', 'vt', 'nt', 'vn']",lu
+19743,Membri di un club,"['tesserati', 'iscritti', 'associati', 'partecipanti', 'affiliati']","['sodali', 'adepti', 'membri', 'tifosi', 'atleti']",sodali
+10349,Ancorare un natante,"['ormeggiare', 'ancorare', 'alettare', 'bordare', 'ridondare']","['ormeggiare', 'riannodare', 'calafatare', 'rinterzare', 'rintuzzare']",ormeggiare
+13740,Somara,"['ciuco', 'asino', 'asinello', 'somara', 'somaro']","['ciuco', 'asino', 'asina', 'basto', 'asini']",asina
+3572,Se cede crolla il tetto,"['trave', 'altana', 'antenna', 'piliere', 'tegola']","['trave', 'tenda', 'travi', 'tetto', 'edera']",trave
+10730,Articolo indeterminativo,"['un', 'una', 'uno', 'qualcuno', '1']","['una', 'uno', ""un'"", 'une', 'gli']",uno
+11967,Una volta in Inghilterra,"['once', 'one', 'sun', 'uk', 'lord']","['once', 'lord', 'inch', 'half', 'side']",once
+10489,Le Moire dei Romani,"['moire', 'camene', 'pomone', 'larari', 'guelfe']","['camene', 'pomone', 'larari', 'guelfe', 'parche']",parche
+6075,Diventati astiosi,"['astiosi', 'arsicci', 'usti', 'afri', 'caustici']","['cianotici', 'inaspriti', 'concupiti', 'astiosità', 'ingrigiti']",inaciditi
+3509,Pianta rampicante detta anche brionia,"['brionia', 'malvone', 'convolvolo', 'filodendro', 'alberodigiuda']","['convolvolo', 'filodendro', 'rododendro', 'ginestreto', 'agrifoglio']",vitebianca
+2270,Bomba da fine del mondo!,"['bomba atomica', 'atomica', 'ebomb', 'bunkerbuster', 'dumdum']","['atomica', 'petardo', 'molotov', 'atomico', 'ordigno']",atomica
+12233,Il pareggio sulla schedina,"['ics', 'parita', 'ipsilon', 'pari', 'paritari']","['ics', 'uno', 'ioo', 'due', 'ooi']",ics
+3479,Non gravati da imposte,"['esenti', 'esentati', 'esonerati', 'esentate', 'netti']","['esenti', 'liberi', 'esente', 'immuni', 'spogli']",esenti
+17747,Iniziali di Insinna,"['fi', 'in', 'mi', 'inf', 'im']","['fi', 'in', 'mi', 'im', 'pi']",fi
+12649,"Se lo rovesci, lo vedi come nove","['nove', 'sei', 'decimo', 'sestuplo', 'cinque']","['sei', 'tre', 'xix', 'xii', 'due']",sei
+2518,Quelle fatte sono luoghi comuni,"['frasi', 'cose', 'parolacce', 'storie', 'parolette']","['frasi', 'solfe', 'verbi', 'motti', 'lemmi']",frasi
+1604,Rigorosi censori,"['censori', 'austeri', 'tassativi', 'severi', 'moralisti']","['tassativi', 'moralisti', 'criticoni', 'perentori', 'castigati']",moralisti
+2930,Lo sono le merci importate dalla Germania,"['austriache', 'importate', 'asiatiche', 'nordeuropee', 'tedesche']","['tedesche', 'svizzere', 'esotiche', 'italiane', 'nostrane']",tedesche
+11521,John poeta anglosassone,"['keats', 'yeats', 'sheeran', 'acton', 'byron']","['milton', 'bysshe', 'lennon', 'searle', 'dantes']",milton
+7899,Suggeriscono buone letture,"['baristi', 'bevitori', 'vinai', 'osti', 'ristoratori']","['birrai', 'astemi', 'tonici', 'bibite', 'ottici']",librai
+6872,Lo Stato USA con Sacramento,"['washington', 'illinois', 'oregon', 'idaho', 'wisconsin']","['washington', 'california', 'newengland', 'new jersey', 'pittsburgh']",california
+12339,La lavorano i contadini,"['concime', 'gleba', 'semina', 'pianura', 'semenza']","['gleba', 'terra', 'zolla', 'calce', 'humus']",terra
+5250,La filosofia dell'essere,"['metafisica', 'causamateriale', 'ontologia', 'relativismo', 'esistenzialismo']","['ontologia', 'axiologia', 'fisicismo', 'empirismo', 'filosofia']",ontologia
+5195,Lo stesso che essi,"['quelli', 'costui', 'essi', 'loro', 'coloro']","['essi', 'loro', 'egli', 'tali', 'quei']",loro
+10132,"Usare, impiegare","['adoperare', 'usare', 'utilizzare', 'impiegare', 'adoperarsi']","['adoperare', 'impiegare', 'sfruttare', 'usufruire', 'adoperato']",adoperare
+11269,Tale da far rizzare i capelli per il raccapriccio,"['orrorifico', 'spaventevole', 'terrificante', 'orrendo', 'spaventoso']","['orripilante', 'mostrosacro', 'abominevole', 'devastatore', 'mirabolante']",orripilante
+9421,Seguace di un'antica setta ebraica,"['sionista', 'israelita', 'semita', 'semitico', 'sefardita']","['caraita', 'senusso', 'cananeo', 'ebraico', 'eblaita']",fariseo
+5784,"Paolo __, cantautore astigiano","['mieli', 'panelli', 'conte', 'brosio', 'liguori']","['mieli', 'conte', 'virzi', 'bocci', 'solmi']",conte
+8710,La nota che accorda,"['la', 'fa', 'sol', 'si', 'là']","['la', 'fa', 'si', 'là', 'sì']",la
+18771,Un sogno irrealizzabile,"['chimera', 'utopia', 'sogno', 'incubo', 'irrealta']","['utopia', 'incubo', 'realtà', 'realta', 'ipnosi']",utopia
+16155,Si accumulano in cataste,"['terreni', 'rovine', 'macerie', 'poderi', 'terrene']","['terreni', 'macerie', 'terrene', 'rovinii', 'detriti']",legnami
+11811,Quel che non fa l'irresoluto,"['agire', 'voler', 'volere', 'decidere', 'fare']","['agire', 'voler', 'avere', 'stare', 'porsi']",agire
+8962,Stato di distensione,"['sopore', 'quiescenza', 'relax', 'atonia', 'stanchezza']","['relax', 'stasi', 'svago', 'atona', 'apnea']",relax
+5034,Leggero digestivo di color giallo,"['fernet', 'nocino', 'idromele', 'rabarbaro', 'amaro']","['amarognolo', 'limoncello', 'amaricante', 'maraschino', 'amarulento']",limoncello
+16719,Un formaggio erborinato,"['caciocavallo', 'taleggio', 'caciotta', 'provola', 'groviera']","['gorgonzola', 'caciottina', 'stracchino', 'cacerolazo', 'mascarpone']",gorgonzola
+13728,I suoi soci danno sangue (sigla),"['avis', 'anva', 'anv', 'anpi', 'anem']","['avis', 'anva', 'anpi', 'anem', 'enav']",avis
+9525,"Piacevole, grazioso","['piacente', 'carino', 'gradevole', 'grazioso', 'affabile']","['carino', 'bonito', 'carina', 'carini', 'carine']",carino
+7047,Montale parlò di quelli di seppia,"['ossi', 'cuoi', 'ossicini', 'cadaveri', 'rognoni']","['ossi', 'cuoi', 'pani', 'peci', 'osei']",ossi
+828,Famoso dolce senese,"['pandoro', 'panforte', 'torrone', 'sachertorte', 'panettone']","['panforte', 'pastiera', 'pandolce', 'cornetto', 'tiramisù']",panforte
+13687,"Il nome della Bernhardt, che fu grande attrice","['sarah', 'susan', 'stefania', 'anjelica', 'isabel']","['sarah', 'susan', 'ethel', 'annie', 'eelen']",sarah
+776,Ridente località sul Garda,"['salò', 'sirmione', 'jesolo', 'salo', 'lerici']","['sirmione', 'camaiore', 'arenzano', 'spotorno', 'vigevano']",sirmione
+34,Prive di tortuosità,"['diritte', 'equilibrate', 'dritte', 'giuste', 'eque']","['diritte', 'sensate', 'oculate', 'precise', 'intonse']",diritte
+4015,Sostituisce il principale,"['surrogato', 'sostitutivo', 'sostituto', 'vicariante', 'sostituente']","['vice', 'plus', 'sub-', 'sur-', 'vece']",vice
+5165,L'ortaggio di Pachino,"['cavolfiore', 'cavolo', 'zucca', 'pomodoro', 'carota']","['pomodoro', 'zucchina', 'zucchino', 'carciofo', 'cetriolo']",pomodoro
+13637,Spesso il terzo è l'ultimo,"['penultimo', 'sesto', 'quarto', 'terzultimo', 'decimo']","['nono', 'mese', 'viii', 'fine', 'xiii']",atto
+13172,Post Scriptum,"['ps', 'psc', 'sps', 'pss', 'jps']","['ps', 'sp', 'jp', 'cp', 'fp']",ps
+1510,Mettono termine al lavoro,"['ro', 'zo', 'va', 'ra', 'vo']","['ro', 'zo', 'va', 'ra', 'vo']",ro
+8116,Illumina e riscalda,"['lampada', 'lampadina', 'lampara', 'lampadario', 'lumino']","['neon', 'sole', 'lume', 'luna', 'luce']",sole
+19039,Ha un vuoto nel cervello,"['distratto', 'dimentico', 'svagato', 'scapato', 'mentecatto']","['distratto', 'dimentico', 'distratta', 'cerebrale', 'frainteso']",smemorato
+13267,Le camere destinate agli sposi,"['casette', 'talami', 'bilocali', 'salotti', 'cabine']","['talami', 'cabine', 'stanze', 'alcove', 'camere']",talami
+15111,Patrimonio immobiliare,"['demanio', 'censo', 'asset', 'proprieta', 'catasto']","['censo', 'asset', 'averi', 'avere', 'domus']",censo
+8211,Tangibili,"['concreti', 'esistenti', 'contanti', 'redditizi', 'materialistici']","['vicendevoli', 'concernenti', 'clientelari', 'immateriali', 'percepibili']",percepibili
+4269,Aggravio fiscale,"['onere', 'gravame', 'onerosita', 'oneri', 'gravami']","['onere', 'oneri', 'dazio', 'tassa', 'irpeg']",onere
+9645,Una chiacchiera leggera,"['chiacchiera', 'chiacchierata', 'ciarla', 'ciancia', 'chiacchiericcio']","['ciarla', 'ciarle', 'ciance', 'chiama', 'gossip']",ciarla
+15250,Colei che prova piacere a far del male agli altri,"['malfattrice', 'sadica', 'perfida', 'malvagia', 'malefica']","['sadica', 'sadico', 'monera', 'sadici', 'iniqua']",sadica
+13653,Il lover nostrano,"['amoretto', 'loveaffair', 'spasimante', 'corteggiatore', 'flirt']","['flirt', 'amore', 'romeo', 'amour', 'amori']",latin
+6536,Il nero lo è del bianco,"['nero', 'antitesi', 'negro', 'moro', 'nobiluomo']","['antitesi', 'sinonimo', 'negroide', 'antonimo', 'coetaneo']",antitesi
+20346,"La lettera che ""non conta""","['acca', 'maiuscola', 'iota', 'ipsilon', 'ics']","['acca', 'iota', 'enne', 'emme', 'elle']",acca
+2140,Grosso autoveicolo (sigla),"['suv', 'gta', 'tir', 'gtm', 'gmv']","['suv', 'gta', 'tir', 'gtm', 'gmv']",tir
+2408,"Le... palline del ""Saint-Honorè""","['petit', 'rosette', 'tout', 'rolandpetit', 'callot']","['petit', 'coeur', 'bilie', 'saint', 'craal']",bigne
+10834,Pezzetti di pesce insaporiti al granchio,"['branzini', 'naselli', 'avannotti', 'pizzoccheri', 'triglie']","['trofie', 'aselli', 'totani', 'scampi', 'cernie']",surimi
+19335,Si scatenano... furiose,"['collere', 'furie', 'ire', 'furori', 'uragani']","['ire', 'ira', 'odi', 'ier', 'rie']",ire
+18345,L'aperitivo con bitter e vermut,"['americano', 'inglese americano', 'americanocentrico', 'americanofilo', 'bitter']","['americano', 'longdrink', 'softdrink', 'americana', 'spanglish']",americano
+20509,Lo è uno di Mogadiscio,"['somale', 'somalo', 'somala', 'eritreo', 'senegalese']","['somale', 'somalo', 'somala', 'etiope', 'somali']",somalo
+5376,Sono note le sue danzatrici,"['carole', 'salome', 'carola', 'rigodone', 'carolalt']","['milo', 'chao', 'dodi', 'sade', 'artu']",bali
+16186,La mitiga la frescura,"['caldura', 'calura', 'canicola', 'afa', 'afosita']","['afa', 'ora', 'pus', 'aia', 'fon']",afa
+2265,La corona che si sgrana,"['serto', 'coronadalloro', 'lauro', 'diadema', 'corona radiata']","['diadema', 'fiorone', 'aureola', 'diademi', 'festone']",rosario
+606,Calma i nervi,"['tranquillante', 'calmante', 'sedativo', 'sedatore', 'tranquillita']","['placato', 'calmata', 'calmato', 'calmare', 'placare']",bromuro
+9016,La vendita con il banditore,"['asta', 'astevaoacevo', 'aste', 'pubblicita', 'smercio']","['asta', 'aste', 'opas', 'ebay', 'assa']",asta
+5732,Condimento per la pizza,"['pepebianco', 'origano', 'salsa', 'ragu', 'sugo']","['origano', 'paprica', 'salsina', 'paprika', 'zenzero']",origano
+1272,Lega per statue e monete,"['peltro', 'alpacca', 'oricalco', 'bronzo', 'ottone']","['peltro', 'bronzo', 'ottone', 'bronza', 'acrite']",bronzo
+19100,Artistico monumento sepolcrale,"['cenotafio', 'obelisco', 'acroterio', 'mausoleodialicarnasso', 'tumulazione']","['cenotafio', 'acroterio', 'cariatide', 'necropoli', 'obelischi']",sarcofago
+218,Un nome di donna,"['carmelina', 'elga', 'eda', 'onorina', 'elda']","['elga', 'elda', 'egle', 'neda', 'nora']",edda
+3274,Low Density Lipoproteins,"['ldl', 'ldh', 'dlp', 'hdl', 'lid']","['ldl', 'ldh', 'dlp', 'hdl', 'lid']",ldl
+2725,Precede Angeles in California,"['las', 'los', 'sol', 'llaa', 'la']","['las', 'los', 'sol', 'por', 'les']",los
+17872,Il collo la gira come vuole,"['rotella', 'trottola', 'testa', 'ruota', 'matassa']","['testa', 'ruota', 'cassa', 'zucca', 'botte']",testa
+6407,La patria di Nansen,"['svezia', 'danimarca', 'norvegia', 'paesiscandinavi', 'finlandia']","['norvegia', 'lapponia', 'sassonia', 'aalesund', 'karlstad']",norvegia
+12528,Iniziali di due Bergman sigla,"['ib', 'kb', 'bb', 'jb', 'sb']","['ib', 'kb', 'bb', 'jb', 'sb']",ib
+11628,È scritto sul cartello di certe fermate stradali,"['stop', 'segnaledarresto', 'altola', 'segnaledipericolo', 'alt']","['alt', 'etc', 'dot', 'via', 'ecc']",bus
+9038,Un lato che... fa compagnia all'ipotenusa,"['tortile', 'curvo', 'zigzag', 'zig zag', 'ipotenusa']","['zigzag', 'dritto', 'flessa', 'fianco', 'cateto']",cateto
+8174,Proveniente da paesi lontani,"['straniero', 'esotico', 'forestiero', 'indigeno', 'allogeno']","['esotico', 'oriundo', 'apolide', 'esotica', 'esotici']",esotico
+16000,Un Papa santo,"['igino', 'sisto', 'onorioterzo', 'onorio', 'piosesto']","['igino', 'sisto', 'cleto', 'santo', 'otone']",igino
+4309,Tebe ne aveva cento,"['specchi', 'carboni', 'neuroni', 'geni', 'solutori']","['crani', 'sensi', 'nervi', 'menti', 'sessi']",porte
+13111,Aiuta... il solutore,"['facilita', 'soluzione', 'solutore', 'facilità', 'problema']","['facilita', 'solutore', 'facilità', 'problema', 'concausa']",facilità
+10363,Ammassare in poco spazio,"['stipare', 'ammassicciare', 'gremire', 'cospargere', 'affollare']","['stipare', 'gremire', 'colmare', 'stivare', 'pigiare']",stipare
+16815,La zona del Veneto con Schio e Bassano,"['veneto', 'canavese', 'bellunese', 'trevigiano', 'trevisano']","['bellunese', 'trevisano', 'altoadige', 'viterbese', 'vallarolo']",vicentino
+3366,Annullare una prenotazione,"['revocare', 'obliterare', 'rigettare', 'disdettare', 'abrogare']","['disdire', 'abolire', 'bannare', 'cassare', 'scadere']",disdire
+17132,Caso da far maturare,"['evento', 'evenienza', 'eventualita', 'avvenimento', 'circostanza']","['evento', 'dativo', 'rogito', 'inizio', 'future']",evento
+10429,Rende i... fili taglienti!,"['arrotino', 'trancia', 'arrotatrice', 'fabbro', 'tranciatura']","['arrotino', 'seghetto', 'ferriera', 'ferrista', 'tirafilo']",arrotino
+18979,Il teste giura di dirla,"['verità', 'verita', 'veracita', 'veridicita', 'sincerità']","['verità', 'verita', 'onestà', 'parola', 'onesta']",verità
+12634,Vale vita,"['bio', 'vita', 'biota', 'esistenza', 'vitanaturaldurante']","['bio', 'veg', 'dna', 'eta', 'ifa']",bio
+12526,Lo sono i vestiti... comodi,"['larghi', 'agevoli', 'morbidi', 'amovibili', 'agibili']","['larghi', 'facili', 'snelli', 'sgonfi', 'comodi']",larghi
+3310,Pittore italiano contemporaneo noto come ritrattista,"['luciofontana', 'giorgiodechirico', 'tizianoscarpa', 'raffaellosanzio', 'aligisassu']","['bronzino', 'pontormo', 'ugobassi', 'giottino', 'gigiriva']",annigoni
+12780,La zona del Piemonte con Borgomanero,"['modenese', 'langhe', 'marchigiano', 'astigiano', 'roero']","['langhe', 'carema', 'inzago', 'marche', 'senese']",varese
+9579,"Una "" donatrice"" di latte","['mucca', 'vacca', 'cagna', 'giovenca', 'asina']","['mucca', 'vacca', 'cagna', 'asina', 'capra']",balia
+3721,Parolina da indeciso,"['ma', 'boh', 'uhm', 'chissa', 'mah']","['ma', 'ni', 'se', 'nì', 'mu']",ma
+2300,Il nome russo di Trotzkij,"['ilic', 'lev', 'vlad', 'iosip', 'roman']","['lev', 'lic', 'jan', 'ilf', 'lek']",lev
+438,É propria di chi è parco di parole,"['loquacita', 'loquacità', 'verbosità', 'verbosita', 'facondia']","['laconicita', 'prolissita', 'erremoscia', 'prolissità', 'trivialita']",laconicita
+10497,Ampolla sul desco,"['oliera', 'saliera', 'salsiera', 'ampolla', 'tovaglia']","['oliera', 'oliere', 'fiasca', 'posata', 'pancia']",oliera
+6366,Oggi cambia per i portatili,"['televisoreaparete', 'televisore', 'ipod', 'televisoriacolori', 'ikea']","['telecameradigitale', 'videoregistrazione', 'number portability', 'prototipo digitale', 'pila fotoelettrica']",prefissotelefonico
+16344,Fra Ludwig e Beethoven,"['von', 'rogier', 'rainer', 'und', 'herr']","['von', 'und', 'van', 'der', 'ein']",van
+16180,Un René fra i registi,"['clair', 'leclair', 'reneclair', 'depardieu', 'sorel']","['clair', 'sorel', 'pilon', 'pabst', 'cosso']",clair
+15102,Permette di tener fermo il violino,"['lucchetto', 'colpetto', 'sordina', 'spinetta', 'linguetta']","['maniglione', 'forcellone', 'serramento', 'ponticello', 'fingerpick']",mentoniera
+17331,"Settori, luoghi","['zone', 'scomparti', 'riparti', 'settorinumerati', 'settori']","['zone', 'aree', 'site', 'lati', 'siti']",zone
+9838,Si ricordano quelli del Bengala,"['tigrotti', 'tigri', 'mongoli', 'giaguari', 'tartari']","['tigrotti', 'giaguari', 'elefanti', 'nepalesi', 'lamaisti']",lancieri
+2879,Seni di mare,"['cale', 'baie', 'golfi', 'rade', 'seni']","['cale', 'baie', 'rade', 'seni', 'nioi']",rade
+13943,Rimedio contro gli strappi,"['paratasca', 'toppa', 'abbottonatura', 'antitifica', 'rammendo']","['toppa', 'toppe', 'zeppa', 'botox', 'cinta']",toppa
+15001,"Stupide, sciocche","['sceme', 'stupide', 'stolide', 'stolte', 'melense']","['stupide', 'stolide', 'melense', 'cretine', 'insulse']",cretine
+9707,Il nome della D'Amico giornalista televisiva,"['ilaria', 'mirella', 'eleonora', 'manuela', 'piera']","['ilaria', 'ramona', 'elvira', 'oscara', 'ilenia']",ilaria
+4069,Cinque nel nostro alfabeto,"['vocali', 'v', 'q', 'sillabe', 'j']","['vocali', 'vocale', 'ottave', 'lingue', 'parole']",vocali
+9616,Gigantesco cetaceo,"['balenottera', 'capodoglio', 'balenottero', 'balena bianca', 'capodogli']","['balena', 'focena', 'balene', 'beluga', 'medusa']",balena
+3335,Superficie,"['area', 'areafeo', 'superficie', 'riquadro', 'margine']","['area', 'aree', 'rasa', 'raso', 'zona']",area
+13744,Un'arte del Novecento,"['musicaleggera', 'danzaclassica', 'poesiaermetica', 'minimalmusic', 'musicaclassica']","['lirica', 'musica', 'poesia', 'bohème', 'popart']",cinema
+18243,Una volta aveva l'esclusiva del calcio (sigla),"['caf', 'figc', 'cuf', 'uefa', 'cif']","['caf', 'cuf', 'cif', 'nfc', 'fci']",rai
+19105,In Spagna c'è quella de Gredos,"['sierra', 'sierranevada', 'pilar', 'saura', 'plazadetoros']","['sierra', 'sierre', 'cupola', 'betica', 'manola']",sierra
+20232,Permesso dalla legge,"['consentito', 'lecito', 'autorizzato', 'permessa', 'approvato']","['lecito', 'leciti', 'lecita', 'lecere', 'placet']",lecito
+16981,Pesce che di solito si mangia affumicato,"['ombrina', 'aringa', 'dentice', 'sardina', 'spigola']","['aringa', 'sarago', 'cernia', 'temolo', 'cefalo']",aringa
+18529,L'altro fiume di Lione,"['rodano', 'saona', 'isere', 'oise', 'aisne']","['saona', 'isere', 'aisne', 'loira', 'senna']",saone
+16397,L'annunciano le rondini,"['nidiata', 'pollame', 'piumaggio', 'pastura', 'pennuta']","['piumaggio', 'cattività', 'strascico', 'pollastra', 'tendaggio']",primavera
+696,Quella Turchina aiuta Pinocchio,"['fata', 'cavalla', 'marionetta', 'scimmia', 'magia']","['fata', 'dama', 'maga', 'orba', 'pome']",fata
+6350,Piccola scimmia amazzonica,"['orango', 'orangutan', 'cebo', 'orangutango', 'bonobo']","['ilobati', 'uistiti', 'saimiri', 'gibbone', 'macaone']",uistiti
+520,Gustoso legume di forma sferica,"['lenticchia', 'pisello', 'fava', 'fagiolo', 'pisellone']","['fava', 'cece', 'soia', 'ceci', 'fave']",cece
+20702,Lo Stato a nord del Burundi,"['ruanda', 'tanzania', 'malawi', 'gambia', 'botswana']","['ruanda', 'malawi', 'gambia', 'uganda', 'zambia']",ruanda
+4572,Macchina per la realizzazione di tessuti,"['filatrice', 'filatoio', 'alesatrice', 'orditoio', 'trafilatrice']","['tornio', 'telaio', 'maglio', 'pressa', 'ordita']",telaio
+16528,Ha per capitale Lubiana,"['croazia', 'slovenia', 'erzegovina', 'iugoslavia', 'jugoslavia']","['slovenia', 'slovacca', 'bulgaria', 'ungheria', 'slovacco']",slovenia
+12241,Lo stesso che tubercolosi,"['pertosse', 'etisia', 'tubercolosi', 'giardia', 'parassitosi']","['etisia', 'micosi', 'virosi', 'dengue', 'colera']",etisia
+19469,Il buon senso,"['saggezza', 'raziocinio', 'discernimento', 'senno', 'intuito']","['saggezza', 'criterio', 'saviezza', 'sapienza', 'lucidità']",criterio
+7682,Lo sono le pampas,"['bolas', 'maracas', 'ande', 'peruviane', 'pampas']","['maracas', 'guarani', 'cocaine', 'bolivar', 'miscele']",pianure
+19263,Fu moglie del dio Saturno,"['giunone', 'rea', 'astrea', 'gea', 'dione']","['astrea', 'latona', 'cibele', 'cronos', 'cerere']",cibele
+7336,Regge l'esca,"['lenza', 'fiocina', 'amo', 'mulinello', 'rete']","['amo', 'ami', 'ago', 'ano', 'gan']",amo
+11747,Viene chiamata anche il web o la rete,"['internet', 'webtv', 'televisione', 'web television', 'dotcom']","['internet', 'provider', 'webphone', 'viaradio', 'videotel']",internet
+15680,Città russa sul Dnepr,"['rostov', 'orel', 'smolensk', 'omsk', 'kovylkino']","['smolensk', 'murmansk', 'novgorod', 'taganrog', 'mordovia']",smolensk
+2714,É così la situazione che preoccupa,"['appiccicosa', 'seria', 'apprensiva', 'grave', 'gravosa']","['seria', 'grave', 'acida', 'ardua', 'gravi']",seria
+2405,É memorabile quello di Lindbergh,"['volo', 'voloavela', 'raid', 'aviolancio', 'planata']","['volo', 'raid', 'voli', 'giro', 'trip']",raid
+17171,Lo Stato del Brasile a sud di San Paolo,"['alagoas', 'fortaleza', 'roraima', 'niteroi', 'cruzeiro']","['santos', 'bogota', 'ibague', 'macapà', 'manaus']",parana
+13604,Il nome del cantante Boone,"['pat', 'nick', 'larry', 'pep', 'pete']","['pat', 'pep', 'mat', 'gil', 'guy']",pat
+484,Vermi per l'esca,"['vermi', 'lombrichi', 'esche', 'vermicelli', 'squali']","['lombrichi', 'avannotti', 'crostacei', 'scorpioni', 'molluschi']",lombrichi
+19433,In mezzo al motore,"['ot', 'to', 'oit', 'ut', 'tt']","['ot', 'to', 'ut', 'tt', 'dt']",to
+2003,Cuore di lady,"['iw', 'yd', 'wd', 'gw', 'ey']","['iw', 'yd', 'wd', 'gw', 'ey']",ad
+2202,Per i latini significava domani,"['cras', 'sed', 'nam', 'mis', 'ter']","['cras', 'enim', 'zeit', 'erit', 'spes']",cras
+6108,Il polonio,"['po', 'pto', 'eoo', 'so', 'sso']","['po', 'so', 'eo', 'pn', 'np']",po
+13602,La madre la passa al figlio,"['figlia', 'addetta', 'paternita', 'eredità', 'mano']","['bolletta', 'commenda', 'addebito', 'ricevuta', 'adozione']",emofilia
+10413,Il rampicante più comune,"['edera', 'rampicante', 'convolvolo', 'quercia', 'rampichino']","['edera', 'liana', 'erica', 'agave', 'cervo']",edera
+3128,Tornare a casa da un viaggio,"['rincasare', 'ritornare', 'tornare', 'rientrare', 'riavere']","['rincasare', 'ritornare', 'rientrare', 'rimontare', 'ripiegare']",rientrare
+6388,Privo di umidità,"['asciutto', 'asciugato', 'essiccato', 'inaridito', 'arido']","['arido', 'secco', 'umido', 'brule', 'magro']",arido
+19667,"Zampillo, spruzzo","['zampillo', 'getto', 'fiotto', 'spruzzo', 'spruzzata']","['getto', 'sprue', 'sputo', 'getti', 'getta']",getto
+16900,Un collega del cromatore,"['tintore', 'armocromista', 'pittore', 'verniciatore', 'acquerellista']","['coniatore', 'metallaro', 'lappatore', 'monetiere', 'miniatore']",zincatore
+13522,"__ Pieraccioni, attore e regista","['leonardo', 'giampiero', 'ildebrando', 'laonardo', 'arturo']","['leonardo', 'laonardo', 'federico', 'carletto', 'fernando']",leonardo
+8143,Avvertire prima di castigare,"['segnalare', 'avvisare', 'ammonire', 'preavvertire', 'preannunciare']","['avvisare', 'ammonire', 'additare', 'indicare', 'tacitare']",ammonire
+6051,Vermi usati come esca dai pescatori,"['gimnoti', 'lombrichi', 'tenie', 'amidapesca', 'esche']","['gimnoti', 'persici', 'naselli', 'paranze', 'dentici']",nereidi
+9334,Intensità,"['intensità', 'intensita', 'vitalita', 'dinamismo', 'attività']","['tono', 'vivo', 'brio', 'iono', 'fono']",tono
+8626,Bastoncelli di pane,"['grissini', 'crostini', 'dadini', 'crackers', 'sfilatini']","['grissini', 'crostini', 'crackers', 'molliche', 'mollicci']",grissini
+8037,Indicano i cinema ove si proiettano film spinti,"['scenici', 'ribalte', 'platee', 'cineteche', 'proiettori']","['cineteche', 'doppiaggi', 'locandine', 'cineprese', 'transenne']",lucirosse
+16831,Relativo allo studio dei vini,"['enologico', 'enologo', 'vinicolo', 'enologa', 'enologia']","['enologico', 'sommelier', 'alchimico', 'alcologia', 'alchemico']",enologico
+17483,Andava con Ginger,"['peel', 'aqua', 'peg', 'gipsy', 'kid']","['peel', 'aqua', 'nash', 'peer', 'july']",fred
+8957,Serve per catturare le farfalle,"['retino', 'retina', 'retinare', 'lenza', 'retini']","['retino', 'retina', 'retini', 'retine', 'aculeo']",retino
+12443,Non ne hanno le uova pasquali!,"['becchi', 'follicoli', 'ossicini', 'petti', 'torli']","['becchi', 'tuorli', 'albumi', 'guscio', 'ditole']",tuorli
+2319,Lo era Maconnen,"['architetto', 'progettista', 'poeta', 'filosofo', 'futurista']","['mac', 'zar', 'got', 'dio', 'avo']",ras
+8246,Un film con Marilyn Monroe,"['niagara', 'niagarafalls', 'cascatedelniagara', 'saintclair', 'grandcanyon']","['niagara', 'halifax', 'calgary', 'palomar', 'dahomey']",niagara
+16824,Le gioie che s'infilano,"['monili', 'spille', 'catenine', 'collane', 'orecchini']","['perle', 'gioie', 'bijou', 'gemme', 'trine']",perle
+3571,Penisola protesa verso il Giappone,"['corea', 'coreadelsud', 'giappone', 'coreadelnord', 'corea del nord']","['corea', 'ippon', 'codea', 'seoul', 'pusan']",corea
+10071,Imperituri,"['eterni', 'perpetui', 'imperituri', 'interminabili', 'perenni']","['eterni', 'eterne', 'immoti', 'eterno', 'annosi']",aterni
+4045,il nome della Chanel,"['coco', 'chanel', 'pep', 'cole', 'marshmallow']","['coco', 'cole', 'elah', 'noel', 'peel']",coco
+2041,Discendente dei menestrelli,"['cantastorie', 'citaredo', 'rapsodo', 'aedo', 'cantore']","['cantastorie', 'cantantista', 'trombonista', 'operettista', 'menestrello']",cantastorie
+936,Quella facoltativa si effettua solo a richiesta,"['fermata', 'sospesa', 'buonuscita', 'rimozione', 'ordinazione']","['fermata', 'sospesa', 'asporto', 'comanda', 'restata']",fermata
+5379,Alan attore americano,"['ladd', 'arkin', 'alda', 'bates', 'anders']","['ladd', 'alda', 'adil', 'alan', 'lyne']",alda
+18285,Si pagano a pie' di lista,"['pedaggi', 'aggi', 'tariffe', 'importi', 'noli']","['aggi', 'noli', 'dazi', 'rate', 'nolo']",note
+2305,I gladiatori con la rete,"['gladiatori', 'lanisti', 'spadisti', 'circensi', 'laqueari']","['lanisti', 'reziari', 'ranisti', 'certami', 'arcieri']",reziari
+18710,Sono simili alle tegole,"['tegole', 'tettoie', 'altane', 'soffitte', 'paraventi']","['malte', 'travi', 'tetti', 'solai', 'vetri']",coppi
+17813,Siede sul trono con il roi,"['monarca', 're', 'reuccio', 'regino', 'reevonanni']","['reine', 'regge', 'trono', 'reina', 'reali']",reine
+18245,Selezionato nella cernita,"['selezionato', 'scelto', 'prescelto', 'prediletto', 'selettivo']","['prescelto', 'selettivo', 'preferito', 'prescelta', 'prescelti']",prescelto
+16470,Una protezione per chi cuce,"['ditale', 'abbottonatura', 'pince', 'velcro', 'ditali']","['ditale', 'velcro', 'ditali', 'orlino', 'fibbia']",ditale
+4375,La chiusura posteriore dell'orologio,"['cerniera', 'lucchetto', 'zip', 'serramento', 'tombino']","['tombino', 'zipcode', 'spirale', 'serrame', 'pendola']",calotta
+10205,Si conservano nella teca,"['acqueminerali', 'fossili', 'pietrine', 'acqueviti', 'tizzoni']","['pietrine', 'minerali', 'beveroni', 'spumanti', 'alcolici']",reliquie
+6892,Pone le basi di una dottrina,"['ideologo', 'propedeutico', 'esoterica', 'assioma', 'postulato']","['ideologo', 'teocrate', 'gnostica', 'apostolo', 'apostata']",ideologo
+11993,Un baccano indiavolato,"['tramestio', 'chiasso', 'frastuono', 'tananai', 'fragore']","['tramestio', 'frastuono', 'putiferio', 'gorgoglio', 'strepitio']",frastuono
+5871,"Bruciante, rovente","['ustorio', 'ardente', 'urente', 'rovente', 'scottante']","['ustorio', 'ardente', 'rovente', 'torrido', 'cocente']",cocente
+10219,"Svolge, a proprio rischio, un'attività economica","['speculatore', 'stunt', 'intraprenditore', 'stunt-man', 'stuntman']","['imprenditore', 'avventuriere', 'avventuriero', 'aiutoregista', 'anti-impresa']",imprenditore
+9263,Città della Sicilia,"['alcamo', 'acireale', 'caltanissetta', 'selinunte', 'gela']","['alcamo', 'comiso', 'ragusa', 'sibari', 'giarre']",ragusa
+19728,Variano da paese a paese,"['usanze', 'usi', 'consuetudini', 'mode', 'climi']","['usi', 'evi', 'use', 'eci', 'ere']",usi
+17786,La rinuncia al diritto di voto,"['astensione', 'astensionismo', 'apostasia', 'abiura', 'rinuncia']","['astensione', 'nonexpedit', 'abolizione', 'apostatare', 'astensioni']",astensione
+7333,Si scrive con i piedi,"['poesia', 'prosa', 'letteratura', 'poetare', 'elegia']","['poesia', 'elegia', 'poesie', 'rimare', 'lirica']",poesia
+19011,Offendono il codice,"['reati', 'rei', 'infrazioni', 'malviventi', 'illegali']","['rei', 'ree', 'reo', 'rie', 'rui']",rei
+16320,La forza ritmica del jazz,"['beat', 'ragtime', 'bebop', 'glamrock', 'bop']","['beat', 'rock', 'funk', 'acid', 'fall']",beat
+7975,Mettersi in coda,"['accodarsi', 'incolonnarsi', 'susseguirsi', 'porsi', 'ritrarsi']","['to', 'et', 'te', 'it', 'ta']",si
+11321,È detta anche prugna,"['susina', 'prugna', 'pruna', 'prugno', 'pruno']","['susina', 'prugna', 'prugno', 'susino', 'agrume']",susina
+13163,Dànno in escandescenze,"['furori', 'adirati', 'iracondi', 'irosi', 'irascibili']","['irascibili', 'irritabili', 'infuriarsi', 'scalmanati', 'arrabbiati']",scalmanati
+3115,In Italia oggi è sessantenne (o su per giù).,"['centodiecielode', 'diecielode', 'centouno', 'centodue', 'dieci']","['diecielode', 'centoventi', 'ventisette', 'centodieci', 'milleventi']",babyboomer
+16613,Altipiano calabro,"['sila', 'silana', 'silano', 'locrese', 'andina']","['sila', 'tuia', 'cois', 'cmos', 'mugo']",sila
+8025,Mormora scendendo a valle,"['rio', 'canoa', 'asoa', 'rivo', 'rii']","['rio', 'rii', 'boa', 'cam', 'arc']",rio
+10223,Incoraggiarsi l' un l' altro,"['incitarsi', 'spronarsi', 'incoraggiare', 'rincorarsi', 'incitare']","['incitarsi', 'spronarsi', 'rincorare', 'augurarsi', 'spingersi']",incitarsi
+6926,La fine delle lumache,"['he', 'ch', 'hse', 'ye', 'ha']","['he', 'ch', 'ye', 'ha', 'hy']",he
+7457,Che è superiore ad ogni altro,"['eccelso', 'supremo', 'sovrumano', 'superlativo', 'numerouno']","['sommo', 'super', 'unico', 'primo', 'extra']",sommo
+4156,Un virtuoso della montagna,"['scalatore', 'rocciatore', 'alpinista', 'discesista', 'slalomista']","['rocciatore', 'discesista', 'slalomista', 'pedalatore', 'scippatore']",rocciatore
+12517,Era la sigla di Forlì,"['fdo', 'fo', 'fr', 'rf', 'ff']","['fo', 'fr', 'rf', 'ff', 'nf']",fo
+13370,Eccezionale fin dall'inizio,"['ec', 'et', 'ep', 'el', 'ev']","['ec', 'et', 'ep', 'el', 'ev']",ec
+1807,Mettere nella pentola,"['intingere', 'imbucare', 'versare', 'impiccare', 'impolpare']","['versare', 'pigiare', 'cuocere', 'stipare', 'farcire']",cuocere
+1719,"Gigi, grande campione","['riva', 'sabani', 'proietti', 'vesigna', 'marzuplo']","['riva', 'rosi', 'ripa', 'gori', 'nuti']",riva
+7221,Per __ = dunque,"['ergo', 'quindi', 'perciò', 'dunque', 'percome']","['ché', 'beh', 'che', 'cui', 'ove']",cui
+7583,Tegame senza manico,"['ciotola', 'padella', 'teglia', 'scodella', 'casseruola']","['teglia', 'paiolo', 'teiera', 'tegame', 'patena']",teglia
+3926,Bevanda alcolica,"['birra', 'orzata', 'sidro', 'sangria', 'liquor']","['ace', 'gin', 'pub', 'dry', 'eno']",rum
+20296,Si espongono in bacheca,"['avvisi', 'annunci', 'manifesti', 'manifestini', 'comunicati']","['avvisi', 'marchi', 'stampe', 'titoli', 'veline']",trofei
+4720,La usa il tagliaboschi,"['accetta', 'motosega', 'scure', 'ascia', 'asciata']","['motosega', 'seghetto', 'scuretti', 'segatura', 'tenaglia']",motosega
+19304,Sovrastruttura abitabile della nave,"['tuga', 'bastingaggio', 'imbarcadero', 'imbarcatoio', 'coffa']","['tuga', 'loft', 'trim', 'comò', 'mure']",tuga
+18992,Un film con Robert de Niro,"['lastangata', 'crimen', 'nashville', 'kaos', 'mash']","['yusuf', 'alien', 'ordet', 'paisa', 'eatit']",ronin
+11220,L'automobilista la abborda rallentando,"['curva', 'retromarcia', 'chicane', 'rallentamento', 'accelerata']","['curva', 'rampa', 'sosta', 'curve', 'ruota']",curva
+20290,La cuffia che si portava sotto l' elmo,"['segreta', 'nasiera', 'galero', 'celata', 'sbirresca']","['sbirresca', 'chiroteca', 'antiburqa', 'zazzerina', 'mantiglia']",bacinetto
+7739,Sorgono accanto alle moschee,"['moschee', 'minareti', 'minareto', 'moschea', 'mihrab']","['minareti', 'minareto', 'islamico', 'alhambra', 'kaffiyeh']",minareti
+1580,Materiale da guanti sterili,"['lattice', 'feltro', 'cretonne', 'satice', 'boiacca']","['lattice', 'boiacca', 'faesite', 'opalina', 'goretex']",lattice
+13175,Abiti molto vecchi,"['cenci', 'anticaglie', 'amitti', 'antichi', 'sai']","['cenci', 'vesti', 'stipi', 'vieto', 'manti']",cenci
+6600,"Chi ci va, sta male","['malora', 'tracollo', 'sbaraglio', 'catafascio', 'barcollamento']","['tracollo', 'dissesto', 'spicinio', 'incomodo', 'maldaria']",ospedale
+11731,Ne è ghiotta la volpe,"['frutta', 'miele', 'farinadicastagne', 'ghiande', 'noccioline']","['uva', 'oro', 'ami', 'uve', 'amo']",uva
+12184,L' area di alcuni estremisti,"['falange', 'zonaverde', 'alqaeda', 'centrodestra', 'zona rossa']","['ultrasinistra', 'partigianeria', 'interventismo', 'secessionismo', 'guerra fredda']",ultrasinistra
+8503,Macchina per piegare ad arco tubi e lamiere,"['tornio', 'trapanoelettrico', 'fresa', 'pressa', 'alesatrice']","['alesatrice', 'curvatrice', 'torchietto', 'pressacavo', 'fresatrice']",curvatrice
+6216,Motto sabaudo,"['motto', 'detto', 'aforisma', 'proverbio', 'aforismo']","['fert', 'leit', 'oime', 'orax', 'viva']",fert
+14185,Una sostanza eccitante,"['caffeina', 'teina', 'cocaetilene', 'camomilla', 'decaffeinizzazione']","['teina', 'ponce', 'menta', 'pepsi', 'cocai']",teina
+13391,La Rostova di Guerra e pace,"['valentina', 'florenzia', 'vassila', 'vanna', 'federica']","['federica', 'fiorenza', 'ortensia', 'florenza', 'fiorella']",natascia
+16619,Quello a muro è incassato,"['tassello', 'borsello', 'scontrino', 'taschino', 'contocorrente']","['tascone', 'gettone', 'assegno', 'incasso', 'tappeto']",armadio
+20567,Si dice di voce fioca,"['roca', 'rauca', 'fioca', 'tenorile', 'stentorea']","['roca', 'roco', 'fina', 'dura', 'alta']",roca
+13784,Ha sostituito la lira e il marco,"['ecu', 'euro', 'liretta', 'lira', 'moneta unica']","['euro', 'lira', 'tari', 'lire', 'riel']",euro
+14959,"Arguto, pungente","['salace', 'pepato', 'mordace', 'sarcastico', 'rasposo']","['salace', 'pepato', 'arguto', 'ispido', 'aguzzo']",salace
+313,Può essere fotoelettrica,"['pila', 'cellula', 'fotocella', 'fotocellula', 'fotolito']","['cellula', 'matrice', 'cellule', 'memoria', 'gettone']",cellula
+5792,Un vento caldo,"['libeccio', 'grecale', 'maestrale', 'scirocco', 'ponentino']","['föhn', 'bora', 'wind', 'euro', 'boeo']",föhn
+10493,Tratto dell'intestino,"['colon', 'ileo', 'crasso', 'duodeno', 'piloro']","['colon', 'sigma', 'omaso', 'retto', 'tenue']",colon
+14943,Il protettore dei calzolai,"['crispino', 'cristoforo', 'patrono', 'sangiovanni', 'sangennaro']","['crispino', 'crisante', 'santopio', 'padrepio', 'papalino']",crispino
+10946,La recensione di un lavoro teatrale,"['recensione', 'critica', 'recensore', 'critico', 'recensire']","['critica', 'critico', 'biasimo', 'critici', 'provino']",critica
+4084,Colpi di vento che spazzano la via,"['folate', 'eoliche', 'raffiche', 'piovaschi', 'mareggiate']","['folate', 'bufere', 'saette', 'aerate', 'ondate']",folate
+7155,Musicò popolari operette,"['meyerbeer', 'matiabazar', 'mascagni', 'puccini', 'lehar']","['puccini', 'delibes', 'jarrett', 'kleiber', 'rossini']",ranzato
+3533,"Soavi, morbidi al tatto","['teneri', 'morbidi', 'vellutati', 'soffici', 'pastosi']","['delicati', 'sfioriti', 'flaccidi', 'friabili', 'lisciati']",delicati
+16759,I fratelli della Terra,"['pianetini', 'asteroidi', 'pianetisuperiori', 'satelliti', 'pianeti']","['pianeti', 'pleiadi', 'ciclopi', 'plutone', 'tropici']",pianeti
+251,Camere da ballo o da parrucchieri,"['saloni', 'salette', 'salotti', 'ambienti', 'corridoi']","['saloni', 'stanze', 'salone', 'cabine', 'camere']",saloni
+20757,Mandò Gesù da Erode,"['giuda', 'giuditta', 'erode', 'giovannibattista', 'lazzaro']","['giobbe', 'caesar', 'pilato', 'anania', 'messia']",pilato
+4010,Sono le prime a sgualcirsi,"['gu', 'ug', 'ul', 'lg', 'uu']","['sgusciare', 'tungsteno', 'ununhexio', 'sguainare', 'gadolinio']",copertine
+3474,L' arte per Orazio,"['ars', 'lirica', 'scultura', 'poetica', 'poesia']","['ars', 'arr', 'aes', 'opu', 'iar']",ars
+1611,I nativi del Continente Nero,"['africani', 'sudafricani', 'nordafricani', 'zingari', 'slavi']","['africani', 'angolani', 'zairiani', 'bosniaci', 'amerindi']",africani
+2638,Macchinazioni da cospiratori,"['complotti', 'congiure', 'intrighi', 'trame', 'connubi']","['complotti', 'complotto', 'cospirare', 'negoziati', 'scongiuri']",complotti
+17319,Mangia i bambini nelle fiabe,"['orco', 'gattomammone', 'pollicino', 'lupo', 'gatto']","['orco', 'lupo', 'bubu', 'fata', 'orso']",orco
+16961,L'Editrice Rai (sigla),"['eed', 'edf', 'edp', 'ed', 'idv']","['eed', 'edf', 'edp', 'idv', 'ude']",eri
+12845,I francobolli da collezione devono averla perfetta,"['rarità', 'rarita', 'unicità', 'immutabilità', 'selettivita']","['immutabilità', 'ereditarieta', 'numerabilità', 'ripetitività', 'ereditarietà']",dentellatura
+12248,Elementi meccanici dell'auto,"['assali', 'manopole', 'clochi', 'punterie', 'motorielettrici']","['assali', 'clochi', 'sterzi', 'pedali', 'fanali']",assali
+16030,Elenchi dettagliati,"['liste', 'cataloghi', 'prontuari', 'elenchi', 'inventari']","['catalogo', 'menzioni', 'registri', 'opuscoli', 'cartelle']",distinte
+8145,Mandato fuori,"['emesso', 'estromesso', 'deposto', 'emanato', 'inoltrato']","['deposto', 'emanato', 'erogato', 'espulso', 'esalato']",esalato
+2153,Stati sotto tutela,"['minori', 'tutelari', 'tutelati', 'iuniores', 'protettorati']","['protettorati', 'distrettuali', 'territoriali', 'privilegiati', 'responsabili']",protettorati
+7411,"__ di Capo Rizzuto, in Calabria","['fontanone', 'fontana', 'isola', 'mazara', 'fontanella']","['isola', 'zolla', 'città', 'citta', 'rione']",isola
+14244,Ci sono quelli franchi e quelli scelti,"['tiratori', 'bersaglieri', 'migliori', 'bersagli', 'nemici']","['tiratori', 'migliori', 'bersagli', 'caporali', 'campioni']",tiratori
+14316,"Esagitato, fanatico","['fanatico', 'esaltato', 'sfegatato', 'infervorato', 'frenetico']","['fanatico', 'esaltato', 'eccitato', 'estatico', 'veemente']",esaltato
+6141,Particella negativa francese,"['pas', 'sans', 'sens', 'né', 'laval']","['pas', 'nec', 'ane', 'nes', 'mot']",pas
+12858,Preposizione che si frappone,"['tra', 'infra', 'fra', 'con', 'negli']","['tra', 'fra', 'con', 'in-', 'per']",tra
+738,Setacciava l'acqua dei torrenti,"['alluvione', 'torrente', 'scolmatore', 'inondazione', 'alluvioni']","['alluvione', 'alluvioni', 'diluviare', 'motopompa', 'antidroga']",cercatore
+2751,Tutti vogliono conoscerla,"['verità', 'cosa', 'materia', 'verita', 'quiddita']","['verità', 'verita', 'storia', 'teoria', 'oraics']",verità
+6399,"Se è vizioso, non ha fine","['giro', 'viaggio', 'percorso', 'tour', 'itinerario']","['viaggio', 'cammino', 'tournee', 'routine', 'diporto']",circolo
+7877,Lo corrode la ruggine,"['metallo', 'acciaio', 'smalto', 'pellame', 'ferro']","['ferro', 'legno', 'cromo', 'minio', 'gesso']",ferro
+5662,Asciuga i capelli,"['shampoo', 'sciampo', 'lozione', 'fon', 'shampooing']","['fon', 'gel', 'hat', 'fez', 'fes']",fon
+9859,Si dice di sforzi inutili,"['inani', 'immateriali', 'vacui', 'inutili', 'inuigenti']","['inani', 'vacui', 'iname', 'fatui', 'inane']",inani
+10272,Lo scheletro del veicolo,"['carcassa', 'scocca', 'chassis', 'carcasse', 'retrotreno']","['scocca', 'telaio', 'assale', 'assali', 'rotaia']",telaio
+18236,Furono proverbiali quelle di marzo,"['idi', 'ididimarzo', 'net', 'maiestate', 'calende']","['idi', 'net', 'ier', 'day', 'feb']",idi
+11847,L' ovino dello zodiaco,"['capricorno', 'ariete', 'sagittario', 'toro', 'leone']","['ariete', 'orione', 'cancro', 'sileno', 'arieti']",ariete
+12655,Iniziali del tenore Domingo,"['cdp', 'dpcm', 'cp', 'pd', 'dp']","['cp', 'pd', 'dp', 'cm', 'gc']",pd
+5252,L' aeroporto di Ancona,"['linate', 'malpensa', 'puntaraisi', 'pontecurone', 'portoercole']","['corinaldo', 'sanprisco', 'ventoteni', 'aerodromo', 'marettimo']",falconara
+7731,Piemontese di città,"['torinese', 'senese', 'mantovano', 'modenese', 'bolognese']","['torinese', 'modenese', 'felsineo', 'biellese', 'parmense']",novarese
+7443,"Un quinto di ""five""","['fi', 'rfi', 'inf', 'ifi', 'effe']","['rfi', 'inf', 'ifi', 'fiv', 'fru']",one
+13642,"... Air, LA","['air', 'art', 'the', 'eye', 'all']","['air', 'art', 'the', 'eye', 'all']",bel
+6087,"Paolo, noto cantautore","['conte', 'mieli', 'panelli', 'nori', 'savoldelli']","['conte', 'mieli', 'virzi', 'lippi', 'rossi']",conte
+9159,Permette precise diagnosi,"['tac', 'checkup', 'tacs', 'eeg', 'palpazione']","['tac', 'eeg', 'pap', 'eog', 'ecg']",tac
+11809,È fine chi ce l' ha buono,"['gusto', 'scopo', 'senso', 'pregio', 'ragione']","['gusto', 'scopo', 'senso', 'fiato', 'senno']",gusto
+3351,Un saluto neutro,"['ciao', 'hallo', 'ciaone', 'riciao', 'hello']","['hallo', 'hello', 'salut', 'adieu', 'adios']",salve
+1338,C' è anche quella di... finirla,"['ora', 'hora', 'attesa', 'oretta', 'epoca']","['ora', 'ore', 'era', 'una', 'ate']",ora
+19209,Ha scritto La fata carabina,"['ottieri', 'borges', 'oriani', 'deamicis', 'sabatinolopez']","['borges', 'oriani', 'balzac', 'alcott', 'tobino']",pennac
+5748,Contraria… o lontana,"['lontana', 'remota', 'aliena', 'diversa', 'contraria']","['remota', 'aliena', 'avulsa', 'nemica', 'odiosa']",aliena
+4307,Coro... canino,"['latrato', 'bau', 'abbaio', 'guaito', 'ringhio']","['abbaiare', 'uggiolio', 'squittio', 'mugolare', 'abbaiata']",abbaiata
+15073,Riparano uno strappo,"['toppe', 'tomaie', 'solette', 'tacchetti', 'parastinchi']","['toppe', 'suoli', 'suole', 'tappi', 'calze']",punti
+15966,La lettera che valeva mille,"['emme', 'mii', 'elle', 'm', 'xm']","['emme', 'elle', 'iota', 'miii', 'enne']",emme
+17810,"Muratori, manovali","['manovali', 'edili', 'gruisti', 'carrettieri', 'geometri']","['edili', 'edile', 'mozzi', 'ruspe', 'conci']",edili
+13454,Una copia in carne e ossa,"['fotocopia', 'sosia', 'emula', 'clone', 'facsimile']","['sosia', 'emula', 'clone', 'emulo', 'copia']",sosia
+2998,Catturano i pesci nei fiumi,"['ami', 'lenze', 'retini', 'paranze', 'fiocine']","['reti', 'pali', 'pine', 'cavi', 'raie']",orsi
+4401,Dinastia peruviana,"['incas', 'inca', 'inti', 'araucani', 'toltechi']","['inca', 'inti', 'maya', 'ainu', 'taco']",inca
+15970,L'Alta Velocità inglese (sigla),"['vga', 'hcv', 'vhs', 'vcl', 'htlv']","['vga', 'hcv', 'vhs', 'vcl', 'hav']",hst
