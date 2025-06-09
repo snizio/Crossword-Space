@@ -7,7 +7,7 @@ from tqdm import tqdm
 import pandas as pd
 
 def parse_arg():
-    parser = argparse.ArgumentParser(description='Code for reproducing the c2c model based on Levenshtein distance')
+    parser = argparse.ArgumentParser(description='Code for reproducing the c2c model based on BM25')
     parser.add_argument('-tr', '--train', type=str, 
                         help='Training file')
     parser.add_argument('-ts', '--test', type=str, 
