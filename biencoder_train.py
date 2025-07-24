@@ -19,6 +19,7 @@ import faiss
 import numpy as np
 import json
 import gc
+from collections import defaultdict
 
 # folder path, model url, device, sde/ade
 
@@ -80,7 +81,7 @@ tied_conf = sys.argv[4]
 
 if tied_conf == "ade": # we load two encoders
 
-    if "it5" in model_name:
+    if "it5" in model_name or "NeoIT5" in model_name:
         encoder_def = AutoModel.from_pretrained(model_name, trust_remote_code=True).encoder
         encoder_ans = AutoModel.from_pretrained(model_name, trust_remote_code=True).encoder
     else:
@@ -98,7 +99,7 @@ if tied_conf == "ade": # we load two encoders
 
 elif tied_conf == "sde": # for siamese we load only one
 
-    if "it5" in model_name:
+    if "it5" in model_name or "NeoIT5" in model_name:
         encoder = AutoModel.from_pretrained(model_name, trust_remote_code=True).encoder
     else:
         encoder = AutoModel.from_pretrained(model_name, trust_remote_code=True)
@@ -139,6 +140,7 @@ test_loader = DataLoader(test_dataset, batch_size=batch_size, shuffle=False)
 lr_dict = {
     "gsarti/it5-small": 5e-4,
     "gsarti/it5-base": 5e-4,
+    "snizio/NeoIT5-base": 5e-4,
     "nickprock/Italian-ModernBERT-base-embed-mmarco-mnrl": 2e-4,
     "DeepMount00/Italian-ModernBERT-base": 2e-5,
     "sentence-transformers/paraphrase-multilingual-mpnet-base-v2": 2e-4,
@@ -148,6 +150,7 @@ lr_dict = {
 decay_dict = {
     "gsarti/it5-small": 1e-3,
     "gsarti/it5-base": 1e-3,
+    "snizio/NeoIT5-base": 1e-3,
     "nickprock/Italian-ModernBERT-base-embed-mmarco-mnrl": 1e-3,
     "DeepMount00/Italian-ModernBERT-base": 0.0,
     "sentence-transformers/paraphrase-multilingual-mpnet-base-v2": 1e-3,
@@ -273,6 +276,7 @@ batch_size = 256
 dataset_loader = DataLoader(all_words, batch_size=batch_size, shuffle=False)
 
 embeddings = []
+word_lengths = []
 with torch.no_grad():
     for batch in tqdm(dataset_loader, desc="Encoding items"):
 
@@ -280,6 +284,8 @@ with torch.no_grad():
         def_attention_mask = batch['def_attention_mask'].to(device_def)
         ans_input_ids = batch['ans_input_ids'].to(device_ans)
         ans_attention_mask = batch['ans_attention_mask'].to(device_ans)
+        ans_texts = batch["ans_texts"]
+        word_lengths.extend([len(word) for word in ans_texts])
         
         _, embedding_words_batch = dual_encoder(
             def_input_ids=def_input_ids,
@@ -301,24 +307,40 @@ def calculate_mrr(predictions, targets):
             rr_sum += 1 / rank
     return rr_sum / len(targets)
 
+item_embeddings = item_embeddings / np.linalg.norm(item_embeddings, axis=1, keepdims=True)
+embedding_dim = item_embeddings.shape[1]
+
+length_indices_map = {}
+
+unique_lengths = np.unique(word_lengths)
+faiss_indices = {} # length indexes dict
+
+for l in unique_lengths:
+    idxs = np.where(word_lengths == l)[0]
+    sub_index = faiss.IndexFlatIP(embedding_dim)
+    sub_index.add(item_embeddings[idxs])
+    faiss_indices[l] = sub_index
+    length_indices_map[l] = idxs  # To map back to index_dict
+
+index = faiss.IndexFlatIP(embedding_dim)
+index.add(item_embeddings) # full index for all words
+
+with open("index_dict.json", "r") as f:
+    index_dict = json.load(f)
+
 for data_source in ["crossword", "dict", "onli", "neo"]:
 
     test_data = CrosswordDataset("datasets/dict_test.csv", tokenizer, data_source=[f"{data_source}"])
     test_loader = DataLoader(test_data, batch_size=batch_size, shuffle=False)
 
-    item_embeddings = item_embeddings / np.linalg.norm(item_embeddings, axis=1, keepdims=True)
-    embedding_dim = item_embeddings.shape[1]
-    index = faiss.IndexFlatIP(embedding_dim)
-    index.add(item_embeddings)
-
-    with open("index_dict.json", "r") as f:
-        index_dict = json.load(f)
-
     eval_progress_bar = tqdm(total=len(test_loader), desc=f"Evaluating {data_source}...")
 
+    k = 1000
+
+    filtered_predictions = []
+    full_predictions = []
     sources = []
     targets = []
-    predictions = []
 
     with torch.no_grad():
         for batch in test_loader:
@@ -328,6 +350,8 @@ for data_source in ["crossword", "dict", "onli", "neo"]:
             ans_attention_mask = batch['ans_attention_mask'].to(device_ans)
             def_texts = batch["def_texts"]
             ans_texts = batch["ans_texts"]
+            sources.extend(def_texts)
+            targets.extend(ans_texts)
 
             def_proj, _ = dual_encoder(
                 def_input_ids=def_input_ids,
@@ -339,50 +363,85 @@ for data_source in ["crossword", "dict", "onli", "neo"]:
             def_proj = def_proj.cpu().numpy()
             def_proj = def_proj / np.linalg.norm(def_proj, axis=1, keepdims=True)
 
-            k = 1000
-            distances, indices = index.search(def_proj, k)
+            # Full batched search
+            D_full, I_full = index.search(def_proj, k)
+            batch_full_predictions = [
+                [index_dict[str(x)] for x in I_full[i]] for i in range(len(def_proj))]
+            full_predictions.extend(batch_full_predictions)
 
-            for idx, d_text, a_text in zip(indices, def_texts, ans_texts):
-                words = [index_dict[str(x)] for x in idx]
-                sources.append(d_text)
-                targets.append(a_text)
-                predictions.append(words)
+            # Group queries by target length
+            length_query_map = defaultdict(list)
+            length_query_indices = defaultdict(list)
+
+            for i, vec in enumerate(def_proj):
+                target_len = len(ans_texts[i])
+                if target_len in faiss_indices:
+                    length_query_map[target_len].append(vec)
+                    length_query_indices[target_len].append(i)
+
+            # Preallocate filtered predictions
+            batch_filtered_predictions = [None] * len(def_proj)
+
+            # Perform batched search per length
+            for target_len, queries in length_query_map.items():
+                queries_np = np.stack(queries)
+                idxs = length_indices_map[target_len]
+                sub_index = faiss_indices[target_len]
+
+                D_len, I_len = sub_index.search(queries_np, k)
+                for pos, row in enumerate(I_len):
+                    i = length_query_indices[target_len][pos]
+                    batch_filtered_predictions[i] = [index_dict[str(idxs[x])] for x in row]
+            
+            filtered_predictions.extend(batch_filtered_predictions)
 
             eval_progress_bar.update(1)
-            
-    df_preds = pd.DataFrame({"source": sources, "pred": predictions, "target": targets})
+
+    df_preds = pd.DataFrame({
+        "source": sources,
+        "pred": full_predictions,
+        "pred_len": filtered_predictions,
+        "target": targets
+    })
+
 
     df_preds.to_csv(f"{checkpoint_folder_path}predictions-{data_source}.csv", index = False)
 
-    results = {"acc@1": 0, "acc@10": 0, "acc@100": 0, "acc@1000": 0, "MRR": 0}
+    def compute_metrics(pred_column):
+        acc1 = acc10 = acc100 = acc1000 = mrr = 0
+        for preds, target in zip(df_preds[pred_column], df_preds["target"]):
+            if target in preds:
+                rank = preds.index(target) + 1
+                mrr += 1 / rank
+            if target == preds[0]:
+                acc1 += 1
+            if target in preds[:10]:
+                acc10 += 1
+            if target in preds[:100]:
+                acc100 += 1
+            if target in preds[:1000]:
+                acc1000 += 1
+        total = len(df_preds)
+        if pred_column == "pred_len":
+            return {
+                "acc@1-len": acc1 / total,
+                "acc@10-len": acc10 / total,
+                "acc@100-len": acc100 / total,
+                "acc@1000-len": acc1000 / total,
+                "MRR-len": mrr / total
+            }
+        else:
+            return {
+                "acc@1": acc1 / total,
+                "acc@10": acc10 / total,
+                "acc@100": acc100 / total,
+                "acc@1000": acc1000 / total,
+                "MRR": mrr / total
+            }
 
-    acc1 = 0
-    acc10 = 0
-    acc100 = 0
-    acc1000 = 0
-    mrr_total = 0
-
-    for preds, target in  zip(df_preds["pred"].to_list(), df_preds["target"].to_list()):
-        if target == preds[0]:
-            acc1+=1
-        if target in preds[:10]:
-            acc10+=1
-        if target in preds[:100]:
-            acc100+=1
-        if target in preds[:1000]:
-            acc1000+=1
-        if target in preds:
-            rank = preds.index(target) + 1
-            mrr_total += 1 / rank
-
-
-    results["acc@1"] = acc1/len(df_preds)
-    results["acc@10"] = acc10/len(df_preds)
-    results["acc@100"] = acc100/len(df_preds)
-    results["acc@1000"] = acc1000/len(df_preds)
-    results["MRR"] = mrr_total / len(df_preds)
-
-    print(results)
+    results_all = compute_metrics("pred")
+    results_len = compute_metrics("pred_len")
+    results_all.update(results_len)
 
     with open(f"{checkpoint_folder_path}results-{data_source}.json", "w") as f:
-        json.dump(results, f)
+        json.dump(results_all, f, indent=2)
