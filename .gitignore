@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.pth
+*.pt
+*.egg-info/
+.DS_Store
+runs/
+*.log
+embedded_dataset/
+.venv/
